@@ -1,0 +1,340 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0.5em;
+  box-sizing: border-box;
+}
+
+nav {
+  margin-bottom: 2em;
+}
+
+.main {
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #ffd700;
+  font-size: 48px;
+  margin-top: 30px;
+  margin-top: 0;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: darkgoldenrod;
+}
+
+iframe {
+  width: 100%;
+  height: 100vh;
+  margin: 1em auto;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 1em;
+}
+
+.input-group input {
+  width: 95%;
+  padding: 10px;
+  font-size: 28px;
+  background-color: #555;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button-group {
+  margin-bottom: 20px;
+}
+
+.button-group button {
+  padding: 16px 32px;
+  font-size: 24px;
+  background-color: #4a4a4a;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button-group button:hover {
+  background-color: #666;
+}
+
+#result-container {
+  margin-top: 20px;
+  display: none;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #333;
+  color: #fff;
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #666;
+}
+
+th {
+  background-color: #555;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #444;
+}
+
+.scroll-button {
+  position: fixed;
+  width: 80px;
+  height: 80px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  font-size: 40px;
+  cursor: pointer;
+  opacity: 0.2;
+  transition: opacity 0.3s ease;
+}
+
+#scrollToTopButton {
+  bottom: 40px;
+  right: 40px;
+}
+
+#scrollToBottomButton {
+  bottom: 140px;
+  right: 40px;
+}
+
+.scroll-button:hover {
+  opacity: 1;
+}
+
+.dark-mode .scroll-button {
+  background-color: #fff;
+  color: #000;
+}
+
+.probabilities-table {
+  border: 2px solid #ddd;
+  background-color: #333;
+  color: #fff;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.probabilities-table thead th {
+  padding: 0.6em;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+}
+
+.probabilities-table tbody td {
+  padding: 0.7em;
+  border-bottom: 1px solid #ddd;
+}
+
+.probabilities-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.probabilities-table tbody tr:nth-child(even) {
+  background-color: #444;
+}
+
+.probabilities-table tbody tr:nth-child(odd) {
+  background-color: #222;
+}
+
+.probabilities-table tbody td:nth-child(1),
+.probabilities-table tbody td:nth-child(2) {
+  font-family: "Courier New", monospace;
+  font-size: 28px;
+  white-space: nowrap;
+  border-right: 1px solid #ddd;
+  padding-right: 0.3em;
+}
+
+.probabilities-table tbody td:nth-child(2) {
+  font-weight: bold;
+  border-left: 1px solid #ddd;
+  padding-left: 0.3em;
+}
+
+.probabilities-table tbody td:nth-child(3),
+.probabilities-table tbody td:nth-child(4),
+.probabilities-table tbody td:nth-child(5) {
+  text-align: center;
+  font-size: 40px;
+}
+
+.probabilities-table tbody td:nth-child(3) {
+  color: #a5d6a7;
+}
+
+.probabilities-table tbody td:nth-child(4) {
+  color: #ffcc80;
+}
+
+.probabilities-table tbody td:nth-child(5) {
+  color: #ef9a9a;
+}
+
+.data-control {
+  display: flex;
+  align-items: center;
+}
+
+.data-control .button-group:last-child {
+  margin-right: 0;
+}
+
+.load {
+  margin-top: 10px;
+}
+
+.load .input-group input[type="file"],
+.input-group input[type="file"] {
+  display: none;
+}
+
+.load .input-group label,
+.data-control .button-group button,
+.button-group button[type="button"] {
+  background-color: #4a4a4a;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.load .input-group label:hover,
+.data-control .button-group button:hover,
+.button-group button[type="button"]:hover {
+  background-color: #e1e1e1;
+}
+
+.table-container {
+  overflow-x: auto;
+  /* Enable horizontal scrolling on small screens */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.2em;
+  }
+
+  .input-group input {
+    width: 90%;
+    padding: 5px;
+    font-size: 0.8em;
+  }
+
+  .button-group button {
+    font-size: 0.8em;
+  }
+
+  table {
+    font-size: 0.8em;
+  }
+
+  .probabilities-table thead th {
+    font-size: 0.3em;
+  }
+
+  .probabilities-table tbody td {
+    padding: 4px;
+  }
+
+  .probabilities-table thead th:nth-child(1),
+  .probabilities-table tbody td:nth-child(1) {
+    display: none;
+  }
+
+  .probabilities-table tbody td:nth-child(2) {
+    font-size: 0.4em;
+  }
+
+  .probabilities-table tbody td:nth-child(3),
+  .probabilities-table tbody td:nth-child(4),
+  .probabilities-table tbody td:nth-child(5) {
+    font-size: 0.4em;
+  }
+
+  .scroll-button {
+    width: 2em;
+    height: 2em;
+    font-size: 1.2em;
+  }
+
+  #scrollToTopButton {
+    bottom: 40px;
+    right: 40px;
+  }
+
+  #scrollToBottomButton {
+    bottom: 110px;
+    right: 40px;
+  }
+}
