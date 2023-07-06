@@ -1,74 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
+  <head>
     <title>Strategy Calculator - Probability Calculator</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
     <script src="index.js"></script>
-</head>
+  </head>
 
-<body>
+  <body>
     <div class="container">
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="calculator.html">Strategy</a></li>
-                <li class="active"><a href="#">Probability</a></li>
-                <li><a href="oddsportal.html">Odds Portal</a></li>
-                <li><a href="soccerrating.html">Soccer Rating</a></li>
-            </ul>
-        </nav>
-        <button id="scrollToTopButton" class="scroll-button" title="Scroll to Top">▲</button>
-        <button id="scrollToBottomButton" class="scroll-button" title="Scroll to Bottom">▼</button>
-        <div class="main">
-            <h1>Probability Calculator</h1>
-            <div class="input-group">
-                <input type="text" id="input-odds" placeholder="Enter odds separated by spaces" oninput="sanitizeInput()">
-            </div>
-            <div class="button-group">
-                <button onclick="calculateProbabilities()">Calculate</button>
-            </div>
-            <div class="prob-container">
-                <div class="table-container">
-                    <table id="probabilities-table" class="probabilities-table">
-                        <thead>
-                            <tr>
-                                <th>Time</th>
-                                <th>Odds</th>
-                                <th>Home</th>
-                                <th>Draw</th>
-                                <th>Away</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                        </tbody>
-                    </table>
-                </div>
-                <div class="buttons">
-                    <div class="data-control">
-                        <div class="button-group">
-                            <button onclick="downloadTableDataCSV()">Download CSV</button>
-                        </div>
-                        <div class="button-group">
-                            <button onclick="downloadTableData()">Download HTML </button>
-                        </div>
-                        <div class="button-group">
-                            <button onclick="clearLocalStorage()">Clear All</button>
-                        </div>
-                    </div>
-                    <div class="load">
-                        <div class="input-group">
-                            <input type="file" id="csv-file" accept=".csv">
-                            <label for="csv-file">Select CSV File</label>
-                        </div>
-                        <div class="button-group">
-                            <button onclick="loadDataFromCSV()">Load from CSV</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="calculator.html">Strategy</a></li>
+          <li class="active"><a href="#">Probability</a></li>
+          <li><a href="oddsportal.html">Odds Portal</a></li>
+          <li><a href="soccerrating.html">Soccer Rating</a></li>
+        </ul>
+      </nav>
+      <button
+        id="scrollToTopButton"
+        class="scroll-button"
+        title="Scroll to Top"
+      >
+        ▲
+      </button>
+      <button
+        id="scrollToBottomButton"
+        class="scroll-button"
+        title="Scroll to Bottom"
+      >
+        ▼
+      </button>
+      <div class="main">
+        <h1>Probability Calculator</h1>
+        <div class="input-group">
+          <input
+            type="text"
+            id="input-odds"
+            placeholder="Enter odds separated by spaces"
+            oninput="sanitizeInput()"
+          />
         </div>
+        <div class="button-group">
+          <button onclick="calculateProbabilities()">Calculate</button>
+        </div>
+        <div class="prob-container">
+          <div class="table-container">
+            <table id="probabilities-table" class="probabilities-table">
+              <thead>
+                <tr>
+                  <th>Time</th>
+                  <th>Odds</th>
+                  <th>Home</th>
+                  <th>Draw</th>
+                  <th>Away</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div class="buttons">
+            <div class="data-control">
+              <div class="button-group">
+                <button onclick="downloadTableDataCSV()">Download CSV</button>
+              </div>
+              <div class="button-group">
+                <button onclick="downloadTableData()">Download HTML</button>
+              </div>
+              <div class="button-group">
+                <button onclick="clearLocalStorage()">Clear All</button>
+              </div>
+            </div>
+            <div class="load">
+              <div class="input-group">
+                <input type="file" id="csv-file" accept=".csv" />
+                <label for="csv-file">Select CSV File</label>
+              </div>
+              <div class="button-group">
+                <button onclick="loadDataFromCSV()">Load from CSV</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-</body>
-
+  </body>
 </html>
