@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Predictions</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css" />
+</head>
+
+<body>
+    <!-- Display the loading animation -->
+    <div class="loading-container" id="loading-screen">
+        <div class="loading-spinner"></div>
+        <div class="message">
+            <p>Loading predicted data...</p>
+            <p>This may be resource intensive depending your device.</p>
+            <p>Please bare with us...</p>
+        </div>
+    </div>
+    <button id="scrollToTopButton" class="scroll-button" title="Scroll to Top">
+        ▲
+    </button>
+    <button id="scrollToBottomButton" class="scroll-button" title="Scroll to Bottom">
+        ▼
+    </button>
+    <nav>
+        <ul>
+            <li><a href="./" id="nav-home">Home</a></li>
+            <li><a href="./calculator" id="nav-strategy">Strategy</a></li>
+            <li><a href="./prob" id="nav-probability">Probability</a></li>
+            <li class="dropdown active">
+                <a href="#" id="nav-predictions">Predictions</a>
+                <ul id="dropdown">
+                    <li><a href="#upcoming" id="nav-upcoming">Upcoming</a></li>
+                    <li><a href="#past" id="nav-past">Past</a></li>
+                </ul>
+            </li>
+            <li><a href="./oddsportal" id="nav-odds-portal">Odds Portal</a></li>
+            <li><a href="./soccerrating" id="nav-soccer-rating">Soccer Rating</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <div class="main">
+                <div id="row-details-container"></div>
+            <h1>Predictions</h1>
+            <section id="upcoming">
+                <h2>Upcoming Predictions</h2>
+                <select id="upcoming-date-filter" aria-controls="dataTable">
+                    <option value="" selected>All</option>
+                </select>
+                <table id="dataTable" class="display"></table>
+            </section>
+            <section id="past">
+                <h2>Past Predictions</h2>
+                <input type="date" id="past-date-filter" max="" placeholder="Filter by Date (yyyy-MM-dd)" aria-controls="dataTable1">
+                <table id="dataTable1" class="display"></table>
+
+            </section>
+        </div>
+    </div>
+    <script src="js/chart.js"></script>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/jquery.dataTables.min.js"></script>
+    <script src="js/papaparse.min.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>
