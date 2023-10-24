@@ -34,6 +34,10 @@
      border-radius: .5rem;
      margin-bottom: 3.5rem;
      box-sizing: border-box;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
  }
 
  section:hover {
@@ -364,7 +368,7 @@
  }
 
  #past-date-filter {
-    background-color: #111;
+    background-color: #222;
  }
 
  #dataTable_length,
