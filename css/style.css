@@ -38,6 +38,8 @@
      justify-content: center;
      align-items: center;
      flex-direction: column;
+     box-sizing: border-box;
+     overflow: auto;
  }
 
  section:hover {
@@ -359,8 +361,7 @@
      margin: .8em;
      padding: .8em;
      font-size: 1em;
-     color: #ccc;
-     text-align: center;
+     color: #ffffff;
  }
 
  #upcoming-date-filter {
@@ -368,7 +369,8 @@
  }
 
  #past-date-filter {
-    background-color: #222;
+    color: black;
+    background-color: #bfbdbd;
  }
 
  #dataTable_length,
@@ -388,6 +390,10 @@
  #dataTable1 td,
  #dataTable1 th {
      font-size: .6em;
+ }
+
+  #dataTable_wrapper, #dataTable1_wrapper {
+    width: 100%;
  }
 
  .shrink-style {
