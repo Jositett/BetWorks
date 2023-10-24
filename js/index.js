@@ -479,7 +479,7 @@ function loadTable(csvFile, tableId) {
                 $("#" + tableId).empty();
                 $("#" + tableId).DataTable({
                     data: filteredData,
-                    paginate: false,
+                    paginate: true,
                     columns: getColumns(results.meta.fields),
                     scrollY: "100%",
                     scrollX: true,
