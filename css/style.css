@@ -27,7 +27,7 @@
  }
 
  section {
-     min-height: 100vh;
+     max-height: 100vh;
      padding: 2rem .75rem;
      border: .05rem solid #fff;
      box-shadow: 0 0 .8rem #fff;
@@ -393,6 +393,7 @@
 
   #dataTable_wrapper, #dataTable1_wrapper {
     width: 100%;
+    max-height: 100vh;
  }
 
  .shrink-style {
