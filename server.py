@@ -15,7 +15,7 @@ def serve_folder(path):
     """Determine which folder to ser on localhost"""
     if not path:
         # Serve index.html if no specific file is requested
-        path = 'index.html'
+        path = 'predictions.html'
     return send_from_directory(folder_to_serve, path)
 
 

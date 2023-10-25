@@ -8,16 +8,33 @@
 
   <body>
     <div class="container">
-      <nav>
+    <nav>
         <ul>
-          <li><a href="./">Home</a></li>
-          <li><a href="./calculator">Strategy</a></li>
-          <li class="active"><a href="#">Probability</a></li>
-          <li><a href="./predictions">Predictions</a></li>
-          <li><a href="./oddsportal">Odds Portal</a></li>
-          <li><a href="./soccerrating">Soccer Rating</a></li>
+            <li><a href="./" id="nav-home">Home</a></li>
+            <li><a href="./calculator" id="nav-strategy">Strategy</a></li>
+            <li><a class="active" href="#" id="nav-probability">Probability</a></li>
+            <li class="dropdown">
+                <a href="./predictions" id="nav-predictions">Predictions</a>
+                <ul id="dropdown">
+                    <li><a href="#upcoming" id="nav-upcoming">Upcoming</a></li>
+                    <li><a href="#past" id="nav-past">Past</a></li>
+                </ul>
+            </li>
+            <li><a href="./about" id="nav-about">About</a></li>
+            <li class="dropdown">
+                <a href="#" id="nav-predictions">Sources</a>
+                <ul id="dropdown">
+                    <li><a href="https://www.oddsportal.com/matches/football" id="nav-odds-portal" target="_blank">Odds Portal &nbsp;<i class="bx bx-link-external"></i></a></li>
+                    <li>
+                        <a href="https://www.soccer-rating.com/today-prediction" id="nav-soccer-rating" target="_blank">Soccer Rating &nbsp;<i class="bx bx-link-external"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://www.sofascore.com" id="nav-soccer-rating" target="_blank">Sofascore &nbsp;<i class="bx bx-link-external"></i></a>
+                    </li>
+                </ul>
+            </li>
         </ul>
-      </nav>
+    </nav>
       <button
         id="scrollToTopButton"
         class="scroll-button"
@@ -86,5 +103,37 @@
         </div>
       </div>
     </div>
+    <footer>
+    <div class="footer-container">
+        <div class="footer-section links">
+            <h4>Quick Links</h4>
+            <ul>
+                <li><a href="./">Home</a></li>
+                <li><a href="./about">About</a></li>
+                <li><a href="https://wa.me/233540511227"> WhatsApp </a></li>
+                <li><a href="./calculator">Strategy</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-section contact">
+            <h4>Contact Information</h4>
+            <p>WhatsApp: <a href="https://wa.me/233540511227">+233 54 051 1227&nbsp; <i class="bx bx-message-rounded"></i> </a></p>
+            <p>Phone: +233 54 051 1227</p>
+        </div>
+
+        <div class="footer-section social">
+            <h4>Follow Us</h4>
+            <a href="#"><i class='bx bxl-facebook'></i></a>
+            <a href="#"><i class='bx bxl-twitter'></i></a>
+            <a href="#"><i class='bx bxl-instagram-alt'></i></a>
+            <a href="#"><i class='bx bxl-linkedin'></i></a>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        &copy; 2023 BetWorkz. All rights reserved.
+    </div>
+</footer>
+
   </body>
 </html>

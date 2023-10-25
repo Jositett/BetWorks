@@ -1,19 +1,18 @@
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Strategy Calculator - Strategy Calculator</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/boxicons.min.css">
     <script src="js/index.js"></script>
-  </head>
-
-  <body>
-    <div class="container">
+    <title>About BetWorkz</title>
+</head>
+<body>
     <nav>
         <ul>
             <li><a href="./" id="nav-home">Home</a></li>
-            <li><a class="active" href="#" id="nav-strategy">Strategy</a></li>
+            <li><a href="./calculator" id="nav-strategy">Strategy</a></li>
             <li><a href="./prob" id="nav-probability">Probability</a></li>
             <li class="dropdown">
                 <a href="./predictions" id="nav-predictions">Predictions</a>
@@ -22,7 +21,7 @@
                     <li><a href="#past" id="nav-past">Past</a></li>
                 </ul>
             </li>
-            <li><a  href="./about" id="nav-about">About</a></li>
+            <li><a class="active" href="#" id="nav-about">About</a></li>
             <li class="dropdown">
                 <a href="#">Sources</a>
                 <ul id="dropdown">
@@ -37,50 +36,33 @@
             </li>
         </ul>
     </nav>
-      <button
-        id="scrollToTopButton"
-        class="scroll-button"
-        title="Scroll to Top"
-      >
-        ▲
-      </button>
-      <button
-        id="scrollToBottomButton"
-        class="scroll-button"
-        title="Scroll to Bottom"
-      >
-        ▼
-      </button>
-      <div class="main">
-        <h1>Staking Strategy Calculator</h1>
-        <div class="input-group">
-          <label for="target-amount">Target Amount:</label>
-          <input type="number" id="target-amount" step="100" value="1000" />
-        </div>
-        <div class="input-group">
-          <label for="odds">Odds (Default: 1.8):</label>
-          <input type="number" id="odds" step="0.1" value="1.8" />
-        </div>
-        <div class="input-group">
-          <label for="starting-capital">Starting Capital (Default: 3):</label>
-          <input type="number" id="starting-capital" step="0.25" value="3" />
-        </div>
-        <div class="input-group">
-          <label for="savings-percentage">Savings Percentage:</label>
-          <input
-            type="number"
-            id="savings-percentage"
-            step="0.05"
-            min="0.1"
-            max="1"
-            value="0.2"
-          />
-        </div>
-        <div class="button-group">
-          <button onclick="calculateBets()">Calculate</button>
-        </div>
-        <div id="result-container"></div>
-      </div>
+    <div class="container">
+    <header>
+        <h1>About BetWorkz</h1>
+    </header>
+        <section>
+        <h2>Our Mission</h2>
+        <p>BetWorkz is dedicated to providing a safe and responsible betting environment for BetWorkers. We aim to help users plan their bets and make informed decisions while promoting responsible gambling.</p>
+
+        <h2>How to Use BetWorkz</h2>
+        <p>Using BetWorkz is simple. Just follow these steps:
+        <ol>
+            <li>Clone this repository.</li>
+            <li>Open <code>index.html</code> in your web browser.</li>
+            <li>Start using BetWorkz to plan your bets and manage your gambling responsibly.</li>
+        </ol></p>
+
+        <h2>Contribution</h2>
+        <p>If you're interested in contributing to BetWorkz, please fork this repository, make your changes, and submit a pull request. We welcome contributions from the open-source community.</p>
+
+        <h2>Donation</h2>
+        <p>If you find BetWorkz helpful and would like to support its development, you can make a donation. Your contributions help us maintain and improve this platform.
+        <ul class="donate" id="donation">
+            <li><a href="https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_BUTTON_ID">Donate via PayPal</a></li>
+            <li>Bitcoin Address: YOUR_BITCOIN_ADDRESS</li>
+        </ul>
+        Your donations are greatly appreciated!</p>
+        </section>
     </div>
     <footer>
     <div class="footer-container">
@@ -114,5 +96,5 @@
     </div>
 </footer>
 
-  </body>
+</body>
 </html>

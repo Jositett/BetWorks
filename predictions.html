@@ -3,8 +3,12 @@
 
 <head>
     <title>Predictions</title>
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/boxicons.min.css">
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
+    <!-- DataTables Responsive CSS -->
+    <link rel="stylesheet" type="text/css" href="css/responsive.dataTables.min.css">
 </head>
 
 <body>
@@ -35,34 +39,82 @@
                     <li><a href="#past" id="nav-past">Past</a></li>
                 </ul>
             </li>
-            <li><a href="./oddsportal" id="nav-odds-portal">Odds Portal</a></li>
-            <li><a href="./soccerrating" id="nav-soccer-rating">Soccer Rating</a></li>
+            <li><a href="./about" id="nav-about">About</a></li>
+            <li class="dropdown">
+                <a href="#">Sources</a>
+                <ul id="dropdown">
+                    <li><a href="https://www.oddsportal.com/matches/football" id="nav-odds-portal" target="_blank">Odds Portal &nbsp;<i class="bx bx-link-external"></i></a></li>
+                    <li>
+                        <a href="https://www.soccer-rating.com/today-prediction" id="nav-soccer-rating" target="_blank">Soccer Rating &nbsp;<i class="bx bx-link-external"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://www.sofascore.com" id="nav-soccer-rating" target="_blank">Sofascore &nbsp;<i class="bx bx-link-external"></i></a>
+                    </li>
+                </ul>
+            </li>
         </ul>
     </nav>
     <div class="container">
         <div class="main">
-                <div id="row-details-container"></div>
+            <div id="row-details-container"></div>
             <h1>Predictions</h1>
             <section id="upcoming">
-                <h2>Upcoming Predictions</h2>
-                <select id="upcoming-date-filter" aria-controls="dataTable">
-                    <option value="" selected>All</option>
-                </select>
+                <div class="section-header">
+                    <h2>Upcoming Predictions</h2>
+                    <select id="upcoming-date-filter" aria-controls="dataTable">
+                        <option value="" selected>All</option>
+                    </select>
+                </div>
                 <table id="dataTable" class="display"></table>
             </section>
             <section id="past">
-                <h2>Past Predictions</h2>
-                <input type="date" id="past-date-filter" max="" placeholder="Filter by Date (yyyy-MM-dd)" aria-controls="dataTable1">
+                <div class="section-header">
+                    <h2>Past Predictions</h2>
+                    <input type="date" id="past-date-filter" max="" placeholder="Filter by Date (yyyy-MM-dd)" aria-controls="dataTable1" />
+                </div>
                 <table id="dataTable1" class="display"></table>
-
             </section>
         </div>
     </div>
-    <script src="js/chart.js"></script>
-    <script src="js/jquery-3.6.0.min.js"></script>
-    <script src="js/jquery.dataTables.min.js"></script>
-    <script src="js/papaparse.min.js"></script>
-    <script src="js/index.js"></script>
+    <footer>
+    <div class="footer-container">
+        <div class="footer-section links">
+            <h4>Quick Links</h4>
+            <ul>
+                <li><a href="./">Home</a></li>
+                <li><a href="./about">About</a></li>
+                <li><a href="https://wa.me/233540511227"> WhatsApp </a></li>
+                <li><a href="./calculator">Strategy</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-section contact">
+            <h4>Contact Information</h4>
+            <p>WhatsApp: <a href="https://wa.me/233540511227">+233 54 051 1227&nbsp; <i class="bx bx-message-rounded"></i> </a></p>
+            <p>Phone: +233 54 051 1227</p>
+        </div>
+
+        <div class="footer-section social">
+            <h4>Follow Us</h4>
+            <a href="#"><i class='bx bxl-facebook'></i></a>
+            <a href="#"><i class='bx bxl-twitter'></i></a>
+            <a href="#"><i class='bx bxl-instagram-alt'></i></a>
+            <a href="#"><i class='bx bxl-linkedin'></i></a>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        &copy; 2023 BetWorkz. All rights reserved.
+    </div>
+</footer>
+    <script type="text/javascript" charset="utf8" src="js/chart.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/jquery-3.6.0.min.js"></script>
+    <!-- DataTables JavaScript -->
+    <script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script>
+    <!-- DataTables Responsive JavaScript -->
+    <script type="text/javascript" charset="utf8" src="js/dataTables.responsive.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/papaparse.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/index.js"></script>
 </body>
 
 </html>
