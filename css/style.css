@@ -667,5 +667,16 @@ footer a:hover {
 }
 
 #donation {
-    display: none;
+    display: inline-block;
+    background-color: var(--main-color);
+    padding: 1.5em;
+    margin: 1.5em;
+    border-radius: 2em;
+}
+
+#btc-address {
+    font-weight: bold;
+    background-color: var(--second-bg-color);
+    border-radius: .5em;
+    padding: .25em;
 }
