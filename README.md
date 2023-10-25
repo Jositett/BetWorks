@@ -27,13 +27,9 @@ We welcome contributions from the open-source community. If you'd like to improv
 
 If you find BetWorkz helpful and would like to support its development, you can make a donation. Your contributions help us maintain and improve this platform.
 
-### PayPal
-
-- **[Donate via PayPal](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_BUTTON_ID)**
-
 ### Bitcoin
 
-- **Bitcoin Address:** YOUR_BITCOIN_ADDRESS
+- **Bitcoin Address:** 1NrHbaqnVN52HUhDfbvfsRHJYKN5rMYjk
 
 Your donations are greatly appreciated!
 
