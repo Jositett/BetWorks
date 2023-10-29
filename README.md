@@ -19,6 +19,9 @@ BetWorkz is a web application designed to help users plan their bets, make infor
 2. Open `index.html` in your web browser.
 3. Start using BetWorkz to plan your bets and manage your gambling responsibly.
 
+#### Or
+The project is hosted on github pages at: [BetWorkz](https://jositett.github.io/BetWorks/)
+
 ## Contribution
 
 We welcome contributions from the open-source community. If you'd like to improve BetWorkz or fix issues, please fork this repository, make your changes, and submit a pull request.
