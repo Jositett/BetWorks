@@ -76,7 +76,7 @@ function calculateBets() {
         ${resultRows.join("")}
       </tbody>
     </table>
-    <p>Total Bets Placed: ${betCount - 1}</p>
+    <p>Bets To Be Placed: ${betCount - 1}</p>
     <p>Final Capital: ${currentCapital.toFixed(2)}</p>
     <p>Total Amount Saved: ${totalSaved.toFixed(2)}</p>
     <p>Estimated Time to Reach the Limit: ${estimatedDuration.toFixed(2)} hours</p>
