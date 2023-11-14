@@ -1,55 +1,57 @@
 Datetime,Pairing,Home,Draw,Away,League,Ratings Diff,Home Goals Est,Away Goals Est,OU Est,1X2 Est,Goal Diff Est,Total Goals Est,Goal Diff
-2023-11-12 23:00:00,Coquimbo Unido - Deportes Copiapo,1.72,3.75,4.4,CL1,58.62,1.66,0.91,O,1,1X/12,2.48,0.75
-2023-11-12 23:00:00,Deportivo Cali - Rionegro Aguilas,2.25,3.25,2.87,CO1,-7.41,1.1,1.33,U,2,2X,2.34,-0.23
-2023-11-12 23:00:00,Arnett Gardens FC - Tivoli Gardens FC,1.53,3.8,4.8,JM1,166.08,1.58,0.86,O,1,1X/12,2.42,0.72
-2023-11-12 23:00:00,Emelec - Barcelona SC,2.6,2.95,2.45,EC1,-65.58,1.25,1.05,O,1,1X,2.22,0.2
-2023-11-12 23:00:00,Union Espanola - O´Higgins,2.0,3.4,3.6,CL1,44.7,1.28,0.95,O,1,1X,2.13,0.33
-2023-11-12 23:00:00,Deportivo Xinabajul - Deportivo Mixco,1.88,3.3,3.4,GT1,7.25,1.21,0.77,U,1,1X,1.96,0.44
-2023-11-12 23:05:00,Venados FC - Club Atletico La Paz,1.68,3.6,4.0,MX2,29.26,1.69,1.23,U,1,1X,2.76,0.46
-2023-11-12 23:30:00,Oriente Petrolero - Aurora Cochabamba,1.88,3.25,3.5,BO1,-4.21,1.24,0.89,U,1,1X,2.06,0.35
-2023-11-13 00:00:00,Columbus Crew - Atlanta United,1.6,4.33,4.75,US1,86.45,1.89,1.04,O,1,1X/12,2.94,0.85
-2023-11-13 00:00:00,Cruz Azul - Puebla,1.85,3.8,3.6,MX1,91.01,1.73,0.87,O,1,1X/12,2.7,0.86
-2023-11-13 00:00:00,Sporting San Jose - Santos de Guapiles,1.9,3.3,3.4,CR1,14.48,1.4,0.75,U,1,1X,2.11,0.65
-2023-11-13 00:30:00,America de Cali - Independiente Medellin,2.05,3.25,3.25,CO1,-8.19,1.44,1.19,U,2,1X,2.56,0.25
-2023-11-13 02:05:00,Leon - FC Juarez,1.39,4.8,6.75,MX1,160.95,2.22,0.86,O,1,1X/12,3.05,1.36
-2023-11-13 11:00:00,TRAU FC - Gokulam Kerala FC,4.6,3.9,1.55,IN2,-198.02,0.66,1.93,O,2,2X/12,2.52,-1.27
-2023-11-13 13:30:00,Rajasthan United - Churchill Brothers,3.7,3.4,1.78,IN2,-110.4,0.95,1.34,U,2,2X,2.3,-0.39
-2023-11-13 14:00:00,El Ahly - El Ettehad El Sakandary,1.25,5.25,8.75,EG1,283.0,1.76,0.73,U,1,1X/12,2.52,1.03
-2023-11-13 15:30:00,CSA Steaua Bukarest - FK Csikszereda Miercurea Ciuc,1.93,3.2,3.4,RO2,27.83,0.99,0.83,U,1,1X,1.79,0.16
-2023-11-13 17:00:00,Velez Mostar - Zrinjski Mostar,3.3,3.2,1.98,BA1,-251.5,1.0,1.25,U,2,2X,2.21,-0.25
-2023-11-13 18:00:00,Ruch Chorzow - Radomiak Radom,2.7,3.4,2.45,PL1,-69.82,1.45,1.37,U,1,1X,2.75,0.08
-2023-11-13 18:00:00,Hobro IK - Hillerod Fodbold,2.3,3.3,2.75,DK2,-15.79,1.16,1.23,O,2,2X,2.32,-0.07
-2023-11-13 18:30:00,UTA Batrana Doamna - Otelul Galati,2.55,3.0,2.7,RO1,-34.75,0.81,1.04,U,2,2X,1.68,-0.23
-2023-11-13 19:30:00,AZ Picerno - Potenza SC,1.8,3.3,3.8,IT3C,54.57,1.29,1.03,O,1,1X,2.26,0.26
-2023-11-13 19:45:00,Juve Stabia - Foggia Calcio,2.15,2.95,3.1,IT3C,-9.91,0.96,0.82,U,X,1X,1.71,0.14
-2023-11-13 19:45:00,Pescara Calcio - Rimini Calcio,1.36,4.5,6.5,IT3B,149.22,2.19,0.77,O,1,1X/12,2.94,1.42
-2023-11-13 19:45:00,Coleraine FC - Glentoran FC,2.75,3.4,2.25,NI1,-76.96,0.95,1.29,U,X,2X,2.26,-0.34
-2023-11-13 19:45:00,Benevento Calcio - Giugliano Calcio,1.47,3.7,6.0,IT3C,189.45,1.55,0.74,U,1,1X/12,2.2,0.81
-2023-11-13 19:45:00,Pro Vercelli 1892 FC - Novara Calcio,1.9,3.2,3.5,IT3A,73.09,1.44,1.07,U,1,1X,2.39,0.37
-2023-11-13 19:45:00,AS Lucchese Libertas - Virtus Entella,2.45,3.0,2.6,IT3B,-54.52,1.0,1.17,U,2,2X,2.15,-0.17
-2023-11-13 20:00:00,Real Oviedo - FC Cartagena,1.72,3.25,4.8,ES2,111.85,1.49,0.66,U,1,1X/12,1.98,0.83
-2023-11-13 20:00:00,Le Mans UC 72 - Berrichonne Chateauroux,1.87,3.25,3.6,FR3,63.99,1.52,0.97,O,1,1X,2.51,0.55
-2023-11-13 21:00:00,Resistencia FC - Guarani,3.6,3.6,1.77,PY1,-161.52,1.2,1.56,U,2,2X,2.82,-0.36
-2023-11-13 22:00:00,Club Atletico Sarmiento - Godoy Cruz,2.95,2.95,2.5,AR1,-108.27,1.03,1.08,O,2,2X,2.11,-0.05
-2023-11-13 23:30:00,Sportivo Trinidense - Nacional Asuncion,2.8,3.2,2.2,PY1,-95.55,1.34,1.08,U,1,1X,2.29,0.26
-2023-11-13 23:30:00,Royal Pari FC - CD Vaca Diez,1.49,4.2,5.0,BO1,100.69,2.35,0.74,O,1,1X/12,3.05,1.61
-2023-11-14 00:00:00,Instituto AC Cordoba - Barracas Central,1.85,3.2,4.4,AR1,95.82,1.26,0.72,U,1,1X,1.89,0.54
-2023-11-14 00:00:00,Delfin SC - Deportivo Cuenca,1.75,3.4,4.0,EC1,34.04,1.64,0.79,U,1,1X/12,2.47,0.85
-2023-11-14 00:30:00,Deportes Tolima - Atletico Junior,1.98,3.2,3.5,CO1,-36.6,1.19,1.12,U,1,1X,2.26,0.07
-2023-11-14 13:30:00,Neroca FC - Aizawl FC,2.35,3.4,2.45,IN2,-7.6,1.7,1.31,O,1,1X,2.91,0.39
-2023-11-14 14:00:00,Paradou AC - CR Belouizdad,1.87,3.1,3.8,DZ1,-9.75,1.39,0.83,U,1,1X,2.15,0.56
-2023-11-14 17:45:00,FC Rosengard (W) - Eintracht Frankfurt (W),6.25,4.6,1.41,WCLCUP,-265.41,0.81,2.2,O,2,2X/12,2.92,-1.39
-2023-11-14 17:45:00,SKN St. Pölten (W) - Brann Bergen (W),1.85,3.7,3.6,WCLCUP,21.65,1.67,0.89,U,1,1X/12,2.54,0.78
-2023-11-14 19:30:00,Racing Montevideo - Montevideo City,2.2,3.2,3.0,UY1,-8.13,1.18,0.87,U,1,1X,1.93,0.31
-2023-11-14 19:30:00,Horsham FC - Barnsley FC,10.5,6.5,1.25,UKFACUP,-449.72,0.6,2.22,O,2,2X/12,2.92,-1.62
-2023-11-14 19:45:00,York City - Chester FC,2.2,3.7,3.0,UKFACUP,-10.38,1.52,1.21,U,X,1X,2.66,0.31
-2023-11-14 19:45:00,Grimsby Town - Slough Town FC,1.52,4.6,5.5,UKFACUP,147.9,1.98,0.97,O,1,1X/12,2.85,1.01
-2023-11-14 19:45:00,Forest Green Rovers - Scarborough Athletic,1.53,4.5,5.5,UKFACUP,153.62,1.98,1.11,O,1,1X/12,3.06,0.87
-2023-11-14 19:45:00,Accrington Stanley - Doncaster Rovers,2.2,3.6,3.0,UKFACUP,8.21,1.71,1.29,O,X,1X,3.0,0.42
-2023-11-14 19:45:00,Derby County - Crewe Alexandra,1.36,5.25,7.75,UKFACUP,248.72,1.78,0.85,O,1,1X/12,2.48,0.93
-2023-11-14 19:45:00,Burton Albion - Port Vale,2.2,3.5,3.1,UKFACUP,-13.91,1.53,0.92,U,1,1X,2.48,0.61
-2023-11-14 19:45:00,Cove Rangers - Montrose FC,1.73,3.7,3.7,SC3,75.17,1.47,1.16,O,1,1X,2.59,0.31
-2023-11-14 19:45:00,Salford City FC - Peterborough United,3.4,3.75,2.0,UKFACUP,-184.59,1.37,1.55,O,2,2X,2.76,-0.18
-2023-11-14 20:00:00,SK Slavia Praha (W) - Olympique Lyon (W),34.0,13.0,1.05,WCLCUP,-455.74,0.59,3.74,O,2,2X/12,4.26,-3.15
-2023-11-14 20:00:00,FC Barcelona (W) - SL Benfica Lisbon (W),1.02,19.5,56.0,WCLCUP,700.92,3.83,0.39,O,1,1X/12,4.01,3.44
-2023-11-14 22:00:00,Guarani SP - Criciuma EC,2.2,3.0,3.2,BR2,-54.6,1.09,0.75,U,X,1X,1.84,0.34
+2023-11-13 23:30:00,Royal Pari FC - CD Vaca Diez,1.37,4.6,6.0,BO1,123.81,1.62,1.17,O,2,1X,2.69,0.45
+2023-11-13 23:30:00,Sportivo Trinidense - Nacional Asuncion,2.87,3.1,2.2,PY1,-97.69,1.27,1.01,U,1,1X,2.27,0.26
+2023-11-14 00:00:00,Instituto AC Cordoba - Barracas Central,1.72,3.2,5.5,AR1,121.53,1.33,0.59,U,1,1X/12,1.73,0.74
+2023-11-14 00:00:00,Delfin SC - Deportivo Cuenca,1.55,3.6,5.0,EC1,63.97,1.75,0.62,O,1,1X/12,2.3,1.13
+2023-11-14 00:30:00,Deportes Tolima - Atletico Junior,2.1,2.95,3.5,CO1,-41.71,1.25,0.69,U,X,1X,1.84,0.56
+2023-11-14 00:30:00,Cavaliers FC - Waterhouse FC,2.05,3.2,3.0,JM1,32.09,1.22,0.98,U,X,1X,2.07,0.24
+2023-11-14 08:30:00,Shillong Lajong FC - Sreenidi Deccan FC,3.9,3.5,1.73,IN2,-293.43,1.0,1.23,O,2,2X,2.12,-0.23
+2023-11-14 11:00:00,Kosovo U19 (W) - Slovenia U19 (W),9.5,6.25,1.2,EWYQ,-259.21,0.66,2.14,O,2,2X/12,2.78,-1.48
+2023-11-14 11:00:00,Moldova U19 (W) - Azerbaijan (U19) (W),2.25,3.5,2.55,EWYQ,-275.2,1.55,1.34,O,1,1X,2.82,0.21
+2023-11-14 13:30:00,Neroca FC - Aizawl FC,2.8,3.4,2.1,IN2,-36.21,1.3,1.65,O,2,2X,2.85,-0.35
+2023-11-14 14:00:00,Paradou AC - CR Belouizdad,2.55,2.9,2.55,DZ1,-71.35,0.81,0.97,U,2,2X,1.74,-0.16
+2023-11-14 17:45:00,SKN St. Pölten (W) - Brann Bergen (W),2.7,3.7,2.2,WCLCUP,-53.95,1.45,1.39,U,X,1X,2.82,0.06
+2023-11-14 17:45:00,FC Rosengard (W) - Eintracht Frankfurt (W),6.5,4.75,1.39,WCLCUP,-270.05,0.81,2.18,O,2,2X/12,2.73,-1.37
+2023-11-14 18:00:00,ES Setif - USM Alger,1.9,3.1,3.7,DZ1,-0.67,1.04,0.83,U,1,1X,1.88,0.21
+2023-11-14 19:00:00,Atzeneta UE - Real Zaragoza,8.5,5.0,1.36,ESCUP,-367.23,0.81,2.04,U,2,2X/12,2.77,-1.23
+2023-11-14 19:30:00,Racing Montevideo - Montevideo City,2.2,3.3,2.9,UY1,-11.07,1.15,1.1,O,X,1X,2.12,0.05
+2023-11-14 19:30:00,Horsham FC - Barnsley FC,10.5,6.75,1.24,UKFACUP,-450.42,0.78,2.22,O,2,2X/12,3.18,-1.44
+2023-11-14 19:45:00,Salford City FC - Peterborough United,3.5,3.75,1.98,UKFACUP,-187.98,0.96,1.53,O,2,2X,2.45,-0.57
+2023-11-14 19:45:00,Cove Rangers - Montrose FC,1.73,3.7,3.7,SC3,75.17,1.49,1.25,O,1,1X,2.75,0.24
+2023-11-14 19:45:00,Burton Albion - Port Vale,2.3,3.4,3.0,UKFACUP,-20.63,1.38,1.38,O,1,X,2.77,0.0
+2023-11-14 19:45:00,Derby County - Crewe Alexandra,1.36,5.25,7.75,UKFACUP,248.72,1.83,0.85,O,1,1X/12,2.58,0.98
+2023-11-14 19:45:00,Grimsby Town - Slough Town FC,1.51,4.5,5.75,UKFACUP,152.33,2.19,0.92,O,1,1X/12,3.01,1.27
+2023-11-14 19:45:00,Forest Green Rovers - Scarborough Athletic,1.57,4.4,5.25,UKFACUP,147.34,1.91,1.13,O,1,1X/12,2.94,0.78
+2023-11-14 19:45:00,York City - Chester FC,2.2,3.7,3.0,UKFACUP,-10.38,1.49,1.21,U,X,1X,2.68,0.28
+2023-11-14 19:45:00,Accrington Stanley - Doncaster Rovers,2.2,3.6,3.0,UKFACUP,8.21,1.64,1.28,O,X,1X,2.89,0.36
+2023-11-14 20:00:00,SK Slavia Praha (W) - Olympique Lyon (W),36.0,13.5,1.05,WCLCUP,-460.7,0.68,3.93,O,2,2X/12,4.27,-3.25
+2023-11-14 20:00:00,FC Barcelona (W) - SL Benfica Lisbon (W),1.01,31.0,101.0,WCLCUP,753.01,3.09,0.32,O,1,1X/12,3.06,2.77
+2023-11-14 22:00:00,Guarani SP - Criciuma EC,2.2,3.0,3.25,BR2,-53.24,1.0,0.67,U,X,1X,1.64,0.33
+2023-11-14 22:00:00,Plaza Colonia - Liverpool FC Montevideo,3.6,3.4,1.87,UY1,-173.84,0.94,1.51,O,2,2X,2.49,-0.57
+2023-11-15 00:30:00,ABC - EC Juventude,5.5,3.5,1.58,BR2,-275.86,0.52,1.66,U,2,2X/12,2.15,-1.14
+2023-11-15 00:30:00,Penarol Montevideo - Cerro Largo,1.41,4.2,6.75,UY1,202.98,1.88,0.56,O,1,1X/12,2.42,1.32
+2023-11-15 02:00:00,Comunicaciones - CD Zacapa,1.32,4.6,7.5,GT1,170.58,2.14,0.51,O,1,1X/12,2.62,1.63
+2023-11-15 13:00:00,Rwanda - Zimbabwe,2.0,3.2,3.8,CAFQ,88.72,0.99,0.98,O,2,1X,1.93,0.01
+2023-11-15 13:00:00,Equatorial Guinea - Namibia,1.82,3.25,4.6,CAFQ,119.29,1.38,0.78,U,1,1X,1.93,0.6
+2023-11-15 16:00:00,DR Congo - Mauritania,1.47,4.0,7.0,CAFQ,151.35,1.59,0.61,O,1,1X/12,2.05,0.98
+2023-11-15 17:45:00,Paris FC (W) - BK Häcken (W),1.2,6.25,12.5,WCLCUP,190.54,2.29,0.54,O,1,1X/12,2.66,1.75
+2023-11-15 17:45:00,FC Bayern München (W) - AS Roma (W),1.44,4.4,6.0,WCLCUP,165.02,1.66,0.95,O,1,1X/12,2.6,0.71
+2023-11-15 19:00:00,Ethiopia - Sierra Leone,3.3,3.0,2.25,CAFQ,-75.96,0.79,1.04,U,2,2X,1.75,-0.25
+2023-11-15 19:30:00,CA Cerro - Defensor Sporting,3.7,3.3,1.9,UY1,-172.39,0.94,1.71,U,2,2X/12,2.64,-0.77
+2023-11-15 19:45:00,Israel - Switzerland,5.75,4.2,1.55,ECQ,-217.45,0.92,2.17,U,2,2X/12,2.98,-1.25
+2023-11-15 19:45:00,Cray Valley PM FC - Charlton Athletic,9.75,6.75,1.25,UKFACUP,-444.09,0.73,1.99,O,2,2X/12,2.92,-1.26
+2023-11-15 19:45:00,Belgium - Serbia,1.75,3.7,4.33,FR,80.61,1.57,0.89,U,1,1X/12,2.41,0.68
+2023-11-15 20:00:00,Real Madrid (W) - Chelsea LFC (W),2.8,3.5,2.25,WCLCUP,-65.7,1.35,1.28,O,1,1X,2.55,0.07
+2023-11-15 20:00:00,Ajax Amsterdam (W) - Paris Saint Germain (W),11.5,5.75,1.23,WCLCUP,-347.37,0.6,2.15,U,2,2X/12,2.62,-1.55
+2023-11-15 21:00:00,Tepatitlan de Morelos - Mineros de Zacatecas,2.25,3.25,2.75,MX2,-54.71,1.43,1.18,O,1,1X,2.55,0.25
+2023-11-15 21:00:00,Venados FC - Cancun FC,2.2,3.25,2.75,MX2,-38.5,1.46,1.15,O,1,1X,2.57,0.31
+2023-11-18 14:00:00,Gillingham FC - Salford City FC,2.0,3.5,3.4,UK4,29.0,1.38,1.04,O,1,1X,2.5,0.34
+2023-11-18 18:30:00,Cerro Largo - Plaza Colonia,2.5,3.4,2.5,UY1,-20.98,1.3,1.28,U,1,1X,2.49,0.02
+2023-11-18 18:45:00,Israel - Romania,2.75,3.25,2.6,ECQ,-0.18,1.01,0.97,U,2,1X,1.92,0.04
+2023-11-18 19:45:00,Forest Green Rovers - Grimsby Town,2.25,3.5,2.87,UK4,-35.18,1.0,1.4,U,2,2X,2.37,-0.4
+2023-11-18 19:45:00,Accrington Stanley - Wrexham FC,3.1,3.7,2.05,UK4,-152.37,1.38,1.46,O,2,2X,2.79,-0.08
+2023-11-18 21:00:00,Rionegro Aguilas - Deportes Tolima,2.05,3.3,3.25,CO1,-16.16,1.47,1.14,O,1,1X,2.49,0.33
+2023-11-18 21:00:00,Montevideo City - CA Cerro,1.93,3.4,3.5,UY1,73.03,1.24,1.13,U,1,1X,2.27,0.11
+2023-11-19 12:00:00,Liverpool FC Montevideo - Racing Montevideo,1.68,3.6,4.5,UY1,104.0,1.6,0.98,U,1,1X,2.56,0.62
+2023-11-19 18:30:00,Danubio - Penarol Montevideo,3.2,3.1,2.15,UY1,-131.04,1.09,1.11,O,1,2X,2.13,-0.02
+2023-11-19 22:00:00,Guarani SP - ABC,1.28,5.25,8.5,BR2,225.05,1.96,0.98,O,1,1X/12,2.95,0.98
