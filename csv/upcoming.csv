@@ -1,443 +1,467 @@
 Datetime,Pairing,Home,Draw,Away,League,Ratings Diff,Home Goals Est,Away Goals Est,OU Est,1X2 Est,Goal Diff Est,BTTS Est,EVEN/ODD Est,Total Goals Est,Goal Diff
-2024-02-05 23:00:00,Argentina U23 - Venezuela U23,1.7,3.7,4.2,OLQTCUP,111.45,1.64,0.96,O,1,1X/12,GG,ODD,2.54,0.68
-2024-02-05 23:10:00,Deportivo Pasto - Jaguares de Cordoba,1.58,3.3,6.0,CO1,65.02,1.02,0.5,U,1,1X,NG,ODD,1.43,0.52
-2024-02-06 00:30:00,Estudiantes La Plata - Racing Club,2.15,3.1,3.4,AR1,13.56,1.22,1.66,O,2,2X,GG,EVEN,2.75,-0.44
-2024-02-06 00:30:00,Tivoli Gardens FC - Arnett Gardens FC,2.85,2.95,2.3,JM1,-99.14,0.71,1.14,U,2,2X,NG,EVEN,1.71,-0.43
-2024-02-06 01:00:00,CA Banfield - Instituto AC Cordoba,2.5,2.6,3.4,AR1,24.41,1.17,0.87,U,1,1X,NG,EVEN,1.73,0.3
-2024-02-06 01:05:00,Club Atletico Sarmiento - CSD Defensa y Justicia,2.8,2.9,2.65,AR1,-62.59,1.33,1.37,O,1,2X,GG,ODD,2.71,-0.04
-2024-02-06 01:20:00,Independiente Medellin - Deportivo Cali,1.55,4.1,4.8,CO1,114.58,1.84,0.77,O,1,1X/12,NG,ODD,2.49,1.07
-2024-02-06 03:00:00,Wellington Phoenix - Central Coast Mariners,2.95,3.5,2.25,AU1,-126.08,0.96,1.88,U,2,2X/12,GG,EVEN,2.86,-0.92
-2024-02-06 08:00:00,Dewa United FC - PS Barito Putera,2.2,3.3,2.75,ID1,-8.07,1.37,0.99,U,X,1X,NG,EVEN,2.32,0.38
-2024-02-06 08:00:00,Madura United - RANS Nusantara,1.7,3.6,3.9,ID1,56.4,1.05,0.88,O,2,1X,NG,EVEN,1.85,0.17
-2024-02-06 11:30:00,Fatih Karagümrük - Samsunspor,2.25,3.3,2.7,TUCUP,-44.39,1.36,1.11,U,1,1X,NG,EVEN,2.31,0.25
-2024-02-06 12:00:00,Coventry City - Sheffield Wednesday,1.53,4.33,5.75,UKFACUP,142.02,1.59,1.31,O,2,1X,GG,ODD,2.75,0.28
-2024-02-06 12:00:00,Pusamania Borneo FC - Persija Jakarta,1.65,3.5,4.33,ID1,56.69,2.33,0.83,O,1,1X/12,GG,ODD,3.15,1.5
-2024-02-06 13:00:00,US Tataouine - AS Marsa,2.35,2.87,2.85,TN1,-54.74,1.12,1.06,O,1,1X,GG,ODD,2.14,0.06
-2024-02-06 13:00:00,CA Bizertin - ES Metlaoui,1.72,3.0,4.75,TN1,18.94,1.33,0.6,O,1,1X/12,NG,EVEN,1.62,0.73
-2024-02-06 13:00:00,AZ Picerno - Catania Calcio,2.25,3.0,2.87,IT3C,-42.39,0.72,0.79,U,X,2X,NG,EVEN,1.37,-0.07
-2024-02-06 14:30:00,Ankaragücü - Erzincanspor,1.36,4.6,6.5,TUCUP,222.98,1.82,0.53,O,1,1X/12,NG,ODD,2.36,1.29
-2024-02-06 15:00:00,Bristol Rovers - Fleetwood Town,1.65,4.1,4.5,UK3,118.51,2.45,1.02,O,1,1X/12,GG,EVEN,3.34,1.43
-2024-02-06 15:00:00,Port Vale - Leyton Orient,2.7,3.3,2.45,UK3,-62.06,1.4,1.55,O,2,2X,GG,ODD,2.89,-0.15
-2024-02-06 15:00:00,Jordan - South Korea,6.5,4.0,1.5,AFC,-342.46,0.55,1.74,O,2,2X/12,NG,EVEN,2.29,-1.19
-2024-02-06 15:00:00,Cambridge United - Bolton Wanderers,3.6,3.4,1.98,UK3,-179.14,1.23,1.72,O,X,2X,GG,EVEN,3.05,-0.49
-2024-02-06 15:00:00,Southampton FC - Watford FC,1.53,4.6,5.5,UKFACUP,141.14,2.35,1.51,O,1,1X/12,GG,EVEN,3.7,0.84
-2024-02-06 15:00:00,Walsall FC - Morecambe FC,1.8,3.6,4.2,UK4,87.64,1.66,0.68,U,1,1X/12,NG,EVEN,2.28,0.98
-2024-02-06 15:15:00,RCD Mallorca - Real Sociedad,3.5,2.95,2.3,ESCUP,-162.28,0.74,0.85,U,2,2X,NG,EVEN,1.49,-0.11
-2024-02-06 16:00:00,Galatasaray - Bandirmaspor,1.12,8.25,13.5,TUCUP,390.5,2.89,0.53,O,1,1X/12,NG,ODD,3.44,2.36
-2024-02-06 16:00:00,Manama Club - Al Riffa,3.1,3.1,2.15,BH1,-64.02,1.09,0.76,U,1,1X,NG,ODD,1.86,0.33
-2024-02-06 16:00:00,Busaiteen Club - Al Shabab Manama,2.35,3.1,2.7,BH1,-34.67,1.09,1.11,U,X,2X,GG,EVEN,2.05,-0.02
-2024-02-06 16:45:00,Ujpest Budapest - Debrecen VSC,3.3,3.4,2.0,HU1,-113.25,1.0,1.83,O,2,2X/12,GG,EVEN,2.74,-0.83
-2024-02-06 17:00:00,Karmiotissa Polemidion - AEL Limassol FC,2.55,3.2,2.4,CY1,-61.5,1.83,1.43,O,1,1X,NG,EVEN,3.05,0.4
-2024-02-06 17:00:00,Nea Salamina - Aris Limassol,4.6,3.8,1.57,CY1,-242.83,0.99,1.68,O,2,2X/12,GG,EVEN,2.72,-0.69
-2024-02-06 17:30:00,Bayer Leverkusen - VfB Stuttgart,1.68,4.2,4.4,DECUP,102.35,1.37,0.99,O,X,1X,GG,EVEN,2.32,0.38
-2024-02-06 17:30:00,Glasgow Rangers - FC Aberdeen,1.25,6.0,10.5,SC1,310.74,2.55,0.56,O,1,1X/12,NG,ODD,3.15,1.99
-2024-02-06 18:00:00,Hapoel Akko - Sektzia Nes Tziona,2.15,3.25,2.87,IL2,-65.44,0.91,1.39,U,2,2X,NG,EVEN,2.25,-0.48
-2024-02-06 18:00:00,Bnei Yehuda - Hapoel Umm Al Fahm,1.9,3.4,3.3,IL2,56.13,1.66,1.02,O,1,1X,GG,EVEN,2.57,0.64
-2024-02-06 18:00:00,Hapoel Ramat Gan - Ihud Bnei Shfaram,1.93,3.2,3.4,IL2,99.2,1.11,1.05,O,2,1X,GG,ODD,2.12,0.06
-2024-02-06 18:00:00,Ironi Rishon Lezion - Ironi Tiberias,3.4,3.2,1.93,IL2,-156.02,0.85,1.34,U,2,2X,NG,EVEN,2.09,-0.49
-2024-02-06 18:00:00,Ironi Ramat Hasharon - Maccabi Herzelia,1.93,3.6,3.1,IL2,90.26,2.38,1.13,O,1,1X/12,GG,ODD,3.3,1.25
-2024-02-06 18:00:00,Hapoel Nof Hagalil - MS Kafr Kasem,2.05,3.2,3.1,IL2,-4.57,1.25,1.01,U,1,1X,NG,ODD,2.18,0.24
-2024-02-06 18:00:00,TSV 1860 München - Rot-Weiss Essen,2.2,3.4,3.1,DE3,5.26,1.26,0.91,U,1,1X,NG,EVEN,2.04,0.35
-2024-02-06 18:00:00,Stade Nyonnais - FC Schaffhausen,1.95,3.5,3.1,CH2,45.01,1.89,1.34,O,1,1X,GG,ODD,3.24,0.55
-2024-02-06 18:00:00,Hapoel Afula - Hapoel Ironi Kiryat Shmona,5.0,3.8,1.52,IL2,-249.17,1.02,2.11,O,2,2X/12,GG,EVEN,3.01,-1.09
-2024-02-06 18:00:00,Maccabi Jaffa - Hapoel Kfar Saba,1.49,4.0,5.0,IL2,246.42,1.61,0.82,O,1,1X/12,GG,ODD,2.28,0.79
-2024-02-06 19:00:00,Ferencvaros Budapest - MTK Budapest,1.29,5.5,7.75,HU1,266.28,2.31,0.84,O,1,1X/12,GG,ODD,3.04,1.47
-2024-02-06 19:00:00,NEC Nijmegen - ADO Den Haag,1.57,4.0,4.6,NLCUP,124.26,1.86,0.85,O,1,1X/12,GG,ODD,2.54,1.01
-2024-02-06 19:45:00,FC Motherwell - Ross County,1.98,3.4,3.6,SC1,36.67,1.43,0.93,U,1,1X,GG,ODD,2.41,0.5
-2024-02-06 19:45:00,Stirling Albion - Montrose FC,2.25,3.2,2.7,SC3,-6.65,0.82,1.28,U,2,2X,GG,EVEN,1.94,-0.46
-2024-02-06 19:45:00,Burton Albion - Cheltenham Town,2.8,3.4,2.35,UK3,-87.81,1.35,1.17,U,1,1X,NG,ODD,2.25,0.18
-2024-02-06 19:45:00,Glentoran FC - Cliftonville FC,2.25,3.3,2.75,NI1,-65.22,1.42,1.22,U,1,1X,GG,EVEN,2.53,0.2
-2024-02-06 19:45:00,Stevenage FC - Reading FC,1.75,3.7,4.33,UK3,121.39,1.41,1.06,O,X,1X,GG,EVEN,2.5,0.35
-2024-02-06 19:45:00,Wealdstone FC - Maidenhead United,1.98,3.3,3.1,UK5,49.65,1.32,1.01,O,1,1X,NG,ODD,2.29,0.31
-2024-02-06 19:45:00,Dagenham & Redbridge - Chesterfield FC,5.0,4.0,1.5,UK5,-245.16,1.0,2.25,O,2,2X/12,GG,ODD,3.13,-1.25
-2024-02-06 19:45:00,FC Sochaux - Stade Rennes,5.5,3.75,1.55,FRCUP,-369.75,0.85,1.47,U,1,2X,NG,EVEN,2.16,-0.62
-2024-02-06 19:45:00,Altrincham FC - Dorking Wanderers,1.39,4.75,5.5,UK5,203.08,1.86,0.98,O,1,1X/12,GG,ODD,2.97,0.88
-2024-02-06 19:45:00,Exeter City - Peterborough United,4.0,3.7,1.8,UK3,-207.81,0.64,1.75,U,2,2X/12,NG,ODD,2.37,-1.11
-2024-02-06 19:45:00,Plymouth Argyle - Leeds United,4.75,4.33,1.63,UKFACUP,-268.39,0.7,1.84,O,2,2X/12,NG,EVEN,2.6,-1.14
-2024-02-06 19:45:00,Gateshead FC - Eastleigh FC,1.5,4.2,4.6,UK5,150.26,1.45,1.05,O,1,1X,NG,ODD,2.51,0.4
-2024-02-06 19:45:00,Halifax Town - Solihull Moors FC,2.05,3.1,3.2,UK5,14.4,1.08,1.28,O,2,2X,GG,EVEN,2.3,-0.2
-2024-02-06 19:45:00,Woking FC - Oxford City,1.52,4.0,4.8,UK5,153.91,1.91,0.9,O,1,1X/12,NG,ODD,2.73,1.01
-2024-02-06 23:05:00,Club Celaya - Dorados,1.26,5.0,8.25,MX2,276.89,1.49,0.41,U,1,1X/12,NG,EVEN,1.77,1.08
-2024-02-06 23:10:00,Once Caldas - La Equidad,2.35,2.95,2.95,CO1,-42.63,0.7,0.93,U,X,2X,NG,EVEN,1.5,-0.23
-2024-02-07 00:00:00,Atletico Tucuman - Argentinos Juniors,2.55,3.0,2.87,AR1,-77.64,0.89,0.71,U,1,1X,NG,ODD,1.64,0.18
-2024-02-07 00:30:00,Academia Puerto Cabello - Defensor Sporting,2.5,3.2,2.75,CLICUP,-97.39,0.94,1.66,O,2,2X/12,NG,ODD,2.43,-0.72
-2024-02-07 00:30:00,Gremio Porto Alegre - EC Novo Hamburgo,1.34,4.6,8.0,BRGA,254.65,1.3,0.31,U,X,1X/12,NG,EVEN,1.67,0.99
-2024-02-07 01:00:00,Comunicaciones - Monterrey,4.8,3.8,1.66,CCCUP,-233.27,1.02,1.85,O,2,2X/12,GG,EVEN,2.66,-0.83
-2024-02-07 01:05:00,Alebrijes de Oaxaca - Correcaminos,2.2,3.4,2.7,MX2,-97.4,1.17,1.24,O,2,2X,NG,ODD,2.29,-0.07
-2024-02-07 01:20:00,Independiente Santa Fe - Atletico Bucaramanga,1.55,3.8,5.5,CO1,102.64,1.58,1.15,O,2,1X,GG,ODD,2.84,0.43
-2024-02-07 03:00:00,Real Esteli FC - Club America,6.25,4.6,1.44,CCCUP,-255.16,0.77,1.77,O,2,2X/12,GG,EVEN,2.47,-1.0
-2024-02-07 10:30:00,Sivasspor - Konyaspor,2.05,3.25,3.1,TUCUP,18.74,1.38,1.08,U,X,1X,GG,EVEN,2.39,0.3
-2024-02-07 13:00:00,Gawafel Gafsah - US Ben Guerdane,2.85,2.77,2.7,TN1,-106.06,0.65,1.03,U,2,2X,NG,EVEN,1.42,-0.38
-2024-02-07 14:00:00,Envigado - Alianza FC Valledupar,2.15,3.1,3.2,CO1,12.86,1.11,0.99,O,1,1X,GG,ODD,2.05,0.12
-2024-02-07 14:00:00,St. Mirren - FC Dundee,2.25,3.3,3.1,SC1,16.73,1.18,1.43,O,2,2X,GG,EVEN,2.68,-0.25
-2024-02-07 14:00:00,Bengaluru FC - Chennaiyin FC,1.95,3.5,3.4,IN1,56.28,1.44,1.06,U,X,1X,NG,EVEN,2.28,0.38
-2024-02-07 14:30:00,Istanbul Basaksehir FK - Hatayspor Antakya,1.87,3.5,3.4,TUCUP,47.4,2.06,1.09,U,1,1X/12,GG,EVEN,3.25,0.97
-2024-02-07 15:00:00,Iran - Qatar,1.73,3.5,4.75,AFC,218.26,1.77,0.95,U,1,1X/12,GG,ODD,2.67,0.82
-2024-02-07 15:00:00,FC Kilmarnock - Livingston FC,1.63,3.7,5.25,SC1,130.04,1.89,0.76,O,1,1X/12,GG,ODD,2.61,1.13
-2024-02-07 15:00:00,Renaissance Zemamra - Union de Touarga,1.95,3.1,3.4,MA1,-0.08,1.1,1.05,O,2,1X,NG,ODD,2.12,0.05
-2024-02-07 15:00:00,FUS Rabat - Wydad Casablanca,3.2,2.87,2.15,MA1,-127.91,0.77,1.39,U,2,2X,NG,ODD,2.27,-0.62
-2024-02-07 15:00:00,Chabab Riadi Salmi - Ittihad Tanger,1.95,3.1,3.5,MA1,11.28,1.28,1.0,U,1,1X,NG,ODD,2.13,0.28
-2024-02-07 16:05:00,Montpellier HSC - OGC Nice,2.95,3.2,2.25,FRCUP,-122.96,0.97,1.27,O,2,2X,GG,EVEN,2.17,-0.3
-2024-02-07 16:30:00,Aston Villa - Chelsea FC,2.15,3.6,3.1,UKFACUP,-23.41,1.48,1.45,O,X,1X,GG,EVEN,2.87,0.03
-2024-02-07 16:45:00,Varda SE - Fehervar FC,2.25,3.3,2.85,HU1,-22.95,1.49,1.16,O,1,1X,GG,ODD,2.54,0.33
-2024-02-07 17:00:00,Nigeria - South Africa,1.57,3.6,6.5,CAF,259.5,1.31,0.6,U,1,1X/12,GG,ODD,1.95,0.71
-2024-02-07 17:00:00,Moghreb Athletic Tetouan - MAS Maghrib Fes,2.15,2.95,3.1,MA1,2.2,1.18,0.49,U,1,1X/12,NG,EVEN,1.64,0.69
-2024-02-07 17:00:00,Hassania Agadir - Olympique Safi,2.3,3.0,2.8,MA1,-68.52,1.36,0.87,O,1,1X,GG,ODD,2.06,0.49
-2024-02-07 17:30:00,FSV Mainz 05 - 1. FC Union Berlin,2.1,3.3,3.5,DE1,9.19,1.06,0.68,O,X,1X,GG,EVEN,1.58,0.38
-2024-02-07 17:30:00,Olympique Lyon - OSC Lille,2.65,3.4,2.35,FRCUP,-102.83,1.4,1.39,O,1,1X,GG,EVEN,2.78,0.01
-2024-02-07 17:30:00,Nottingham Forest - Bristol City,1.52,4.33,6.0,UKFACUP,152.06,1.6,1.04,O,1,1X,NG,EVEN,2.41,0.56
-2024-02-07 17:45:00,Leeuwarden Cambuur - Vitesse Arnheim,2.25,3.4,2.65,NLCUP,-64.9,1.39,1.19,U,1,1X,NG,EVEN,2.4,0.2
-2024-02-07 17:45:00,Gazisehir Gaziantep FK - Fenerbahce,6.5,4.75,1.36,TUCUP,-359.08,0.76,1.64,U,2,2X/12,NG,EVEN,2.41,-0.88
-2024-02-07 18:00:00,SpVgg Unterhaching - Hallescher FC,2.15,3.5,3.0,DE3,-7.4,1.11,1.07,O,X,1X,NG,EVEN,2.12,0.04
-2024-02-07 18:00:00,Al Taee Hail - Al Ittihad Jeddah,5.0,4.33,1.57,SA1,-249.85,0.9,1.74,O,2,2X/12,GG,EVEN,2.7,-0.84
-2024-02-07 19:00:00,FCV Dender EH - RFC Seresien,1.49,4.1,5.0,BE2,172.48,1.66,1.03,O,1,1X,GG,EVEN,2.61,0.63
-2024-02-07 19:00:00,Feyenoord Rotterdam - AZ Alkmaar,1.39,4.5,6.25,NLCUP,233.78,2.24,0.86,O,1,1X/12,GG,ODD,3.02,1.38
-2024-02-07 19:00:00,Lommel SK - KFCO Beerschot Wilrijk,2.05,3.3,3.0,BE2,5.03,1.01,0.79,U,X,1X,NG,ODD,1.85,0.22
-2024-02-07 19:00:00,RSC Anderlecht II - RFC Liege,2.55,3.3,2.3,BE2,-63.45,0.87,0.98,U,2,2X,NG,ODD,1.82,-0.11
-2024-02-07 19:00:00,Puskas FC - Zalaegerszeg TE,1.55,4.0,5.0,HU1,114.57,2.04,1.05,O,1,1X/12,GG,EVEN,2.99,0.99
-2024-02-07 19:30:00,Le Puy Foot 43 - Stade Lavallois,4.0,3.75,1.71,FRCUP,-229.92,0.95,1.93,O,2,2X/12,GG,ODD,2.88,-0.98
-2024-02-07 19:30:00,Racing Strasbourg - Le Havre AC,2.1,3.1,3.2,FRCUP,50.69,1.49,1.08,U,1,1X,GG,ODD,2.49,0.41
-2024-02-07 19:30:00,AS Saint Priest - Valenciennes FC,6.0,4.4,1.44,FRCUP,-206.29,0.57,1.77,U,2,2X/12,NG,EVEN,2.13,-1.2
-2024-02-07 19:45:00,1. FC Saarbrücken - Mönchengladbach,4.33,4.0,1.75,DECUP,-192.15,1.12,1.46,O,1,2X,NG,EVEN,2.41,-0.34
-2024-02-07 19:45:00,Uniao Leiria - Sporting Lisboa,9.5,5.25,1.25,PTCUP,-431.76,0.82,2.26,U,2,2X/12,GG,ODD,2.99,-1.44
-2024-02-07 19:45:00,FC Brügge - Union Saint-Gilloise,2.05,3.4,3.0,BECUP,33.26,0.93,0.79,U,X,1X,NG,EVEN,1.67,0.14
-2024-02-07 19:45:00,Saint Johnstone FC - Heart of Midlothian,3.6,3.4,2.0,SC1,-165.33,1.13,1.71,U,X,2X,GG,EVEN,2.84,-0.58
-2024-02-07 20:00:00,Paris Saint-Germain - Stade Brest,1.32,5.0,7.5,FRCUP,254.81,1.93,0.94,O,1,1X/12,GG,ODD,3.02,0.99
-2024-02-07 20:00:00,Cote d'Ivoire - DR Congo,2.1,3.0,3.8,CAF,64.13,1.48,0.86,U,1,1X,GG,ODD,2.25,0.62
-2024-02-07 20:00:00,Hibernian Edinburgh - Celtic Glasgow,7.5,5.25,1.34,SC1,-384.64,0.82,1.78,U,2,2X/12,NG,EVEN,2.53,-0.96
-2024-02-07 20:30:00,Atletico Madrid - Athletic Bilbao,1.98,3.4,3.8,ESCUP,33.08,1.62,0.69,U,1,1X/12,NG,EVEN,2.36,0.93
-2024-02-07 22:00:00,Botafogo SP - Ponte Preta,2.1,3.2,3.5,BRP,-12.08,1.15,0.91,U,X,1X,NG,EVEN,1.96,0.24
-2024-02-07 22:30:00,Santos FC - Corinthians,2.0,3.3,3.6,BRP,24.95,1.03,0.86,U,2,1X,NG,EVEN,1.77,0.17
-2024-02-07 23:00:00,CS Herediano - Toluca,3.5,3.4,2.05,CCCUP,-124.96,0.95,1.73,U,2,2X/12,NG,ODD,2.6,-0.78
-2024-02-07 23:10:00,Deportivo Pereira - Fortaleza FC,1.9,3.25,3.75,CO1,39.97,1.43,0.91,U,1,1X,GG,ODD,2.28,0.52
-2024-02-08 00:00:00,Novorizontino - CA Bragantino,3.5,3.3,2.05,BRP,-209.27,0.98,1.53,O,2,2X,GG,ODD,2.35,-0.55
-2024-02-08 00:00:00,Forge FC - Guadalajara Chivas,7.75,5.25,1.33,CCCUP,-259.28,0.81,2.08,O,2,2X/12,NG,EVEN,2.73,-1.27
-2024-02-08 00:30:00,Aurora Cochabamba - FBC Melgar,2.7,3.3,2.5,CLICUP,-126.13,1.29,1.35,U,2,2X,GG,EVEN,2.64,-0.06
-2024-02-08 00:30:00,Sao Bernardo FC - Portuguesa Desportos,2.05,3.2,3.75,BRP,42.77,1.45,1.14,U,1,1X,GG,EVEN,2.5,0.31
-2024-02-08 00:35:00,Sao Paulo - EC Agua Santa,1.34,5.0,8.75,BRP,275.51,1.92,0.52,U,1,1X/12,NG,ODD,2.29,1.4
-2024-02-08 01:00:00,Millonarios - America de Cali,1.66,3.5,4.75,CO1,44.53,1.91,0.73,O,1,1X/12,GG,ODD,2.58,1.18
-2024-02-08 01:05:00,Club Atletico La Paz - Atlante UTN,3.2,3.2,2.0,MX2,-170.51,1.18,1.5,U,2,2X,GG,ODD,2.6,-0.32
-2024-02-08 03:00:00,Pachuca - Leon,2.2,3.6,2.95,MX1,-43.32,1.67,1.42,U,1,1X,GG,ODD,3.05,0.25
-2024-02-08 03:00:00,Vancouver Whitecaps - Tigres,3.1,3.5,2.15,CCCUP,-103.83,1.31,1.19,O,1,1X,GG,EVEN,2.54,0.12
-2024-02-08 03:05:00,Cimarrones - CD Tapatio,2.05,3.25,3.0,MX2,-19.32,1.16,0.91,U,1,1X,NG,EVEN,1.98,0.25
-2024-02-08 14:30:00,Genclerbirligi - Trabzonspor,4.6,3.9,1.57,TUCUP,-251.62,0.97,1.44,O,1,2X,GG,EVEN,2.63,-0.47
-2024-02-08 15:00:00,Mezökövesdi SE - Paks SE,3.7,3.7,1.8,HU1,-184.97,0.61,1.35,O,2,2X/12,NG,ODD,2.0,-0.74
-2024-02-08 17:45:00,Antalyaspor - Besiktas,2.55,3.3,2.35,TUCUP,-61.29,1.12,1.2,O,2,2X,NG,EVEN,2.35,-0.08
-2024-02-08 19:00:00,KV Oostende - Royal Antwerp,4.6,3.75,1.6,BECUP,-319.9,0.57,1.59,O,2,2X/12,NG,EVEN,2.1,-1.02
-2024-02-08 19:00:00,FC Groningen - Fortuna Sittard,2.45,3.3,2.45,NLCUP,-65.06,1.2,1.33,U,X,2X,GG,ODD,2.35,-0.13
-2024-02-08 19:00:00,Kecskemeti TE - Diosgyor DVTK,2.15,3.4,2.9,HU1,-34.95,1.39,1.5,O,2,2X,GG,ODD,2.82,-0.11
-2024-02-08 19:45:00,FC Rouen 1899 - AS Monaco,8.25,5.5,1.28,FRCUP,-426.52,1.18,2.14,O,2,2X/12,GG,EVEN,3.27,-0.96
-2024-02-08 20:30:00,Vitoria Guimaraes - Gil Vicente,1.71,3.5,4.1,PTCUP,127.22,1.68,0.85,U,1,1X/12,GG,ODD,2.43,0.83
-2024-02-08 22:00:00,Mirassol - EC Santo André,1.8,3.3,4.6,BRP,111.49,1.02,1.38,O,2,2X,NG,ODD,2.43,-0.36
-2024-02-08 22:30:00,Rosario Central - Independiente Rivadavia,1.9,3.2,4.2,AR1,56.9,0.96,0.93,U,2,1X,NG,EVEN,1.89,0.03
-2024-02-08 23:10:00,Atletico Junior - Deportivo Pasto,1.44,4.2,6.25,CO1,110.01,1.6,0.62,U,1,1X/12,NG,ODD,2.06,0.98
-2024-02-09 00:00:00,Palmeiras - Ituano,1.33,5.0,9.0,BRP,328.7,1.46,0.59,U,1,1X/12,GG,ODD,2.16,0.87
-2024-02-09 00:15:00,CA Huracan - CA Independiente,2.6,2.95,2.85,AR1,-31.89,0.64,1.0,U,2,2X,NG,EVEN,1.65,-0.36
-2024-02-09 00:30:00,SD Aucas - Nacional Asuncion,1.82,3.5,4.2,CLICUP,18.18,1.29,0.85,U,1,1X,NG,ODD,2.09,0.44
-2024-02-09 00:30:00,Estudiantes La Plata - CA Tigre,1.8,3.5,4.33,AR1,96.85,1.35,0.75,U,1,1X,NG,EVEN,2.04,0.6
-2024-02-09 00:30:00,Guarani SP - Inter de Limeira,1.8,3.3,4.6,BRP,82.31,1.02,1.38,U,2,2X,NG,ODD,2.43,-0.36
-2024-02-09 01:20:00,Patriotas Boyaca - Atletico Nacional Medellin,3.3,3.1,2.1,CO1,-141.69,0.93,0.79,U,1,1X,NG,ODD,1.65,0.14
-2024-02-09 08:45:00,Adelaide United - Perth Glory,1.72,4.2,3.9,AU1,80.67,1.6,1.2,O,2,1X,GG,EVEN,2.79,0.4
-2024-02-09 15:00:00,Otelul Galati - FC Universitatea Craiova,2.45,3.0,2.75,RO1,-44.38,1.06,1.05,U,2,1X,NG,EVEN,2.05,0.01
-2024-02-09 16:00:00,Corum FK - √úmraniyespor,1.93,3.4,3.5,TU2,40.26,1.07,1.05,U,2,1X,NG,ODD,2.09,0.02
-2024-02-09 16:00:00,NK Varazdin SN - NK Rudeš,1.58,4.1,5.25,HR1,146.93,1.57,0.98,O,2,1X,GG,ODD,2.56,0.59
-2024-02-09 16:30:00,MSK Zilina - Slovan Bratislava,3.4,3.7,1.88,SK1,-189.23,0.9,1.48,O,2,2X,NG,ODD,2.49,-0.58
-2024-02-09 17:00:00,Adana Demirspor - Kasimpasa Istanbul,2.15,3.8,2.85,TU1,-15.95,1.32,1.56,O,2,2X,GG,EVEN,2.88,-0.24
-2024-02-09 17:00:00,Stal Mielec - Puszcza Niepolomice,2.0,3.4,3.5,PL1,29.88,1.21,1.09,U,1,1X,NG,ODD,2.25,0.12
-2024-02-09 17:30:00,Hamburger SV - Hannover 96,1.73,4.1,4.2,DE2,85.84,2.08,1.14,O,1,1X/12,GG,EVEN,3.27,0.94
-2024-02-09 17:30:00,SV Wehen Wiesbaden - 1. FC Nürnberg,2.25,3.75,2.87,DE2,-26.57,1.41,1.18,O,1,1X,GG,ODD,2.59,0.23
-2024-02-09 17:30:00,Olympique Marseille - FC Metz,1.33,5.0,9.5,FR1,283.61,1.29,0.55,U,X,1X/12,NG,EVEN,1.8,0.74
-2024-02-09 18:00:00,FC Viktoria Köln - Borussia Dortmund II,1.9,3.6,3.7,DE3,64.28,1.83,0.67,O,1,1X/12,NG,ODD,2.52,1.16
-2024-02-09 18:00:00,UD Oliveirense - SCU Torreense,2.8,3.3,2.25,PT2,-92.53,0.87,1.93,O,2,2X/12,NG,ODD,2.65,-1.06
-2024-02-09 18:00:00,CS Universitatea Craiova - Universitatea Cluj,1.85,3.3,3.9,RO1,44.34,1.1,1.28,U,2,2X,GG,EVEN,2.36,-0.18
-2024-02-09 19:00:00,NAC Breda - FC Eindhoven,1.55,4.0,5.0,NL2,128.83,2.04,1.05,O,1,1X/12,GG,EVEN,2.99,0.99
-2024-02-09 19:00:00,Roda Kerkrade - FC Dordrecht,1.6,4.1,4.5,NL2,106.17,2.1,0.94,O,1,1X/12,GG,ODD,2.93,1.16
-2024-02-09 19:00:00,De Graafschap - Willem II Tilburg,2.75,3.4,2.25,NL2,-106.1,0.86,1.21,O,2,2X,NG,EVEN,2.04,-0.35
-2024-02-09 19:00:00,KMSK Deinze - Patro Eisden,1.85,3.4,3.4,BE2,57.2,1.43,1.05,O,X,1X,GG,ODD,2.34,0.38
-2024-02-09 19:00:00,PSV Eindhoven II - FC Emmen,3.0,3.7,2.0,NL2,-123.99,1.21,1.56,O,2,2X,GG,ODD,2.54,-0.35
-2024-02-09 19:00:00,RKC Waalwijk - NEC Nijmegen,2.75,3.6,2.4,NL1,-70.42,1.68,1.3,O,1,1X,GG,ODD,2.81,0.38
-2024-02-09 19:00:00,Royal Francs Borains - Club Brugge II,1.75,3.6,3.6,BE2,70.94,1.15,1.52,U,2,2X,NG,EVEN,2.58,-0.37
-2024-02-09 19:00:00,Stormvogels/Telstar - Helmond Sport,2.25,3.4,2.8,NL2,-29.07,1.21,1.38,O,2,2X,GG,EVEN,2.54,-0.17
-2024-02-09 19:30:00,Como Calcio - Brescia Calcio,1.78,3.5,4.4,IT2,99.76,1.61,1.02,U,X,1X,GG,EVEN,2.44,0.59
-2024-02-09 19:30:00,Red Bull Salzburg - Sturm Graz,1.85,3.6,3.9,AT1,79.04,1.39,0.53,U,1,1X/12,NG,EVEN,1.8,0.86
-2024-02-09 19:30:00,Borussia Dortmund - SC Freiburg,1.55,4.5,5.25,DE1,114.56,2.33,1.02,U,1,1X/12,GG,EVEN,3.25,1.31
-2024-02-09 19:30:00,UD Levante Valencia - CD Leganes,2.15,3.0,3.4,ES2,11.36,1.19,1.01,U,2,1X,NG,ODD,2.17,0.18
-2024-02-09 19:30:00,Ruch Chorzow - Legia Warszawa,4.75,3.8,1.68,PL1,-258.35,0.88,1.69,O,2,2X/12,GG,EVEN,2.48,-0.81
-2024-02-09 19:30:00,Greenock Morton FC - FC Motherwell,3.1,3.3,2.05,SCCUP,-119.91,1.35,1.29,U,X,1X,GG,EVEN,2.53,0.06
-2024-02-09 19:45:00,VV St. Truiden - KV Kortrijk,1.55,4.2,5.75,BE1,176.93,1.78,0.77,U,1,1X/12,NG,EVEN,2.6,1.01
-2024-02-09 19:45:00,Salernitana Calcio 1919 - Empoli FC,2.45,3.3,2.9,IT1,-13.75,1.53,1.05,O,1,1X,GG,ODD,2.6,0.48
-2024-02-09 19:45:00,Notts County - Gillingham FC,1.88,3.7,3.7,UK4,45.68,1.9,0.81,U,1,1X/12,NG,ODD,2.59,1.09
-2024-02-09 20:00:00,UTC Cajamarca - Universidad César Vallejo,2.15,3.25,3.0,PE1,-94.96,1.27,0.85,U,1,1X,GG,ODD,2.05,0.42
-2024-02-09 20:00:00,Cadiz CF - Betis Sevilla,2.95,3.2,2.45,ES1,-152.56,1.06,0.78,U,1,1X,NG,EVEN,1.82,0.28
-2024-02-09 20:00:00,Sheffield Wednesday - Birmingham City,2.25,3.4,3.1,UK2,-44.77,1.11,1.0,O,X,1X,GG,EVEN,2.04,0.11
-2024-02-09 20:15:00,CF Estrela - Portimonense SC,2.05,3.5,3.3,PT1,31.73,1.55,1.15,U,1,1X,GG,EVEN,2.66,0.4
-2024-02-09 21:15:00,CS 2 de Mayo - Sol de America,2.8,3.1,2.25,PY1,-90.68,1.17,1.41,U,2,2X,GG,EVEN,2.45,-0.24
-2024-02-09 22:00:00,CA Union Santa Fe - Newell`s Old Boys,2.7,2.95,2.75,AR1,-101.71,1.06,0.94,U,1,1X,NG,EVEN,1.85,0.12
-2024-02-09 23:10:00,Deportivo Cali - Chico FC,1.75,3.4,4.33,CO1,32.94,1.22,1.18,U,X,1X,GG,ODD,2.38,0.04
-2024-02-09 23:10:00,Jaguares de Cordoba - Rionegro Aguilas,3.4,3.1,2.05,CO1,-215.95,0.98,1.35,U,2,2X,GG,ODD,2.27,-0.37
-2024-02-09 23:45:00,Sportivo Trinidense - Tacuary FBC,1.98,3.25,3.25,PY1,61.22,1.17,0.93,O,1,1X,GG,ODD,2.06,0.24
-2024-02-10 00:00:00,Cienciano Cuzco - Sporting Cristal,2.4,3.2,2.65,PE1,-106.71,1.42,1.44,U,2,2X,GG,ODD,2.71,-0.02
-2024-02-10 00:15:00,Velez Sarsfield - Gimnasia La Plata,2.3,3.1,3.1,AR1,26.23,1.13,0.88,O,1,1X,GG,EVEN,1.84,0.25
-2024-02-10 00:15:00,Racing Club - San Lorenzo,2.05,3.1,3.8,AR1,67.92,1.43,0.79,O,1,1X,GG,EVEN,2.15,0.64
-2024-02-10 00:30:00,Central Coast Mariners - Sydney FC,2.05,3.8,3.1,AU1,36.21,1.47,1.61,O,2,2X,GG,EVEN,3.01,-0.14
-2024-02-10 01:00:00,Mazatlan FC - Atlas,2.55,3.4,2.55,MX1,-97.65,1.33,1.15,U,1,1X,NG,ODD,2.42,0.18
-2024-02-10 03:00:00,Wellington Phoenix - Western United FC,1.8,3.75,3.9,AU1,66.7,1.43,1.01,O,1,1X,GG,ODD,2.49,0.42
-2024-02-10 03:00:00,Club Tijuana - Queretaro FC,1.8,3.7,4.0,MX1,26.23,1.5,1.02,U,1,1X,GG,ODD,2.47,0.48
-2024-02-10 06:30:00,Melbourne Victory - Macarthur FC,1.53,4.5,5.25,AU1,159.62,2.43,0.97,O,1,1X/12,GG,ODD,3.36,1.46
-2024-02-10 07:00:00,Brisbane Roar - Melbourne City,3.0,3.9,2.05,AU1,-149.0,1.44,1.49,O,1,2X,GG,ODD,2.7,-0.05
-2024-02-10 11:00:00,Academico Viseu - FC Penafiel,1.85,3.25,3.8,PT2,41.67,1.36,0.87,O,1,1X,GG,ODD,2.17,0.49
-2024-02-10 11:30:00,Fatih Karagümrük - Pendikspor,1.95,3.5,3.6,TU1,37.84,1.39,0.81,U,1,1X,GG,EVEN,2.12,0.58
-2024-02-10 12:00:00,Eintracht Braunschweig - Karlsruher SC,2.5,3.6,2.6,DE2,-48.17,1.5,1.5,O,2,X,GG,ODD,2.93,0.0
-2024-02-10 12:00:00,1. FC Magdeburg - FC St. Pauli,4.1,3.9,1.8,DE2,-209.04,0.9,1.66,U,2,2X/12,NG,ODD,2.54,-0.76
-2024-02-10 12:00:00,Fortuna Düsseldorf - SV Elversberg 07,1.82,4.0,3.9,DE2,76.1,1.51,1.15,O,X,1X,GG,EVEN,2.47,0.36
-2024-02-10 12:00:00,Eintracht Frankfurt - VfL Bochum,1.72,3.9,4.5,DE1,104.29,1.34,1.11,O,X,1X,GG,EVEN,2.42,0.23
-2024-02-10 12:30:00,Manchester City - Everton FC,1.21,7.0,12.5,UK1,326.82,2.6,0.45,O,1,1X/12,NG,ODD,2.97,2.15
-2024-02-10 12:30:00,Ipswich Town - West Bromwich Albion,2.1,3.4,3.4,UK2,17.04,1.26,0.92,O,1,1X,GG,EVEN,2.09,0.34
-2024-02-10 13:00:00,US Cremonese - AC Reggiana,1.52,4.2,5.75,IT2,191.57,2.0,0.92,O,1,1X/12,GG,ODD,2.78,1.08
-2024-02-10 13:00:00,CD Alaves - Villarreal CF,2.15,3.4,3.25,ES1,5.52,1.36,1.06,O,1,1X,GG,EVEN,2.43,0.3
-2024-02-10 13:00:00,AC Feralpisalo - US Palermo,3.25,3.4,2.1,IT2,-155.49,1.03,1.51,O,2,2X,GG,EVEN,2.54,-0.48
-2024-02-10 13:00:00,Modena FC - Nuova Cosenza,2.05,3.25,3.6,IT2,35.01,1.66,0.88,U,1,1X/12,GG,ODD,2.44,0.78
-2024-02-10 13:00:00,Preußen Münster - SV Sandhausen,2.15,3.6,3.0,DE3,-1.15,1.41,1.27,O,1,1X,GG,EVEN,2.64,0.14
-2024-02-10 13:00:00,SSV Ulm 1846 - SV Waldhof Mannheim,1.77,3.7,4.2,DE3,91.01,1.36,0.87,O,1,1X,NG,ODD,2.24,0.49
-2024-02-10 13:00:00,Dynamo Dresden - VfB Lübeck,1.39,4.75,7.25,DE3,241.69,2.26,0.61,O,1,1X/12,NG,ODD,2.73,1.65
-2024-02-10 13:00:00,AS Cittadella - FC Parma,3.2,3.1,2.25,IT2,-101.1,1.15,1.03,U,1,1X,GG,EVEN,2.15,0.12
-2024-02-10 13:00:00,Jahn Regensburg - Rot-Weiss Essen,1.8,3.7,4.1,DE3,67.75,1.81,0.96,U,1,1X/12,GG,ODD,2.73,0.85
-2024-02-10 13:00:00,SC Verl - MSV Duisburg,1.9,3.7,3.6,DE3,43.02,2.1,0.84,U,1,1X/12,NG,EVEN,2.81,1.26
-2024-02-10 13:00:00,FC Südtirol Bolzano - SSC Venezia,3.5,3.2,2.1,IT2,-157.71,1.21,1.0,O,1,1X,NG,ODD,2.07,0.21
-2024-02-10 14:00:00,Dynamo Ceske Budejovice - Banik Ostrava,3.3,3.7,1.98,CZ1,-176.36,1.23,1.4,O,1,2X,NG,ODD,2.46,-0.17
-2024-02-10 14:00:00,MFK Karvina - Sparta Praha,6.75,4.8,1.4,CZ1,-370.74,0.81,2.34,O,2,2X/12,GG,ODD,3.02,-1.53
-2024-02-10 14:00:00,FK Slovan Liberec - SK Sigma Olomouc,2.25,3.5,2.87,CZ1,-6.83,1.23,1.33,O,2,2X,GG,EVEN,2.54,-0.1
-2024-02-10 14:00:00,1. FC Slovacko - FK Pardubice,1.46,4.4,6.5,CZ1,183.71,1.74,0.87,O,1,1X/12,NG,ODD,2.53,0.87
-2024-02-10 14:00:00,AJ Auxerre - SCO Angers,1.83,3.6,4.0,FR2,106.74,1.58,0.47,U,1,1X/12,NG,ODD,2.09,1.11
-2024-02-10 14:00:00,NK Istra 1961 Pula - NK Osijek,3.4,3.5,2.05,HR1,-161.69,0.78,1.81,O,2,2X/12,NG,ODD,2.45,-1.03
-2024-02-10 14:00:00,Cracovia Krakow - Radomiak Radom,2.15,3.3,3.3,PL1,27.28,0.98,0.65,U,X,1X,NG,EVEN,1.49,0.33
-2024-02-10 14:00:00,Nacional Madeira - Vilaverdense,1.47,4.2,5.5,PT2,187.83,2.59,0.79,O,1,1X/12,GG,EVEN,3.25,1.8
-2024-02-10 14:00:00,Cagliari Calcio - Lazio Roma,3.5,3.3,2.15,IT1,-172.32,0.99,0.84,U,1,1X,NG,ODD,1.72,0.15
-2024-02-10 14:15:00,SSC Bari - Calcio Lecco,1.9,3.4,3.9,IT2,42.64,1.13,1.05,U,2,1X,NG,EVEN,2.01,0.08
-2024-02-10 14:30:00,Mönchengladbach - SV Darmstadt 98,1.65,4.1,4.8,DE1,126.98,1.65,1.15,O,1,1X,GG,EVEN,2.64,0.5
-2024-02-10 14:30:00,Werder Bremen - 1. FC Heidenheim,1.82,3.8,4.0,DE1,45.08,1.27,0.82,O,1,1X,NG,EVEN,1.97,0.45
-2024-02-10 14:30:00,1. FC Union Berlin - VfL Wolfsburg,2.2,3.4,3.2,DE1,-16.22,1.24,1.01,U,X,1X,NG,EVEN,2.19,0.23
-2024-02-10 14:30:00,FC Augsburg - RB Leipzig,4.1,4.1,1.75,DE1,-250.45,1.11,1.64,O,2,2X,NG,EVEN,2.7,-0.53
-2024-02-10 15:00:00,FC Aberdeen - Bonnyrigg Rose,1.06,10.0,26.0,SCCUP,514.75,3.38,0.35,O,1,1X/12,NG,ODD,3.16,3.03
-2024-02-10 15:00:00,Standard Liege - Oud Heverlee Leuven,1.88,3.75,3.8,BE1,48.98,1.75,1.03,O,1,1X/12,GG,ODD,2.83,0.72
-2024-02-10 15:00:00,Leeds United - Rotherham United,1.16,8.0,17.0,UK2,400.55,2.51,0.7,O,1,1X/12,GG,ODD,3.14,1.81
-2024-02-10 15:00:00,Southampton FC - Huddersfield Town,1.29,5.75,10.0,UK2,298.77,2.41,0.57,O,1,1X/12,NG,ODD,2.97,1.84
-2024-02-10 15:00:00,Sunderland FC - Plymouth Argyle,1.6,4.2,5.0,UK2,132.75,1.77,0.96,O,1,1X/12,GG,EVEN,2.63,0.81
-2024-02-10 15:00:00,Walsall FC - Newport County AFC,1.95,3.6,3.5,UK4,54.84,1.63,0.91,O,1,1X/12,NG,ODD,2.57,0.72
-2024-02-10 15:00:00,Cambridge United - Cheltenham Town,2.1,3.2,3.5,UK3,5.29,1.15,0.91,U,X,1X,GG,EVEN,1.96,0.24
-2024-02-10 15:00:00,Partick Thistle - Livingston FC,2.6,3.25,2.37,SCCUP,-59.17,1.43,1.16,U,1,1X,GG,ODD,2.64,0.27
-2024-02-10 15:00:00,Swindon Town - Salford City FC,2.37,3.6,2.65,UK4,-31.67,1.48,1.18,O,1,1X,GG,EVEN,2.65,0.3
-2024-02-10 15:00:00,Luton Town - Sheffield United,1.73,3.8,4.6,UK1,66.7,1.8,0.9,O,1,1X/12,GG,ODD,2.59,0.9
-2024-02-10 15:00:00,Doncaster Rovers - Tranmere Rovers,2.25,3.4,2.95,UK4,-29.16,1.49,1.03,O,1,1X,NG,ODD,2.46,0.46
-2024-02-10 15:00:00,Inverness Caledonian Thistle - Hibernian Edinburgh,3.4,3.3,1.93,SCCUP,-179.49,0.87,1.39,U,2,2X,NG,EVEN,2.13,-0.52
-2024-02-10 15:00:00,Wolverhampton Wanderers - Brentford FC,2.05,3.6,3.4,UK1,25.74,1.71,1.56,O,1,1X,GG,EVEN,3.17,0.15
-2024-02-10 15:00:00,Tottenham Hotspur - Brighton & Hove Albion,1.85,4.0,3.7,UK1,45.87,1.84,1.07,U,1,1X/12,GG,EVEN,2.81,0.77
-2024-02-10 15:00:00,Crewe Alexandra - Crawley Town,2.05,3.7,3.2,UK4,36.77,1.83,1.35,O,2,1X,GG,ODD,3.12,0.48
-2024-02-10 15:00:00,AFC Wimbledon - Barrow AFC,2.0,3.4,3.5,UK4,39.19,1.21,1.09,O,1,1X,NG,ODD,2.25,0.12
-2024-02-10 15:00:00,FC Kilmarnock - Cove Rangers,1.35,4.5,7.0,SCCUP,245.4,1.18,0.64,O,X,1X,NG,ODD,1.85,0.54
-2024-02-10 15:00:00,Wrexham FC - Bradford City,1.9,3.5,3.75,UK4,29.9,1.83,1.11,O,1,1X/12,GG,EVEN,2.83,0.72
-2024-02-10 15:00:00,Port Vale - Stevenage FC,3.1,3.3,2.2,UK3,-100.72,0.88,1.32,O,X,2X,NG,EVEN,2.04,-0.44
-2024-02-10 15:00:00,Morecambe FC - Sutton United,2.0,3.5,3.4,UK4,13.3,1.23,1.28,U,2,2X,GG,EVEN,2.47,-0.05
-2024-02-10 15:00:00,Bristol Rovers - Burton Albion,1.62,4.0,5.0,UK3,155.8,1.65,1.07,O,X,1X,GG,EVEN,2.51,0.58
-2024-02-10 15:00:00,Watford FC - Leicester City,4.2,3.75,1.8,UK2,-191.82,0.62,1.97,U,2,2X/12,NG,ODD,2.37,-1.35
-2024-02-10 15:00:00,Blackburn Rovers - Stoke City,2.3,3.6,2.87,UK2,-27.54,1.24,1.1,O,1,1X,NG,ODD,2.39,0.14
-2024-02-10 15:00:00,Wycombe Wanderers - Peterborough United,3.25,3.6,2.05,UK3,-150.83,1.09,1.77,O,2,2X/12,GG,EVEN,2.74,-0.68
-2024-02-10 15:00:00,Middlesbrough FC - Bristol City,1.71,3.8,4.8,UK2,105.56,1.57,0.85,O,1,1X/12,NG,ODD,2.33,0.72
-2024-02-10 15:00:00,Liverpool FC - Burnley FC,1.18,7.75,14.0,UK1,369.25,2.87,0.32,O,1,1X/12,NG,EVEN,3.2,2.55
-2024-02-10 15:00:00,Queens Park Rangers - Norwich City,2.6,3.3,2.65,UK2,-57.5,1.12,0.9,U,1,1X,NG,EVEN,2.02,0.22
-2024-02-10 15:00:00,Wigan Athletic - Exeter City,2.0,3.4,3.6,UK3,28.56,1.57,1.47,O,2,1X,GG,EVEN,3.01,0.1
-2024-02-10 15:00:00,Cardiff City - Preston North End,2.25,3.2,3.3,UK2,17.05,0.9,0.47,U,X,1X,NG,EVEN,1.36,0.43
-2024-02-10 15:00:00,Milton Keynes Dons - Accrington Stanley,1.61,4.1,4.8,UK4,89.51,1.88,1.14,U,1,1X/12,GG,EVEN,2.96,0.74
-2024-02-10 15:00:00,Reading FC - Charlton Athletic,2.25,3.4,3.0,UK3,-30.83,1.59,1.26,O,1,1X,GG,EVEN,2.74,0.33
-2024-02-10 15:00:00,Northampton Town - Bolton Wanderers,3.6,3.4,2.0,UK3,-169.15,1.13,1.71,O,X,2X,GG,EVEN,2.84,-0.58
-2024-02-10 15:00:00,Forest Green Rovers - Mansfield Town,4.4,3.8,1.71,UK4,-212.38,1.02,2.03,O,2,2X/12,GG,EVEN,3.14,-1.01
-2024-02-10 15:00:00,Lincoln City - Fleetwood Town,1.85,3.4,4.2,UK3,80.29,1.42,1.02,O,X,1X,GG,ODD,2.42,0.4
-2024-02-10 15:00:00,Derby County - Shrewsbury Town,1.33,5.0,8.75,UK3,273.85,1.66,0.64,U,X,1X/12,GG,ODD,2.21,1.02
-2024-02-10 15:00:00,Carlisle United - Portsmouth FC,5.0,3.9,1.63,UK3,-270.61,0.86,1.93,U,2,2X/12,NG,EVEN,2.63,-1.07
-2024-02-10 15:00:00,Grimsby Town - Stockport County,3.75,3.7,1.87,UK4,-181.71,1.12,1.33,O,1,2X,NG,ODD,2.27,-0.21
-2024-02-10 15:00:00,Harrogate Town - Colchester United,2.1,3.6,3.1,UK4,25.79,1.65,1.15,U,1,1X,GG,EVEN,2.71,0.5
-2024-02-10 15:00:00,Blackpool FC - Oxford United,1.9,3.7,3.6,UK3,63.01,2.1,0.84,O,1,1X/12,GG,EVEN,2.81,1.26
-2024-02-10 15:00:00,Barnsley FC - Leyton Orient,1.98,3.6,3.4,UK3,28.71,1.46,1.05,U,X,1X,GG,EVEN,2.49,0.41
-2024-02-10 15:00:00,Hull City - Swansea City,1.71,3.9,4.6,UK2,67.02,1.86,1.12,U,1,1X/12,GG,EVEN,2.84,0.74
-2024-02-10 15:00:00,Fulham FC - AFC Bournemouth,2.3,3.5,2.9,UK1,-40.87,1.19,1.52,U,2,2X,NG,EVEN,2.65,-0.33
-2024-02-10 15:15:00,FC Catanzaro - Ascoli Picchio,2.05,3.25,3.5,IT2,36.54,1.44,0.99,U,1,1X,GG,ODD,2.35,0.45
-2024-02-10 15:15:00,Pisa Calcio - Sampdoria Genoa,2.3,3.2,3.0,IT2,-32.06,1.42,1.12,U,1,1X,GG,EVEN,2.39,0.3
-2024-02-10 15:15:00,CD Eldense - SD Huesca,2.05,2.95,3.7,ES2,19.28,1.29,0.8,U,1,1X,GG,EVEN,1.98,0.49
-2024-02-10 15:15:00,Real Sociedad - CA Osasuna,1.85,3.3,4.6,ES1,114.02,1.14,1.22,O,2,2X,GG,ODD,2.23,-0.08
-2024-02-10 15:15:00,SD Amorebieta - Elche CF,3.5,3.0,2.05,ES2,-172.09,0.8,1.26,O,2,2X,GG,EVEN,1.97,-0.46
-2024-02-10 15:30:00,SC Farense - FC Famalicao,2.6,3.25,2.6,PT1,-60.48,0.95,0.95,U,X,X,NG,EVEN,1.77,0.0
-2024-02-10 15:30:00,Olympiakos Piraeus - OFI Crete,1.25,5.75,10.5,GR1,315.43,2.36,0.67,O,1,1X/12,NG,EVEN,3.13,1.69
-2024-02-10 15:30:00,SC Freiburg II - Arminia Bielefeld,3.9,3.7,1.82,DE3,-196.46,0.82,1.66,U,2,2X/12,NG,ODD,2.61,-0.84
-2024-02-10 15:30:00,Benfica Lisboa II - Leixoes Matosinhos,1.9,3.3,3.7,PT2,42.88,1.37,0.55,U,1,1X/12,NG,EVEN,1.72,0.82
-2024-02-10 16:00:00,RC Lens - Racing Strasbourg,1.61,3.9,5.5,FR1,142.32,1.64,1.05,U,1,1X,GG,EVEN,2.76,0.59
-2024-02-10 16:00:00,SCR Altach - Blau-Weiss Linz,2.1,3.3,3.4,AT1,40.34,1.26,0.64,U,X,1X,NG,EVEN,1.78,0.62
-2024-02-10 16:00:00,Galatasaray - Istanbul Basaksehir FK,1.28,5.5,9.5,TU1,287.27,2.17,0.47,O,1,1X/12,NG,ODD,2.59,1.7
-2024-02-10 16:00:00,Austria Wien - TSV Hartberg,1.95,3.6,3.5,AT1,55.11,1.63,0.91,O,1,1X/12,NG,ODD,2.57,0.72
-2024-02-10 16:10:00,NK Lokomotiva Zagreb - Dinamo Zagreb,5.25,3.9,1.6,HR1,-297.02,0.83,1.52,U,1,2X/12,NG,EVEN,2.26,-0.69
-2024-02-10 16:30:00,Piast Gliwice - Gornik Zabrze,1.93,3.25,4.1,PL1,96.33,1.19,0.91,U,1,1X,GG,ODD,2.02,0.28
-2024-02-10 17:00:00,PAS Giannina - Aris Saloniki,3.8,3.4,1.93,GR1,-184.58,0.73,1.7,U,2,2X/12,NG,ODD,2.31,-0.97
-2024-02-10 17:00:00,FC Zürich - Grasshoppers Zürich,1.7,3.8,4.5,CH1,142.34,1.39,0.8,U,X,1X,NG,ODD,2.27,0.59
-2024-02-10 17:00:00,Paris FC - Pau FC,1.87,3.4,4.0,FR2,79.7,1.71,0.97,U,1,1X/12,GG,ODD,2.54,0.74
-2024-02-10 17:00:00,AS Roma - Inter Milan,3.9,3.3,1.98,IT1,-175.98,0.82,1.29,U,2,2X,NG,EVEN,1.92,-0.47
-2024-02-10 17:00:00,Stade Lausanne-Ouchy - FC Lausanne Sport,3.0,3.6,2.15,CH1,-115.96,1.7,0.7,U,1,1X/12,NG,ODD,2.29,1.0
-2024-02-10 17:00:00,FK Viktoria Plzen - Mlada Boleslav,1.5,4.4,5.75,CZ1,150.89,2.33,1.27,O,1,1X/12,GG,EVEN,3.4,1.06
-2024-02-10 17:00:00,Rodez AF - USL Dunkerque,1.71,3.8,4.5,FR2,80.42,1.33,1.0,U,X,1X,GG,EVEN,2.37,0.33
-2024-02-10 17:00:00,SM Caen - Amiens SC,2.1,3.3,3.4,FR2,44.56,1.26,0.64,U,1,1X,NG,ODD,1.78,0.62
-2024-02-10 17:15:00,Union Saint-Gilloise - KVC Westerlo,1.31,5.5,9.0,BE1,283.54,2.01,0.74,O,1,1X/12,GG,ODD,2.8,1.27
-2024-02-10 17:30:00,Panaitolikos - Atromitos Athinon,2.55,3.3,2.6,GR1,-9.5,1.39,1.05,O,1,1X,NG,ODD,2.42,0.34
-2024-02-10 17:30:00,Glasgow Rangers - Ayr United,1.06,11.0,23.0,SCCUP,560.48,3.37,0.41,O,1,1X/12,NG,ODD,3.45,2.96
-2024-02-10 17:30:00,Real Madrid - Girona FC,1.49,4.75,5.75,ES1,148.34,2.68,1.62,O,1,1X/12,GG,EVEN,4.16,1.06
-2024-02-10 17:30:00,Bayer Leverkusen - FC Bayern München,2.6,3.8,2.45,DE1,-86.03,1.42,1.97,O,2,2X,GG,EVEN,3.21,-0.55
-2024-02-10 17:30:00,Sporting Gijon - Real Oviedo,2.1,3.0,3.5,ES2,-6.12,1.2,0.91,U,2,1X,GG,ODD,2.05,0.29
-2024-02-10 17:30:00,Nottingham Forest - Newcastle United,3.6,3.6,1.98,UK1,-160.64,1.43,1.24,O,1,1X,GG,ODD,2.65,0.19
-2024-02-10 17:45:00,Excelsior Rotterdam - FC Twente Enschede,5.75,4.6,1.52,NL1,-320.07,1.02,1.88,O,2,2X/12,GG,ODD,2.73,-0.86
-2024-02-10 18:00:00,Valenciennes FC - Stade Lavallois,3.0,3.1,2.35,FR2,-108.07,0.85,0.88,U,2,2X,NG,ODD,1.71,-0.03
-2024-02-10 18:00:00,US Quevilly - SC Bastia,1.95,3.3,3.8,FR2,46.67,1.65,0.72,U,1,1X/12,NG,ODD,2.33,0.93
-2024-02-10 18:00:00,Annecy FC - US Concarneau,2.15,3.2,3.4,FR2,-8.76,1.68,1.39,O,1,1X,GG,ODD,2.99,0.29
-2024-02-10 18:00:00,Girondins Bordeaux - Grenoble Foot 38,2.15,3.4,3.25,FR2,20.27,1.36,1.06,U,1,1X,GG,ODD,2.43,0.3
-2024-02-10 18:00:00,AC Ajaccio - EA Guingamp,2.87,2.95,2.55,FR2,-79.55,0.8,1.28,U,2,2X,NG,EVEN,1.8,-0.48
-2024-02-10 18:00:00,Moreirense FC - GD Chaves,1.73,3.75,4.33,PT1,100.15,1.69,0.95,O,1,1X/12,GG,ODD,2.54,0.74
-2024-02-10 19:00:00,Almere City - AZ Alkmaar,5.25,4.1,1.61,NL1,-239.24,0.72,1.82,O,2,2X/12,GG,EVEN,2.51,-1.1
-2024-02-10 19:00:00,Lech Poznan - Zaglebie Lubin,1.57,4.1,5.25,PL1,130.94,1.66,0.62,U,1,1X/12,NG,EVEN,2.26,1.04
-2024-02-10 19:30:00,AC Lugano - Young Boys Bern,2.65,3.6,2.37,CH1,-76.59,1.35,1.16,O,1,1X,NG,ODD,2.44,0.19
-2024-02-10 19:30:00,1. FC Kaiserslautern - SC Paderborn 07,2.37,3.75,2.7,DE2,-27.21,1.87,1.33,O,1,1X,GG,ODD,3.25,0.54
-2024-02-10 19:45:00,FC Brügge - AS Eupen,1.23,6.75,11.5,BE1,391.19,2.21,0.47,O,1,1X/12,NG,ODD,2.63,1.74
-2024-02-10 19:45:00,US Sassuolo Calcio - Torino AC,3.1,3.4,2.25,IT1,-141.67,0.96,0.99,O,1,2X,NG,ODD,1.99,-0.03
-2024-02-10 20:00:00,Argentinos Juniors - CA Banfield,2.2,3.0,3.4,AR1,37.13,1.54,0.72,O,1,1X/12,GG,EVEN,2.11,0.82
-2024-02-10 20:00:00,UD Las Palmas - FC Valencia,2.75,3.1,2.7,ES1,-87.5,0.88,1.37,O,2,2X,NG,ODD,2.1,-0.49
-2024-02-10 20:00:00,FBC Melgar - Alianza Atletico,1.18,6.75,10.5,PE1,227.72,2.57,0.63,O,1,1X/12,GG,EVEN,3.01,1.94
-2024-02-10 20:00:00,Racing Santander - Espanyol Barcelona,2.45,3.0,2.75,ES2,-61.34,1.06,1.05,O,1,1X,NG,EVEN,2.05,0.01
-2024-02-10 20:00:00,Paris Saint-Germain - OSC Lille,1.53,4.4,5.75,FR1,152.81,2.18,1.19,U,1,1X/12,GG,EVEN,3.21,0.99
-2024-02-10 20:00:00,Heracles Almelo - Vitesse Arnheim,2.15,3.6,3.2,NL1,-8.08,1.39,1.55,O,2,2X,GG,EVEN,2.83,-0.16
-2024-02-10 20:30:00,Boavista Porto - Estoril Praia,2.4,3.2,2.87,PT1,-45.6,1.11,1.24,U,X,2X,GG,EVEN,2.2,-0.13
-2024-02-10 20:30:00,Carlos Mannucci - Comerciantes Unidos,1.68,3.5,4.5,PE1,9.14,1.78,0.9,O,1,1X/12,GG,ODD,2.62,0.88
-2024-02-10 21:00:00,La Equidad - Deportes Tolima,2.5,3.0,2.7,CO1,-71.09,1.01,1.2,U,2,2X,GG,ODD,2.05,-0.19
-2024-02-10 21:15:00,Guarani - Sportivo Ameliano,1.8,3.4,3.7,PY1,86.16,1.16,0.88,U,1,1X,NG,ODD,2.02,0.28
-2024-02-10 22:15:00,Boca Juniors - CSD Defensa y Justicia,1.8,3.5,4.33,AR1,114.25,1.35,0.75,U,1,1X,NG,EVEN,2.04,0.6
-2024-02-10 23:05:00,Guadalajara Chivas - FC Juarez,1.63,3.9,5.0,MX1,200.43,1.62,1.11,O,X,1X,GG,EVEN,2.56,0.51
-2024-02-10 23:10:00,Atletico Bucaramanga - Once Caldas,2.25,3.0,3.1,CO1,-59.29,0.8,0.85,U,X,2X,NG,EVEN,1.61,-0.05
-2024-02-10 23:10:00,Deportivo Riestra - River Plate,5.25,4.33,1.55,AR1,-283.05,0.93,1.6,O,X,2X/12,NG,EVEN,2.62,-0.67
-2024-02-10 23:45:00,Olimpia Asuncion - General Caballero,1.55,3.6,5.0,PY1,164.39,1.46,0.64,U,1,1X/12,NG,ODD,2.08,0.82
-2024-02-11 00:00:00,Leon - Club America,3.25,3.5,2.1,MX1,-123.32,1.0,1.29,U,X,2X,NG,EVEN,2.39,-0.29
-2024-02-11 00:30:00,CA Belgrano - Godoy Cruz,2.35,3.0,3.1,AR1,-15.72,0.92,1.04,O,2,2X,GG,EVEN,1.96,-0.12
-2024-02-11 00:30:00,Central Cordoba - Club Atletico Sarmiento,2.7,2.8,2.85,AR1,-22.2,0.83,0.78,U,X,1X,NG,EVEN,1.61,0.05
-2024-02-11 01:00:00,Cruz Azul - Real San Luis,1.75,3.9,4.1,MX1,85.45,2.06,0.51,O,1,1X/12,NG,ODD,2.73,1.55
-2024-02-11 01:00:00,Alianza Lima - Universitario De Deportes,2.35,3.2,2.75,PE1,-41.28,1.09,1.14,U,X,2X,GG,EVEN,2.34,-0.05
-2024-02-11 01:20:00,Independiente Medellin - Independiente Santa Fe,1.95,3.3,3.5,CO1,30.0,1.53,0.59,O,1,1X/12,NG,ODD,2.03,0.94
-2024-02-11 03:00:00,Monterrey - Pachuca,1.53,4.2,5.5,MX1,138.19,1.73,1.01,U,1,1X/12,NG,EVEN,2.63,0.72
-2024-02-11 03:00:00,Santos Laguna - Tigres,2.95,3.5,2.25,MX1,-127.08,0.96,1.88,O,2,2X/12,GG,EVEN,2.86,-0.92
-2024-02-11 10:30:00,Sivasspor - Caykur Rizespor,2.37,3.4,2.8,TU1,-63.13,1.23,1.04,U,1,1X,NG,EVEN,2.29,0.19
-2024-02-11 11:15:00,Go Ahead Eagles - FC Zwolle,1.78,4.0,4.0,NL1,55.68,1.96,1.39,O,1,1X,GG,EVEN,3.18,0.57
-2024-02-11 11:30:00,AC Fiorentina - Frosinone Calcio,1.51,4.4,6.0,IT1,164.69,2.13,1.19,O,1,1X/12,GG,EVEN,3.1,0.94
-2024-02-11 12:00:00,Le Havre AC - Stade Rennes,3.4,3.3,2.15,FR1,-154.53,0.97,0.86,U,1,1X,NG,ODD,1.63,0.11
-2024-02-11 12:00:00,Coventry City - Millwall FC,1.8,3.6,4.4,UK2,81.24,1.35,0.79,U,1,1X,NG,ODD,2.01,0.56
-2024-02-11 12:30:00,Holstein Kiel - FC Schalke 04,2.3,3.75,2.8,DE2,-0.31,1.74,1.45,O,1,1X,GG,EVEN,3.28,0.29
-2024-02-11 12:30:00,SpVgg Greuther Fürth - Hertha BSC Berlin,1.98,3.8,3.4,DE2,24.79,1.64,1.35,O,1,1X,GG,EVEN,2.96,0.29
-2024-02-11 12:30:00,RWD Molenbeek - Royal Antwerp,5.25,4.33,1.58,BE1,-287.4,0.94,1.48,O,1,2X,NG,EVEN,2.5,-0.54
-2024-02-11 12:30:00,VfL Osnabrück - Hansa Rostock,2.2,3.6,3.1,DE2,-21.23,1.42,1.24,O,1,1X,GG,EVEN,2.63,0.18
-2024-02-11 13:00:00,Villarreal CF II - CD Tenerife,2.8,2.9,2.5,ES2,-97.59,1.02,1.28,U,2,2X,GG,ODD,2.23,-0.26
-2024-02-11 13:00:00,Getafe CF - Celta de Vigo,2.15,3.1,3.6,ES1,-2.52,1.4,0.89,U,1,1X,GG,ODD,2.15,0.51
-2024-02-11 13:00:00,Istanbulspor - Gazisehir Gaziantep FK,2.75,3.3,2.45,TU1,-91.73,1.18,1.65,U,2,2X,GG,EVEN,2.67,-0.47
-2024-02-11 13:00:00,Konyaspor - Ankaragücü,2.55,3.2,2.7,TU1,-40.99,1.35,1.39,U,2,2X,GG,ODD,2.62,-0.04
-2024-02-11 13:15:00,FC Winterthur - FC Luzern,2.6,3.6,2.4,CH1,-72.74,1.34,1.23,O,2,1X,NG,ODD,2.46,0.11
-2024-02-11 13:30:00,SC Heerenveen - Ajax Amsterdam,4.0,4.33,1.75,NL1,-222.85,1.03,1.74,O,2,2X/12,GG,EVEN,2.69,-0.71
-2024-02-11 13:30:00,FC Utrecht - Fortuna Sittard,1.85,3.7,4.1,NL1,54.1,1.38,1.05,U,X,1X,GG,EVEN,2.49,0.33
-2024-02-11 13:30:00,WSG Tirol - SC Austria Lustenau,1.75,3.8,4.1,AT1,97.48,1.91,0.49,O,1,1X/12,NG,ODD,2.54,1.42
-2024-02-11 13:30:00,Wolfsberger AC - Rapid Wien,3.2,3.6,2.05,AT1,-111.97,1.07,1.65,O,2,2X,GG,EVEN,2.58,-0.58
-2024-02-11 14:00:00,Toulouse FC - FC Nantes,2.25,3.4,3.1,FR1,-32.09,1.11,1.0,O,X,1X,NG,EVEN,2.04,0.11
-2024-02-11 14:00:00,Clermont Foot - Stade Brest,3.5,3.4,2.1,FR1,-122.22,1.13,1.49,O,2,2X,GG,ODD,2.62,-0.36
-2024-02-11 14:00:00,SSD Monza 1912 - Hellas Verona,2.05,3.3,3.7,IT1,42.79,1.07,0.7,U,X,1X,GG,EVEN,1.58,0.37
-2024-02-11 14:00:00,FC Dundee - Saint Johnstone FC,2.5,3.1,2.8,SC1,23.81,1.14,1.51,U,2,2X,GG,ODD,2.57,-0.37
-2024-02-11 14:00:00,AE Kifisia FC - Volos NFC,2.15,3.4,3.2,GR1,-13.84,1.33,1.29,O,2,1X,GG,ODD,2.57,0.04
-2024-02-11 14:00:00,FC Lorient - Stade Reims,3.5,3.5,2.05,FR1,-183.22,0.79,1.74,O,2,2X/12,NG,ODD,2.39,-0.95
-2024-02-11 14:00:00,Bologna FC - US Lecce,1.72,3.5,5.25,IT1,112.96,1.09,0.85,U,2,1X,NG,ODD,2.03,0.24
-2024-02-11 14:00:00,West Ham United - Arsenal FC,5.5,4.2,1.57,UK1,-281.38,0.96,1.19,U,1,2X,NG,ODD,2.14,-0.23
-2024-02-11 14:00:00,St. Mirren - Celtic Glasgow,9.0,5.75,1.23,SCCUP,-427.73,0.68,2.52,U,2,2X/12,GG,ODD,3.18,-1.84
-2024-02-11 14:30:00,FC Basel - FC St. Gallen,2.7,3.7,2.3,CH1,-108.29,1.36,1.69,O,2,2X,GG,EVEN,3.04,-0.33
-2024-02-11 14:30:00,VfB Stuttgart - FSV Mainz 05,1.43,4.75,7.0,DE1,175.84,2.01,1.09,O,1,1X/12,GG,EVEN,2.87,0.92
-2024-02-11 15:00:00,Panseraikos - Panathinaikos,7.25,4.5,1.41,GR1,-327.54,0.7,2.02,O,2,2X/12,GG,ODD,2.69,-1.32
-2024-02-11 15:00:00,KV Mechelen - KRC Genk,3.75,3.8,1.9,BE1,-177.42,1.33,1.21,U,X,1X,GG,EVEN,2.46,0.12
-2024-02-11 15:15:00,FC Cartagena - CD Mirandes,2.25,2.95,3.2,ES2,-2.92,0.96,0.8,O,X,1X,NG,EVEN,1.75,0.16
-2024-02-11 15:15:00,RCD Mallorca - Rayo Vallecano,2.35,3.0,3.4,ES1,-21.73,1.07,0.83,U,1,1X,NG,EVEN,1.91,0.24
-2024-02-11 15:15:00,AD Alcorcon - Andorra CF,2.45,2.95,2.85,ES2,-72.03,0.79,0.89,O,X,2X,NG,EVEN,1.78,-0.1
-2024-02-11 15:15:00,Ternana Calcio - Spezia Calcio,2.35,3.3,2.9,IT2,-29.56,1.36,1.3,O,1,1X,GG,ODD,2.69,0.06
-2024-02-11 15:30:00,Yverdon Sport FC - Servette FC,4.75,4.1,1.63,CH1,-255.94,0.74,1.88,O,2,2X/12,NG,EVEN,2.61,-1.14
-2024-02-11 15:30:00,Rio Ave - Casa Pia AC,2.1,3.2,3.6,PT1,28.74,0.89,1.1,U,2,2X,NG,EVEN,1.92,-0.21
-2024-02-11 15:45:00,FC Volendam - PSV Eindhoven,21.0,12.5,1.1,NL1,-609.57,0.53,3.13,O,2,2X/12,GG,EVEN,3.75,-2.6
-2024-02-11 16:00:00,LASK Linz - SK Austria Klagenfurt,1.49,4.33,6.0,AT1,222.81,1.22,1.22,O,2,X,GG,ODD,2.32,0.0
-2024-02-11 16:00:00,Fenerbahce - Alanyaspor,1.22,6.75,11.0,TU1,322.27,2.39,0.74,U,1,1X/12,GG,EVEN,3.1,1.65
-2024-02-11 16:05:00,Montpellier HSC - Olympique Lyon,2.65,3.4,2.6,FR1,-89.98,1.38,1.26,O,1,1X,GG,ODD,2.52,0.12
-2024-02-11 16:30:00,Lamia FC - Asteras Tripolis,2.45,3.2,2.8,GR1,-35.12,1.13,1.0,U,1,1X,NG,EVEN,2.1,0.13
-2024-02-11 16:30:00,1899 Hoffenheim - 1. FC Köln,1.78,4.0,4.1,DE1,77.77,2.2,1.32,O,1,1X/12,GG,EVEN,3.32,0.88
-2024-02-11 16:30:00,Aston Villa - Manchester United,2.05,3.8,3.2,UK1,7.5,1.26,1.61,O,X,2X,GG,EVEN,2.79,-0.35
-2024-02-11 17:00:00,Airdrieonians FC - Heart of Midlothian,3.6,3.5,1.8,SCCUP,-223.99,0.67,1.57,U,2,2X/12,NG,EVEN,2.34,-0.9
-2024-02-11 17:00:00,Genoa FC - Atalanta Bergamo,3.5,3.25,2.15,IT1,-151.67,0.98,0.82,U,1,1X,NG,ODD,1.67,0.16
-2024-02-11 17:30:00,SC Charleroi - RSC Anderlecht,3.5,3.5,2.05,BE1,-163.42,0.79,1.74,O,2,2X/12,NG,ODD,2.39,-0.95
-2024-02-11 17:30:00,Sevilla FC - Atletico Madrid,3.4,3.5,2.1,ES1,-170.02,0.87,1.5,O,2,2X,NG,ODD,2.43,-0.63
-2024-02-11 17:30:00,SD Eibar - Real Zaragoza,1.8,3.25,4.2,ES2,84.53,1.13,0.95,U,2,1X,GG,ODD,2.09,0.18
+2024-02-05 23:00:00,Argentina U23 - Venezuela U23,1.7,3.7,4.2,OLQTCUP,111.45,1.62,1.01,O,1,1X,GG,ODD,2.48,0.61
+2024-02-06 01:05:00,Club Atletico Sarmiento - CSD Defensa y Justicia,2.85,2.9,2.65,AR1,-64.11,1.15,1.1,O,1,1X,GG,EVEN,2.16,0.05
+2024-02-06 12:00:00,Coventry City - Sheffield Wednesday,1.53,4.33,6.0,UKFACUP,145.72,1.49,1.16,O,2,1X,GG,ODD,2.52,0.33
+2024-02-06 13:00:00,AZ Picerno - Catania Calcio,2.1,2.95,3.2,IT3C,-26.95,0.95,0.97,U,2,2X,NG,ODD,1.85,-0.02
+2024-02-06 13:00:00,CA Bizertin - ES Metlaoui,1.6,3.0,6.0,TN1,45.52,1.11,0.55,O,1,1X,NG,ODD,1.54,0.56
+2024-02-06 13:00:00,US Tataouine - AS Marsa,2.45,2.87,2.7,TN1,-63.06,1.32,1.47,O,2,2X,GG,ODD,2.83,-0.15
+2024-02-06 14:30:00,Ankaragücü - Erzincanspor,1.3,5.0,7.75,TUCUP,242.18,1.95,0.87,U,1,1X/12,NG,ODD,2.67,1.08
+2024-02-06 15:00:00,Jordan - South Korea,6.25,4.0,1.52,AFC,-337.91,0.55,1.61,O,2,2X/12,NG,EVEN,2.23,-1.06
+2024-02-06 15:00:00,Walsall FC - Morecambe FC,1.83,3.5,4.1,UK4,84.12,1.66,0.78,O,1,1X/12,GG,ODD,2.38,0.88
+2024-02-06 15:00:00,Southampton FC - Watford FC,1.55,4.5,5.25,UKFACUP,135.97,2.18,1.02,O,1,1X/12,GG,ODD,3.24,1.16
+2024-02-06 15:00:00,Cambridge United - Bolton Wanderers,3.6,3.3,2.0,UK3,-178.27,1.07,1.61,O,2,2X,GG,ODD,2.66,-0.54
+2024-02-06 15:00:00,Port Vale - Leyton Orient,3.2,3.2,2.2,UK3,-86.17,1.2,0.96,U,1,1X,NG,ODD,2.16,0.24
+2024-02-06 15:00:00,Bristol Rovers - Fleetwood Town,1.66,4.0,4.6,UK3,119.89,1.73,0.91,U,1,1X/12,NG,ODD,2.4,0.82
+2024-02-06 15:15:00,RCD Mallorca - Real Sociedad,3.6,2.87,2.3,ESCUP,-164.74,0.92,1.04,U,1,2X,GG,EVEN,1.93,-0.12
+2024-02-06 16:00:00,Busaiteen Club - Al Shabab Manama,2.65,3.0,2.4,BH1,-55.34,1.01,1.19,U,2,2X,NG,ODD,2.06,-0.18
+2024-02-06 16:00:00,Manama Club - Al Riffa,3.0,3.2,2.1,BH1,-63.23,1.42,0.84,U,1,1X,GG,ODD,2.26,0.58
+2024-02-06 16:00:00,Galatasaray - Bandirmaspor,1.12,8.5,13.5,TUCUP,390.5,2.74,0.54,O,1,1X/12,NG,EVEN,3.23,2.2
+2024-02-06 16:45:00,Ujpest Budapest - Debrecen VSC,2.85,3.3,2.25,HU1,-90.29,1.06,1.57,O,2,2X,GG,ODD,2.59,-0.51
+2024-02-06 17:00:00,Nea Salamina - Aris Limassol,5.5,4.33,1.42,CY1,-267.07,1.24,1.41,O,1,2X,GG,EVEN,2.41,-0.17
+2024-02-06 17:00:00,Karmiotissa Polemidion - AEL Limassol FC,2.65,3.2,2.3,CY1,-68.54,1.32,1.46,O,2,2X,GG,ODD,2.81,-0.14
+2024-02-06 17:30:00,Bayer Leverkusen - VfB Stuttgart,1.68,4.1,4.5,DECUP,104.29,1.86,1.14,U,1,1X/12,GG,EVEN,2.88,0.72
+2024-02-06 17:30:00,Glasgow Rangers - FC Aberdeen,1.23,6.25,11.5,SC1,320.05,2.33,0.55,O,1,1X/12,NG,ODD,3.03,1.78
+2024-02-06 18:00:00,Bnei Yehuda - Hapoel Umm Al Fahm,1.9,3.4,3.3,IL2,56.13,1.66,0.95,O,1,1X/12,GG,EVEN,2.51,0.71
+2024-02-06 18:00:00,Maccabi Jaffa - Hapoel Kfar Saba,1.39,4.33,6.25,IL2,271.84,2.12,0.67,U,1,1X/12,NG,EVEN,2.71,1.45
+2024-02-06 18:00:00,Hapoel Nof Hagalil - MS Kafr Kasem,1.78,3.3,3.8,IL2,25.38,1.38,0.92,U,1,1X,GG,EVEN,2.18,0.46
+2024-02-06 18:00:00,Hapoel Ramat Gan - Ihud Bnei Shfaram,1.77,3.25,4.0,IL2,120.83,1.14,0.78,U,1,1X,NG,ODD,1.93,0.36
+2024-02-06 18:00:00,Maccabi Amishav Petah Tikva - Hapoel Mahane Yehuda,1.66,3.4,4.4,ILCUP,108.02,1.85,0.94,O,1,1X/12,GG,ODD,2.8,0.91
+2024-02-06 18:00:00,TSV 1860 München - Rot-Weiss Essen,2.25,3.4,2.95,DE3,-1.0,1.47,1.05,U,1,1X,NG,EVEN,2.4,0.42
+2024-02-06 18:00:00,Stade Nyonnais - FC Schaffhausen,1.72,3.6,3.8,CH2,73.59,1.49,0.94,O,1,1X,GG,ODD,2.33,0.55
+2024-02-06 18:00:00,Hapoel Afula - Hapoel Ironi Kiryat Shmona,6.0,4.2,1.41,IL2,-271.54,0.59,1.61,O,2,2X/12,NG,EVEN,2.16,-1.02
+2024-02-06 18:00:00,Ironi Rishon Lezion - Ironi Tiberias,3.25,3.1,2.0,IL2,-149.01,0.93,1.23,U,2,2X,NG,EVEN,2.15,-0.3
+2024-02-06 18:00:00,Hapoel Akko - Sektzia Nes Tziona,2.15,3.25,2.87,IL2,-65.44,0.9,1.41,U,2,2X,NG,EVEN,2.3,-0.51
+2024-02-06 18:00:00,Ironi Ramat Hasharon - Maccabi Herzelia,1.93,3.4,3.25,IL2,94.36,1.5,1.02,O,1,1X,NG,ODD,2.52,0.48
+2024-02-06 19:00:00,NEC Nijmegen - ADO Den Haag,1.58,3.9,4.4,NLCUP,119.84,1.42,1.16,U,2,1X,GG,ODD,2.66,0.26
+2024-02-06 19:00:00,Ferencvaros Budapest - MTK Budapest,1.29,5.25,8.25,HU1,271.71,2.31,0.58,O,1,1X/12,NG,ODD,2.7,1.73
+2024-02-06 19:45:00,FC Sochaux - Stade Rennes,5.75,3.9,1.51,FRCUP,-375.88,0.86,1.57,U,2,2X/12,GG,ODD,2.52,-0.71
+2024-02-06 19:45:00,Exeter City - Peterborough United,3.7,3.6,1.93,UK3,-194.98,0.99,1.39,U,X,2X,GG,ODD,2.31,-0.4
+2024-02-06 19:45:00,Gateshead FC - Eastleigh FC,1.44,4.33,5.25,UK5,165.28,2.21,0.8,O,1,1X/12,NG,EVEN,2.87,1.41
+2024-02-06 19:45:00,Burton Albion - Cheltenham Town,2.9,3.2,2.4,UK3,-89.03,1.02,1.36,U,2,2X,GG,EVEN,2.34,-0.34
+2024-02-06 19:45:00,Plymouth Argyle - Leeds United,5.0,4.33,1.61,UKFACUP,-273.92,0.71,1.75,O,2,2X/12,GG,EVEN,2.61,-1.04
+2024-02-06 19:45:00,Glentoran FC - Cliftonville FC,2.4,3.4,2.6,NI1,-75.69,1.32,1.56,U,2,2X,GG,ODD,2.71,-0.24
+2024-02-06 19:45:00,Stirling Albion - Montrose FC,2.2,3.2,2.85,SC3,0.0,1.56,1.34,U,2,1X,GG,ODD,2.87,0.22
+2024-02-06 19:45:00,Stevenage FC - Reading FC,1.61,3.75,5.5,UK3,149.41,1.72,1.02,U,1,1X/12,GG,EVEN,2.7,0.7
+2024-02-06 19:45:00,FC Motherwell - Ross County,1.98,3.3,3.75,SC1,40.2,1.49,0.55,O,1,1X/12,NG,ODD,1.98,0.94
+2024-02-06 19:45:00,Halifax Town - Solihull Moors FC,2.05,3.1,3.2,UK5,14.4,1.09,1.28,O,2,2X,NG,ODD,2.31,-0.19
+2024-02-06 19:45:00,Wealdstone FC - Maidenhead United,1.93,3.4,3.25,UK5,55.99,1.5,1.02,U,2,1X,NG,ODD,2.52,0.48
+2024-02-06 19:45:00,Dagenham & Redbridge - Chesterfield FC,4.0,3.5,1.7,UK5,-214.92,0.92,1.84,U,2,2X/12,NG,EVEN,2.81,-0.92
+2024-02-06 19:45:00,Altrincham FC - Dorking Wanderers,1.43,4.4,5.25,UK5,196.58,2.14,1.02,O,1,1X/12,GG,ODD,2.94,1.12
+2024-02-06 19:45:00,Woking FC - Oxford City,1.55,3.9,4.6,UK5,148.52,1.49,1.17,O,1,1X,GG,ODD,2.53,0.32
+2024-02-06 23:05:00,Club Celaya - Dorados,1.24,5.5,9.25,MX2,288.21,2.89,0.63,O,1,1X/12,NG,ODD,3.56,2.26
+2024-02-06 23:10:00,Once Caldas - La Equidad,2.3,2.95,3.1,CO1,-36.45,1.39,0.9,U,1,1X,GG,EVEN,2.16,0.49
+2024-02-07 00:00:00,Atletico Tucuman - Argentinos Juniors,2.55,2.9,2.95,AR1,-75.26,0.74,1.01,U,X,2X,NG,EVEN,1.51,-0.27
+2024-02-07 00:30:00,Academia Puerto Cabello - Defensor Sporting,2.4,3.1,2.9,CLICUP,-89.22,1.04,1.26,U,2,2X,GG,EVEN,2.14,-0.22
+2024-02-07 00:30:00,Gremio Porto Alegre - EC Novo Hamburgo,1.29,4.8,9.5,BRGA,272.88,1.77,0.4,O,1,1X/12,NG,EVEN,2.23,1.37
+2024-02-07 01:00:00,Comunicaciones - Monterrey,4.6,3.75,1.7,CCCUP,-227.5,0.87,1.75,O,2,2X/12,GG,EVEN,2.58,-0.88
+2024-02-07 01:05:00,Alebrijes de Oaxaca - Correcaminos,2.6,3.3,2.3,MX2,-125.84,1.14,1.18,U,X,2X,GG,EVEN,2.38,-0.04
+2024-02-07 01:20:00,Independiente Santa Fe - Atletico Bucaramanga,1.6,3.6,5.25,CO1,95.84,1.4,1.01,O,1,1X,GG,ODD,2.36,0.39
+2024-02-07 03:00:00,Real Esteli FC - Club America,6.5,4.6,1.43,CCCUP,-259.19,0.91,1.77,O,2,2X/12,NG,EVEN,2.55,-0.86
+2024-02-07 10:30:00,Sivasspor - Konyaspor,2.1,3.25,3.0,TUCUP,13.81,1.27,1.24,U,2,1X,GG,EVEN,2.53,0.03
+2024-02-07 13:00:00,AS Slimane - Olympique Beja,2.55,2.7,2.7,TN1,-78.24,0.79,1.13,U,2,2X,NG,EVEN,1.83,-0.34
+2024-02-07 13:00:00,Gawafel Gafsah - US Ben Guerdane,2.85,2.8,2.7,TN1,-106.06,0.57,0.88,U,X,2X,NG,EVEN,1.35,-0.31
+2024-02-07 14:00:00,St. Mirren - FC Dundee,2.25,3.3,3.1,SC1,16.73,1.2,1.49,O,2,2X,GG,EVEN,2.7,-0.29
+2024-02-07 14:00:00,Bengaluru FC - Chennaiyin FC,1.95,3.5,3.4,IN1,56.28,1.41,1.04,U,X,1X,NG,EVEN,2.26,0.37
+2024-02-07 14:30:00,Istanbul Basaksehir FK - Hatayspor Antakya,1.83,3.5,3.5,TUCUP,51.79,1.36,1.0,U,X,1X,GG,EVEN,2.48,0.36
+2024-02-07 15:00:00,Iran - Qatar,1.73,3.5,4.75,AFC,218.26,1.66,0.93,U,1,1X/12,GG,EVEN,2.58,0.73
+2024-02-07 15:00:00,FC Kilmarnock - Livingston FC,1.6,3.8,5.5,SC1,135.69,1.39,0.89,O,X,1X,NG,ODD,2.21,0.5
+2024-02-07 15:00:00,Chabab Riadi Salmi - Ittihad Tanger,2.45,2.95,2.6,MA1,-34.38,0.84,0.94,U,X,2X,NG,EVEN,1.62,-0.1
+2024-02-07 15:00:00,Renaissance Zemamra - Union de Touarga,2.25,2.95,2.95,MA1,-24.84,0.94,0.73,U,X,1X,NG,EVEN,1.52,0.21
+2024-02-07 15:00:00,FUS Rabat - Wydad Casablanca,2.8,2.75,2.5,MA1,-103.21,0.86,0.93,U,2,2X,NG,EVEN,1.82,-0.07
+2024-02-07 16:05:00,Montpellier HSC - OGC Nice,2.95,3.2,2.25,FRCUP,-122.96,0.94,1.28,U,2,2X,GG,EVEN,2.16,-0.34
+2024-02-07 16:30:00,Aston Villa - Chelsea FC,2.1,3.7,3.2,UKFACUP,-18.59,1.51,1.4,O,1,1X,GG,EVEN,2.85,0.11
+2024-02-07 16:45:00,Varda SE - Fehervar FC,2.25,3.3,2.85,HU1,-22.95,1.55,1.02,O,1,1X,GG,EVEN,2.52,0.53
+2024-02-07 17:00:00,Nigeria - South Africa,1.57,3.6,6.25,CAF,256.08,1.24,0.62,U,1,1X,NG,ODD,1.89,0.62
+2024-02-07 17:00:00,Moghreb Athletic Tetouan - MAS Maghrib Fes,2.3,2.9,2.9,MA1,-9.45,0.95,1.3,O,2,2X,GG,ODD,2.18,-0.35
+2024-02-07 17:00:00,Hassania Agadir - Olympique Safi,2.55,2.85,2.65,MA1,-82.27,1.03,1.41,U,2,2X,GG,ODD,2.36,-0.38
+2024-02-07 17:30:00,Nottingham Forest - Bristol City,1.52,4.33,6.0,UKFACUP,152.06,1.48,1.07,O,2,1X,NG,EVEN,2.48,0.41
+2024-02-07 17:30:00,FSV Mainz 05 - 1. FC Union Berlin,2.15,3.2,3.5,DE1,7.15,1.43,0.83,O,1,1X,GG,ODD,2.15,0.6
+2024-02-07 17:30:00,Olympique Lyon - OSC Lille,2.65,3.4,2.35,FRCUP,-102.83,1.4,1.36,U,1,1X,GG,ODD,2.8,0.04
+2024-02-07 17:45:00,Leeuwarden Cambuur - Vitesse Arnheim,2.25,3.4,2.65,NLCUP,-64.9,1.3,1.22,U,1,1X,NG,EVEN,2.44,0.08
+2024-02-07 17:45:00,Gazisehir Gaziantep FK - Fenerbahce,6.5,4.75,1.36,TUCUP,-359.08,0.77,1.9,U,2,2X/12,NG,EVEN,2.45,-1.13
+2024-02-07 18:00:00,SpVgg Unterhaching - Hallescher FC,2.15,3.5,3.0,DE3,-7.4,1.05,1.05,O,2,X,NG,ODD,2.16,0.0
+2024-02-07 18:00:00,Al Taee Hail - Al Ittihad Jeddah,5.0,4.33,1.57,SA1,-249.85,0.91,1.73,O,2,2X/12,NG,ODD,2.61,-0.82
+2024-02-07 19:00:00,Feyenoord Rotterdam - AZ Alkmaar,1.39,4.5,6.25,NLCUP,233.78,2.35,0.84,O,1,1X/12,GG,EVEN,3.1,1.51
+2024-02-07 19:00:00,FCV Dender EH - RFC Seresien,1.49,4.1,5.0,BE2,172.48,1.66,1.03,O,1,1X,GG,EVEN,2.6,0.63
+2024-02-07 19:00:00,RSC Anderlecht II - RFC Liege,2.55,3.3,2.3,BE2,-63.45,0.88,0.99,U,2,2X,NG,ODD,1.87,-0.11
+2024-02-07 19:00:00,Puskas FC - Zalaegerszeg TE,1.55,4.0,5.0,HU1,114.57,2.0,0.99,O,1,1X/12,GG,ODD,2.9,1.01
+2024-02-07 19:00:00,Lommel SK - KFCO Beerschot Wilrijk,2.1,3.2,2.95,BE2,1.49,1.24,1.0,O,1,1X,NG,ODD,2.2,0.24
+2024-02-07 19:30:00,Racing Strasbourg - Le Havre AC,2.05,3.1,3.4,FRCUP,58.05,1.26,1.41,U,2,2X,GG,EVEN,2.65,-0.15
+2024-02-07 19:30:00,AS Saint Priest - Valenciennes FC,6.0,4.4,1.44,FRCUP,-206.29,0.58,1.81,U,2,2X/12,NG,EVEN,2.11,-1.23
+2024-02-07 19:30:00,Le Puy Foot 43 - Stade Lavallois,3.9,3.75,1.75,FRCUP,-225.71,1.05,1.57,O,2,2X,GG,ODD,2.52,-0.52
+2024-02-07 19:45:00,FC Brügge - Union Saint-Gilloise,2.05,3.4,3.0,BECUP,33.26,0.93,0.79,U,X,1X,NG,EVEN,1.69,0.14
+2024-02-07 19:45:00,Saint Johnstone FC - Heart of Midlothian,3.6,3.4,2.0,SC1,-165.33,1.18,1.69,U,2,2X,GG,EVEN,2.82,-0.51
+2024-02-07 19:45:00,Uniao Leiria - Sporting Lisboa,10.5,5.75,1.21,PTCUP,-443.28,0.83,2.36,U,2,2X/12,GG,EVEN,2.91,-1.53
+2024-02-07 19:45:00,1. FC Saarbrücken - Mönchengladbach,4.33,4.0,1.75,DECUP,-192.15,1.15,1.43,O,X,2X,GG,ODD,2.4,-0.28
+2024-02-07 20:00:00,Hibernian Edinburgh - Celtic Glasgow,7.0,5.5,1.34,SC1,-378.64,0.84,1.66,U,2,2X/12,NG,ODD,2.54,-0.82
+2024-02-07 20:00:00,Paris Saint-Germain - Stade Brest,1.37,4.8,6.75,FRCUP,242.43,1.79,0.87,O,1,1X/12,GG,ODD,2.57,0.92
+2024-02-07 20:00:00,Cote d'Ivoire - DR Congo,2.1,3.0,3.8,CAF,64.13,1.46,0.9,U,1,1X,GG,ODD,2.28,0.56
+2024-02-07 20:30:00,Atletico Madrid - Athletic Bilbao,1.98,3.4,3.8,ESCUP,33.08,1.6,0.69,U,1,1X/12,GG,ODD,2.25,0.91
+2024-02-07 21:00:00,Envigado - Alianza FC Valledupar,2.2,3.1,3.1,CO1,8.1,1.16,0.67,U,1,1X,NG,ODD,1.8,0.49
+2024-02-07 21:30:00,Bangu AC - Volta Redonda,3.5,3.25,2.05,BRC,-216.28,0.97,1.38,O,2,2X,GG,ODD,2.38,-0.41
+2024-02-07 22:00:00,Botafogo SP - Ponte Preta,2.1,3.2,3.5,BRP,-12.08,1.13,0.94,U,2,1X,NG,EVEN,1.98,0.19
+2024-02-07 22:30:00,Santos FC - Corinthians,2.0,3.3,3.7,BRP,27.33,1.02,0.98,U,2,1X,NG,EVEN,1.94,0.04
+2024-02-07 23:00:00,CS Herediano - Toluca,3.5,3.4,2.05,CCCUP,-124.96,0.98,1.76,U,2,2X/12,GG,ODD,2.62,-0.78
+2024-02-07 23:10:00,Deportivo Pereira - Fortaleza FC,1.8,3.4,4.0,CO1,50.27,1.15,0.9,U,X,1X,NG,EVEN,2.0,0.25
+2024-02-07 23:30:00,Flamengo - Botafogo-RJ,1.61,3.9,5.0,BRC,147.46,1.69,1.27,O,X,1X,GG,EVEN,2.96,0.42
+2024-02-08 00:00:00,Novorizontino - CA Bragantino,3.4,3.4,2.1,BRP,-204.65,0.94,1.59,O,2,2X/12,GG,ODD,2.62,-0.65
+2024-02-08 00:30:00,Aurora Cochabamba - FBC Melgar,2.75,3.3,2.45,CLICUP,-129.49,1.21,1.55,U,2,2X,GG,ODD,2.61,-0.34
+2024-02-08 00:30:00,Sao Bernardo FC - Portuguesa Desportos,2.05,3.2,3.75,BRP,42.77,1.4,1.08,U,1,1X,GG,EVEN,2.47,0.32
+2024-02-08 00:30:00,Santa Cruz RS - Internacional,6.5,4.4,1.4,BRGA,-374.31,0.69,1.99,U,2,2X/12,GG,EVEN,2.58,-1.3
+2024-02-08 00:35:00,Sao Paulo - EC Agua Santa,1.34,4.75,9.25,BRP,280.33,1.65,0.58,U,1,1X/12,GG,ODD,2.37,1.07
+2024-02-08 01:00:00,Millonarios - America de Cali,1.65,3.6,4.8,CO1,45.96,1.42,0.84,U,2,1X,NG,ODD,2.07,0.58
+2024-02-08 01:00:00,Forge FC - Guadalajara Chivas,7.75,5.5,1.33,CCCUP,-259.28,0.79,2.12,O,2,2X/12,GG,EVEN,2.82,-1.33
+2024-02-08 01:05:00,Club Atletico La Paz - Atlante UTN,3.4,3.2,1.95,MX2,-177.99,0.76,0.87,U,1,2X,NG,ODD,1.64,-0.11
+2024-02-08 03:00:00,Vancouver Whitecaps - Tigres,3.1,3.5,2.15,CCCUP,-103.83,1.31,1.25,O,1,1X,GG,EVEN,2.55,0.06
+2024-02-08 03:00:00,Pachuca - Leon,2.2,3.6,2.95,MX1,-43.32,1.63,1.23,U,1,1X,GG,EVEN,2.82,0.4
+2024-02-08 03:05:00,Cimarrones - CD Tapatio,1.98,3.3,3.1,MX2,-13.46,1.26,1.0,U,2,1X,NG,EVEN,2.31,0.26
+2024-02-08 14:30:00,Genclerbirligi - Trabzonspor,4.6,3.9,1.57,TUCUP,-251.62,0.98,1.43,O,1,2X,GG,ODD,2.59,-0.45
+2024-02-08 15:00:00,Mezökövesdi SE - Paks SE,3.6,3.6,1.83,HU1,-181.16,1.05,1.47,O,2,2X,GG,ODD,2.55,-0.42
+2024-02-08 17:45:00,Antalyaspor - Besiktas,2.55,3.3,2.35,TUCUP,-61.29,1.09,1.24,O,2,2X,GG,EVEN,2.44,-0.15
+2024-02-08 18:45:00,Nova Iguacu - Madureira,1.93,3.4,3.9,BRC,42.61,1.0,0.92,U,2,1X,NG,ODD,1.86,0.08
+2024-02-08 19:00:00,KV Oostende - Royal Antwerp,4.6,3.75,1.6,BECUP,-319.9,0.59,1.56,O,2,2X/12,NG,EVEN,2.16,-0.97
+2024-02-08 19:00:00,FC Groningen - Fortuna Sittard,2.45,3.3,2.45,NLCUP,-65.06,1.2,1.26,U,X,2X,NG,ODD,2.26,-0.06
+2024-02-08 19:00:00,Kecskemeti TE - Diosgyor DVTK,2.15,3.4,2.9,HU1,-34.95,1.36,1.4,O,2,2X,GG,ODD,2.64,-0.04
+2024-02-08 19:45:00,FC Rouen 1899 - AS Monaco,8.25,5.5,1.28,FRCUP,-426.52,1.14,2.11,O,2,2X/12,GG,ODD,3.26,-0.97
+2024-02-08 20:30:00,Vitoria Guimaraes - Gil Vicente,1.71,3.5,4.1,PTCUP,127.22,1.63,0.88,O,1,1X/12,GG,EVEN,2.38,0.75
+2024-02-08 22:00:00,Mirassol - EC Santo André,1.8,3.3,4.6,BRP,111.49,1.02,1.42,O,2,2X,GG,ODD,2.51,-0.4
+2024-02-08 22:30:00,Rosario Central - Independiente Rivadavia,2.0,3.2,3.75,AR1,42.6,1.36,0.98,U,X,1X,GG,ODD,2.35,0.38
+2024-02-08 23:10:00,Atletico Junior - Deportivo Pasto,1.44,4.2,6.25,CO1,110.01,1.59,0.61,U,1,1X/12,NG,EVEN,2.17,0.98
+2024-02-09 00:00:00,Palmeiras - Ituano,1.33,5.0,9.0,BRP,328.7,1.5,0.59,U,1,1X/12,GG,EVEN,2.16,0.91
+2024-02-09 00:15:00,CA Huracan - CA Independiente,2.6,2.95,2.85,AR1,-31.89,0.68,1.04,U,2,2X,NG,EVEN,1.6,-0.36
+2024-02-09 00:15:00,Vasco da Gama - Audax Rio,1.29,5.25,10.5,BRC,414.66,1.85,0.32,U,1,1X/12,NG,EVEN,2.08,1.53
+2024-02-09 00:30:00,SD Aucas - Nacional Asuncion,1.82,3.5,4.2,CLICUP,18.18,1.32,0.81,U,1,1X,NG,ODD,2.04,0.51
+2024-02-09 00:30:00,Guarani SP - Inter de Limeira,1.8,3.3,4.6,BRP,82.31,1.02,1.42,U,2,2X,GG,ODD,2.51,-0.4
+2024-02-09 00:30:00,Fluminense - Sampaio Correa RJ,1.11,8.25,29.0,BRC,448.27,2.67,0.68,O,1,1X/12,NG,EVEN,3.05,1.99
+2024-02-09 00:30:00,Estudiantes La Plata - CA Tigre,1.83,3.4,4.33,AR1,95.41,1.11,0.61,U,X,1X,NG,EVEN,1.78,0.5
+2024-02-09 01:20:00,Patriotas Boyaca - Atletico Nacional Medellin,3.5,3.2,2.0,CO1,-151.05,1.05,1.36,U,2,2X,GG,EVEN,2.38,-0.31
+2024-02-09 08:45:00,Adelaide United - Perth Glory,1.72,4.2,3.9,AU1,80.67,1.59,1.3,O,2,1X,GG,EVEN,2.78,0.29
+2024-02-09 15:00:00,Otelul Galati - FC Universitatea Craiova,2.45,3.1,2.7,RO1,-45.96,0.93,1.07,U,2,2X,NG,EVEN,1.91,-0.14
+2024-02-09 16:00:00,NK Varazdin SN - NK Rudeš,1.6,4.0,5.25,HR1,145.84,1.5,1.23,O,2,1X,GG,ODD,2.71,0.27
+2024-02-09 16:00:00,Corum FK - √úmraniyespor,1.93,3.4,3.5,TU2,40.26,1.05,0.99,U,2,1X,NG,ODD,2.02,0.06
+2024-02-09 16:30:00,MSK Zilina - Slovan Bratislava,3.4,3.7,1.88,SK1,-189.23,0.85,1.57,O,2,2X/12,NG,ODD,2.43,-0.72
+2024-02-09 17:00:00,Stal Mielec - Puszcza Niepolomice,2.0,3.4,3.6,PL1,32.32,1.46,1.43,U,2,1X,GG,EVEN,2.86,0.03
+2024-02-09 17:00:00,Adana Demirspor - Kasimpasa Istanbul,2.15,3.8,2.85,TU1,-15.95,1.27,1.61,O,2,2X,NG,EVEN,2.87,-0.34
+2024-02-09 17:30:00,Olympique Marseille - FC Metz,1.33,5.0,9.5,FR1,283.61,1.34,0.57,U,X,1X/12,NG,EVEN,1.85,0.77
+2024-02-09 17:30:00,SV Wehen Wiesbaden - 1. FC Nürnberg,2.25,3.75,2.87,DE2,-26.57,1.48,1.2,O,1,1X,GG,ODD,2.57,0.28
+2024-02-09 17:30:00,Hamburger SV - Hannover 96,1.73,4.1,4.2,DE2,85.84,2.04,1.16,O,1,1X/12,GG,ODD,3.34,0.88
+2024-02-09 18:00:00,UD Oliveirense - SCU Torreense,2.87,3.2,2.25,PT2,-94.67,1.36,1.43,U,2,2X,GG,ODD,2.79,-0.07
+2024-02-09 18:00:00,FC Viktoria Köln - Borussia Dortmund II,1.9,3.6,3.7,DE3,64.28,1.93,0.64,O,1,1X/12,NG,ODD,2.57,1.29
+2024-02-09 18:00:00,CS Universitatea Craiova - Universitatea Cluj,1.85,3.3,3.9,RO1,44.34,1.12,1.23,U,2,2X,GG,EVEN,2.21,-0.11
+2024-02-09 19:00:00,RKC Waalwijk - NEC Nijmegen,2.75,3.6,2.4,NL1,-68.22,1.67,1.23,O,1,1X,GG,ODD,2.79,0.44
+2024-02-09 19:00:00,Royal Francs Borains - Club Brugge II,1.75,3.6,3.6,BE2,70.94,1.12,1.55,U,2,2X,NG,EVEN,2.63,-0.43
+2024-02-09 19:00:00,De Graafschap - Willem II Tilburg,2.75,3.4,2.25,NL2,-106.1,0.93,1.21,O,2,2X,NG,ODD,2.08,-0.28
+2024-02-09 19:00:00,Roda Kerkrade - FC Dordrecht,1.58,4.1,4.6,NL2,109.17,1.94,0.95,O,1,1X/12,GG,ODD,2.69,0.99
+2024-02-09 19:00:00,NAC Breda - FC Eindhoven,1.55,4.0,5.0,NL2,128.83,2.0,0.99,O,1,1X/12,GG,ODD,2.9,1.01
+2024-02-09 19:00:00,PSV Eindhoven II - FC Emmen,3.0,3.7,2.0,NL2,-123.99,1.27,1.59,O,2,2X,NG,ODD,2.53,-0.32
+2024-02-09 19:00:00,Stormvogels/Telstar - Helmond Sport,2.25,3.4,2.8,NL2,-29.07,1.3,1.35,O,1,2X,GG,ODD,2.54,-0.05
+2024-02-09 19:00:00,KMSK Deinze - Patro Eisden,1.85,3.4,3.4,BE2,57.2,1.39,1.02,O,1,1X,GG,ODD,2.21,0.37
+2024-02-09 19:30:00,Greenock Morton FC - FC Motherwell,3.1,3.3,2.05,SCCUP,-121.68,1.38,1.26,U,1,1X,GG,ODD,2.48,0.12
+2024-02-09 19:30:00,Ruch Chorzow - Legia Warszawa,4.75,3.8,1.68,PL1,-258.35,0.95,1.68,O,2,2X/12,GG,EVEN,2.49,-0.73
+2024-02-09 19:30:00,Red Bull Salzburg - Sturm Graz,1.85,3.6,3.9,AT1,79.04,1.32,0.71,U,1,1X,NG,ODD,1.86,0.61
+2024-02-09 19:30:00,Borussia Dortmund - SC Freiburg,1.55,4.5,5.25,DE1,114.56,2.18,1.02,U,1,1X/12,GG,EVEN,3.24,1.16
+2024-02-09 19:30:00,UD Levante Valencia - CD Leganes,2.15,3.0,3.4,ES2,11.36,1.19,0.99,U,1,1X,NG,ODD,2.11,0.2
+2024-02-09 19:30:00,Como Calcio - Brescia Calcio,1.83,3.4,4.2,IT2,93.32,1.35,0.68,U,1,1X/12,NG,ODD,2.05,0.67
+2024-02-09 19:45:00,SSD Pro Sesto - US Alessandria 1912,2.05,2.8,3.5,IT3A,25.92,1.18,0.76,O,1,1X,NG,ODD,1.79,0.42
+2024-02-09 19:45:00,VV St. Truiden - KV Kortrijk,1.55,4.2,5.75,BE1,176.93,1.85,0.7,U,1,1X/12,NG,EVEN,2.58,1.15
+2024-02-09 19:45:00,Salernitana Calcio 1919 - Empoli FC,2.45,3.3,2.9,IT1,-13.75,1.51,1.05,O,1,1X,NG,ODD,2.42,0.46
+2024-02-09 19:45:00,AC Mantova - US Triestina Calcio,2.05,3.0,3.2,IT3A,36.59,1.0,1.26,O,2,2X,NG,ODD,2.04,-0.26
+2024-02-09 19:45:00,Rimini Calcio - Cesena FC,3.2,3.3,1.98,IT3B,-217.73,0.96,1.28,O,2,2X,NG,EVEN,2.17,-0.32
+2024-02-09 19:45:00,Spal Ferrara 1907 - US Recanatese,1.82,3.3,3.7,IT3B,100.93,1.32,0.78,U,1,1X,NG,ODD,2.02,0.54
+2024-02-09 19:45:00,AS Gubbio 1910 - Pescara Calcio,2.35,3.2,2.6,IT3B,-74.96,1.42,1.01,O,1,1X,GG,EVEN,2.3,0.41
+2024-02-09 19:45:00,US Pontedera - AC Arezzo,1.98,3.2,3.3,IT3B,20.22,1.02,0.71,U,1,1X,NG,EVEN,1.67,0.31
+2024-02-09 19:45:00,Notts County - Gillingham FC,1.88,3.7,3.7,UK4,45.68,1.93,0.77,U,1,1X/12,NG,ODD,2.6,1.16
+2024-02-09 19:45:00,Sestri Levante - Perugia Calcio,3.5,3.1,1.95,IT3B,-176.98,0.7,1.17,U,2,2X,NG,ODD,1.87,-0.47
+2024-02-09 20:00:00,Sheffield Wednesday - Birmingham City,2.25,3.4,3.1,UK2,-46.62,1.09,1.05,O,2,1X,NG,EVEN,2.05,0.04
+2024-02-09 20:00:00,Cadiz CF - Betis Sevilla,2.95,3.2,2.45,ES1,-152.56,1.1,0.79,O,1,1X,NG,EVEN,1.81,0.31
+2024-02-09 20:00:00,UTC Cajamarca - Universidad César Vallejo,2.15,3.25,3.0,PE1,-94.96,1.29,0.86,U,1,1X,GG,ODD,2.16,0.43
+2024-02-09 20:15:00,CF Estrela - Portimonense SC,2.05,3.5,3.3,PT1,31.73,1.6,1.09,U,1,1X,GG,EVEN,2.65,0.51
+2024-02-09 21:15:00,CS 2 de Mayo - Sol de America,2.8,3.1,2.25,PY1,-90.68,1.2,1.52,U,X,2X,GG,EVEN,2.54,-0.32
+2024-02-09 22:00:00,CA Union Santa Fe - Newell`s Old Boys,2.7,2.85,2.8,AR1,-100.13,0.97,1.11,U,2,2X,GG,ODD,2.04,-0.14
+2024-02-09 22:15:00,Boavista RJ - Portuguesa RJ,2.05,3.25,3.6,BRC,-26.34,1.63,0.89,U,1,1X/12,GG,EVEN,2.4,0.74
+2024-02-09 23:10:00,Jaguares de Cordoba - Rionegro Aguilas,3.25,3.1,2.15,CO1,-207.9,0.88,1.02,U,2,2X,NG,ODD,1.85,-0.14
+2024-02-09 23:10:00,Deportivo Cali - Chico FC,1.73,3.4,4.4,CO1,35.33,1.35,0.98,U,X,1X,GG,ODD,2.31,0.37
+2024-02-09 23:45:00,Sportivo Trinidense - Tacuary FBC,1.98,3.25,3.25,PY1,61.22,1.21,0.93,O,1,1X,NG,ODD,2.09,0.28
+2024-02-10 00:00:00,Cienciano Cuzco - Sporting Cristal,2.4,3.1,2.65,PE1,-106.71,1.1,1.21,U,2,2X,GG,ODD,2.25,-0.11
+2024-02-10 00:15:00,Velez Sarsfield - Gimnasia La Plata,2.3,3.0,3.2,AR1,29.0,0.79,0.77,U,X,1X,NG,EVEN,1.58,0.02
+2024-02-10 00:15:00,Racing Club - San Lorenzo,2.05,3.0,4.0,AR1,72.38,1.21,0.85,U,1,1X,GG,ODD,2.04,0.36
+2024-02-10 00:30:00,Central Coast Mariners - Sydney FC,1.95,3.9,3.25,AU1,44.65,1.78,1.18,O,X,1X,GG,EVEN,2.87,0.6
+2024-02-10 01:00:00,Mazatlan FC - Atlas,2.55,3.4,2.55,MX1,-97.65,1.09,1.16,U,2,2X,NG,ODD,2.12,-0.07
+2024-02-10 03:00:00,Wellington Phoenix - Western United FC,1.85,3.8,3.7,AU1,59.75,1.55,1.0,O,1,1X,GG,ODD,2.59,0.55
+2024-02-10 03:00:00,Club Tijuana - Queretaro FC,1.8,3.7,4.0,MX1,26.23,1.43,0.99,U,1,1X,NG,ODD,2.43,0.44
+2024-02-10 06:30:00,Melbourne Victory - Macarthur FC,1.53,4.5,5.25,AU1,159.62,2.28,0.97,O,1,1X/12,GG,ODD,3.33,1.31
+2024-02-10 07:00:00,Brisbane Roar - Melbourne City,3.0,3.9,2.05,AU1,-149.0,1.49,1.46,O,1,1X,GG,ODD,2.75,0.03
+2024-02-10 10:30:00,Bodrumspor - Sakaryaspor Adapazari,1.7,3.4,4.1,TU2,79.41,1.86,1.04,O,1,1X/12,GG,EVEN,2.93,0.82
+2024-02-10 11:00:00,Academico Viseu - FC Penafiel,1.85,3.25,3.8,PT2,41.67,1.33,0.89,O,1,1X,GG,ODD,2.09,0.44
+2024-02-10 11:30:00,Fatih Karagümrük - Pendikspor,1.95,3.5,3.6,TU1,37.84,1.32,0.8,U,1,1X,NG,EVEN,2.11,0.52
+2024-02-10 12:00:00,1. FC Magdeburg - FC St. Pauli,4.1,3.9,1.8,DE2,-209.04,0.91,1.58,U,2,2X/12,NG,ODD,2.44,-0.67
+2024-02-10 12:00:00,CSM Poli Iasi - CS Voluntari,2.5,2.95,2.8,RO1,-27.84,0.98,1.07,U,X,2X,GG,EVEN,1.95,-0.09
+2024-02-10 12:00:00,Eintracht Frankfurt - VfL Bochum,1.72,3.9,4.5,DE1,104.29,1.34,1.09,O,X,1X,GG,EVEN,2.36,0.25
+2024-02-10 12:00:00,Fortuna Düsseldorf - SV Elversberg 07,1.82,4.0,3.9,DE2,76.1,1.55,1.24,O,2,1X,GG,EVEN,2.52,0.31
+2024-02-10 12:00:00,Eintracht Braunschweig - Karlsruher SC,2.5,3.6,2.6,DE2,-48.17,1.51,1.49,O,2,1X,GG,ODD,2.9,0.02
+2024-02-10 12:00:00,NK Olimpija Ljubljana - NK Rogaska,1.24,5.75,10.0,SI1,266.27,2.79,0.64,O,1,1X/12,NG,ODD,3.43,2.15
+2024-02-10 12:30:00,Manchester City - Everton FC,1.21,7.0,12.5,UK1,326.82,2.62,0.43,O,1,1X/12,NG,ODD,3.01,2.19
+2024-02-10 12:30:00,Ipswich Town - West Bromwich Albion,2.1,3.4,3.4,UK2,17.04,1.24,0.92,O,1,1X,GG,EVEN,2.1,0.32
+2024-02-10 13:00:00,Sanliurfaspor - Keci√∂reng√ºc√º,2.15,3.4,3.0,TU2,-9.15,1.4,0.85,O,1,1X,NG,ODD,2.34,0.55
+2024-02-10 13:00:00,SC Verl - MSV Duisburg,1.9,3.7,3.6,DE3,43.02,2.09,0.87,U,1,1X/12,NG,EVEN,2.82,1.22
+2024-02-10 13:00:00,FC Südtirol Bolzano - SSC Venezia,3.5,3.2,2.1,IT2,-157.71,1.2,1.0,O,1,1X,NG,ODD,2.12,0.2
+2024-02-10 13:00:00,Modena FC - Nuova Cosenza,2.05,3.25,3.6,IT2,35.01,1.63,0.89,U,1,1X/12,GG,ODD,2.4,0.74
+2024-02-10 13:00:00,Jahn Regensburg - Rot-Weiss Essen,1.8,3.7,4.1,DE3,67.76,1.76,0.89,U,1,1X/12,NG,EVEN,2.62,0.87
+2024-02-10 13:00:00,US Cremonese - AC Reggiana,1.52,4.2,5.75,IT2,191.57,1.98,0.88,O,1,1X/12,NG,ODD,2.84,1.1
+2024-02-10 13:00:00,AS Cittadella - FC Parma,3.2,3.1,2.25,IT2,-101.1,1.08,1.08,O,1,X,GG,EVEN,2.12,0.0
+2024-02-10 13:00:00,CD Alaves - Villarreal CF,2.15,3.4,3.25,ES1,5.52,1.45,1.15,O,1,1X,GG,EVEN,2.54,0.3
+2024-02-10 13:00:00,Preußen Münster - SV Sandhausen,2.15,3.6,3.0,DE3,-1.15,1.39,1.31,O,1,1X,GG,EVEN,2.7,0.08
+2024-02-10 13:00:00,AC Feralpisalo - US Palermo,3.25,3.4,2.1,IT2,-155.49,1.03,1.53,O,2,2X,GG,EVEN,2.59,-0.5
+2024-02-10 13:00:00,Maccabi Tel Aviv - Ihoud Bnei Sakhnin,1.26,5.25,9.25,IL1,313.16,2.2,0.72,O,1,1X/12,GG,ODD,3.05,1.48
+2024-02-10 13:00:00,SSV Ulm 1846 - SV Waldhof Mannheim,1.77,3.7,4.2,DE3,91.01,1.41,0.93,O,1,1X,GG,ODD,2.23,0.48
+2024-02-10 13:00:00,Dynamo Dresden - VfB Lübeck,1.39,4.75,7.25,DE3,241.69,2.22,0.6,O,1,1X/12,NG,ODD,2.8,1.62
+2024-02-10 14:00:00,AJ Auxerre - SCO Angers,1.83,3.6,4.0,FR2,106.74,1.54,0.56,U,1,1X/12,NG,ODD,2.09,0.98
+2024-02-10 14:00:00,NK Istra 1961 Pula - NK Osijek,3.25,3.4,2.15,HR1,-153.63,1.07,1.23,O,X,2X,NG,EVEN,2.25,-0.16
+2024-02-10 14:00:00,Cagliari Calcio - Lazio Roma,3.5,3.3,2.15,IT1,-172.32,0.96,0.88,U,1,1X,NG,ODD,1.72,0.08
+2024-02-10 14:00:00,Cracovia Krakow - Radomiak Radom,2.15,3.3,3.3,PL1,27.28,0.98,0.67,U,X,1X,NG,EVEN,1.59,0.31
+2024-02-10 14:00:00,NK Domzale - NK Bravo,2.35,3.2,2.8,SI1,-6.6,1.21,1.01,U,1,1X,GG,EVEN,2.24,0.2
+2024-02-10 14:00:00,Dynamo Ceske Budejovice - Banik Ostrava,3.3,3.7,1.98,CZ1,-176.36,1.23,1.39,O,1,2X,NG,ODD,2.5,-0.16
+2024-02-10 14:00:00,MFK Ruzomberok - FC Spartak Trnava,3.3,3.25,2.05,SK1,-153.32,0.93,1.44,U,2,2X,GG,EVEN,2.38,-0.51
+2024-02-10 14:00:00,DAC Dunajska Streda - MFK Skalica,1.49,4.0,6.0,SK1,162.27,1.41,0.85,U,1,1X,NG,EVEN,2.18,0.56
+2024-02-10 14:00:00,FC ViOn Zlate Moravce - Dukla Banska Bystrica,3.5,3.6,1.88,SK1,-155.69,1.13,1.81,O,2,2X/12,GG,EVEN,2.81,-0.68
+2024-02-10 14:00:00,ZP Sport Podbrezova - MFK Zemplin Michalovce,1.43,4.5,6.0,SK1,202.88,1.73,0.93,O,1,1X/12,NG,ODD,2.57,0.8
+2024-02-10 14:00:00,1. FC Slovacko - FK Pardubice,1.46,4.4,6.5,CZ1,183.71,1.8,0.85,O,1,1X/12,NG,ODD,2.49,0.95
+2024-02-10 14:00:00,Nacional Madeira - Vilaverdense,1.47,4.2,5.5,PT2,187.83,2.66,0.77,O,1,1X/12,NG,EVEN,3.3,1.89
+2024-02-10 14:00:00,MFK Karvina - Sparta Praha,6.5,4.8,1.42,CZ1,-366.23,1.1,1.89,U,1,2X/12,GG,ODD,2.76,-0.79
+2024-02-10 14:00:00,FK Slovan Liberec - SK Sigma Olomouc,2.25,3.5,2.87,CZ1,-6.83,1.3,1.39,O,2,2X,GG,EVEN,2.55,-0.09
+2024-02-10 14:15:00,SSC Bari - Calcio Lecco,1.9,3.4,3.9,IT2,42.64,1.06,1.0,U,2,1X,NG,EVEN,1.95,0.06
+2024-02-10 14:30:00,1. FC Union Berlin - VfL Wolfsburg,2.2,3.4,3.2,DE1,-15.2,1.24,1.1,U,1,1X,NG,EVEN,2.2,0.14
+2024-02-10 14:30:00,Mönchengladbach - SV Darmstadt 98,1.65,4.1,4.8,DE1,126.98,1.62,1.17,U,1,1X,GG,EVEN,2.62,0.45
+2024-02-10 14:30:00,Werder Bremen - 1. FC Heidenheim,1.82,3.8,4.0,DE1,45.08,1.28,0.85,O,X,1X,GG,ODD,2.06,0.43
+2024-02-10 14:30:00,FC Augsburg - RB Leipzig,4.1,4.1,1.75,DE1,-250.45,1.08,1.64,O,2,2X,NG,EVEN,2.64,-0.56
+2024-02-10 15:00:00,Wrexham FC - Bradford City,1.9,3.5,3.75,UK4,29.9,1.86,1.04,U,1,1X/12,GG,EVEN,2.83,0.82
+2024-02-10 15:00:00,Bristol Rovers - Burton Albion,1.62,4.0,5.0,UK3,156.4,1.63,1.01,O,X,1X,GG,EVEN,2.53,0.62
+2024-02-10 15:00:00,Cambridge United - Cheltenham Town,2.1,3.2,3.5,UK3,5.3,1.13,0.94,O,X,1X,GG,EVEN,1.98,0.19
+2024-02-10 15:00:00,Queens Park Rangers - Norwich City,2.6,3.3,2.65,UK2,-57.5,1.1,0.87,U,1,1X,NG,ODD,2.04,0.23
+2024-02-10 15:00:00,Leeds United - Rotherham United,1.16,8.0,17.0,UK2,403.31,2.57,0.67,O,1,1X/12,GG,ODD,3.11,1.9
+2024-02-10 15:00:00,Swindon Town - Salford City FC,2.45,3.6,2.55,UK4,-37.89,1.55,1.55,O,2,X,GG,EVEN,2.96,0.0
+2024-02-10 15:00:00,Crewe Alexandra - Crawley Town,2.05,3.7,3.2,UK4,36.77,1.81,1.32,O,2,1X,GG,ODD,3.13,0.49
+2024-02-10 15:00:00,Wigan Athletic - Exeter City,2.0,3.4,3.6,UK3,22.15,1.46,1.43,O,2,1X,GG,EVEN,2.86,0.03
+2024-02-10 15:00:00,FC Kilmarnock - Cove Rangers,1.33,4.5,7.5,SCCUP,252.7,1.66,0.49,O,1,1X/12,NG,ODD,2.21,1.17
+2024-02-10 15:00:00,Inverness Caledonian Thistle - Hibernian Edinburgh,3.4,3.3,1.93,SCCUP,-182.49,0.92,1.38,U,X,2X,NG,EVEN,2.09,-0.46
+2024-02-10 15:00:00,Middlesbrough FC - Bristol City,1.71,3.8,4.8,UK2,105.56,1.52,0.8,O,1,1X/12,GG,ODD,2.3,0.72
+2024-02-10 15:00:00,Walsall FC - Newport County AFC,1.93,3.6,3.6,UK4,58.18,1.45,0.85,U,1,1X,GG,ODD,2.38,0.6
+2024-02-10 15:00:00,Reading FC - Charlton Athletic,2.25,3.4,3.0,UK3,-44.84,1.58,1.24,U,1,1X,GG,EVEN,2.73,0.34
+2024-02-10 15:00:00,AFC Wimbledon - Barrow AFC,2.0,3.4,3.5,UK4,39.19,1.19,1.11,O,1,1X,NG,ODD,2.25,0.08
+2024-02-10 15:00:00,Northampton Town - Bolton Wanderers,3.6,3.4,2.0,UK3,-169.14,1.18,1.69,O,X,2X,GG,EVEN,2.82,-0.51
+2024-02-10 15:00:00,Lincoln City - Fleetwood Town,1.85,3.4,4.2,UK3,80.29,1.4,0.96,O,X,1X,GG,ODD,2.29,0.44
+2024-02-10 15:00:00,Derby County - Shrewsbury Town,1.35,5.0,8.0,UK3,264.77,2.1,0.56,U,1,1X/12,NG,ODD,2.57,1.54
+2024-02-10 15:00:00,Blackpool FC - Oxford United,1.87,3.6,3.8,UK3,69.09,2.05,0.68,U,1,1X/12,NG,EVEN,2.66,1.37
+2024-02-10 15:00:00,Watford FC - Leicester City,4.2,3.75,1.8,UK2,-189.24,0.63,1.9,O,2,2X/12,NG,ODD,2.39,-1.27
+2024-02-10 15:00:00,Barnsley FC - Leyton Orient,1.98,3.6,3.4,UK3,28.71,1.52,1.06,U,X,1X,GG,EVEN,2.52,0.46
+2024-02-10 15:00:00,Milton Keynes Dons - Accrington Stanley,1.61,4.1,4.8,UK4,89.51,1.88,1.1,U,1,1X/12,GG,EVEN,3.0,0.78
+2024-02-10 15:00:00,Forest Green Rovers - Mansfield Town,4.4,3.8,1.71,UK4,-212.38,1.06,1.99,O,2,2X/12,GG,ODD,3.07,-0.93
+2024-02-10 15:00:00,Grimsby Town - Stockport County,3.75,3.7,1.87,UK4,-181.71,1.11,1.45,O,1,2X,NG,ODD,2.4,-0.34
+2024-02-10 15:00:00,Harrogate Town - Colchester United,2.1,3.6,3.1,UK4,25.79,1.61,1.15,O,1,1X,GG,EVEN,2.66,0.46
+2024-02-10 15:00:00,Carlisle United - Portsmouth FC,5.0,3.9,1.63,UK3,-270.61,0.84,1.99,U,2,2X/12,NG,EVEN,2.67,-1.15
+2024-02-10 15:00:00,Blackburn Rovers - Stoke City,2.3,3.6,2.87,UK2,-27.54,1.17,1.09,O,1,1X,NG,ODD,2.26,0.08
+2024-02-10 15:00:00,Sunderland FC - Plymouth Argyle,1.6,4.2,5.0,UK2,138.65,1.7,1.01,O,1,1X/12,GG,EVEN,2.68,0.69
+2024-02-10 15:00:00,Fulham FC - AFC Bournemouth,2.3,3.5,2.9,UK1,-40.87,1.2,1.48,U,2,2X,NG,EVEN,2.64,-0.28
+2024-02-10 15:00:00,Standard Liege - Oud Heverlee Leuven,1.88,3.75,3.8,BE1,48.98,1.8,1.02,O,1,1X/12,GG,EVEN,2.84,0.78
+2024-02-10 15:00:00,FC Aberdeen - Bonnyrigg Rose,1.06,10.0,26.0,SCCUP,510.1,3.43,0.36,O,1,1X/12,NG,ODD,3.12,3.07
+2024-02-10 15:00:00,Cardiff City - Preston North End,2.25,3.2,3.3,UK2,17.05,0.92,0.5,U,X,1X,NG,EVEN,1.4,0.42
+2024-02-10 15:00:00,Luton Town - Sheffield United,1.73,3.8,4.6,UK1,66.7,1.78,0.94,O,1,1X/12,GG,ODD,2.64,0.84
+2024-02-10 15:00:00,Wolverhampton Wanderers - Brentford FC,2.05,3.6,3.4,UK1,25.74,1.71,1.55,O,1,1X,GG,EVEN,3.2,0.16
+2024-02-10 15:00:00,Tottenham Hotspur - Brighton & Hove Albion,1.85,4.0,3.7,UK1,45.87,1.88,1.09,U,1,1X/12,GG,EVEN,2.8,0.79
+2024-02-10 15:00:00,Liverpool FC - Burnley FC,1.18,7.75,14.0,UK1,369.25,2.86,0.32,O,1,1X/12,NG,EVEN,3.07,2.54
+2024-02-10 15:00:00,Doncaster Rovers - Tranmere Rovers,2.25,3.4,2.95,UK4,-29.16,1.47,1.05,O,1,1X,NG,EVEN,2.4,0.42
+2024-02-10 15:00:00,Morecambe FC - Sutton United,1.98,3.5,3.5,UK4,18.46,1.45,1.2,U,2,1X,GG,EVEN,2.6,0.25
+2024-02-10 15:00:00,Wycombe Wanderers - Peterborough United,3.25,3.6,2.05,UK3,-150.83,1.01,1.88,O,2,2X/12,GG,EVEN,2.61,-0.87
+2024-02-10 15:00:00,Port Vale - Stevenage FC,3.1,3.3,2.2,UK3,-114.72,0.84,1.33,U,X,2X,NG,EVEN,2.05,-0.49
+2024-02-10 15:00:00,Southampton FC - Huddersfield Town,1.29,5.75,10.0,UK2,298.76,2.49,0.55,O,1,1X/12,NG,ODD,3.11,1.94
+2024-02-10 15:00:00,Hull City - Swansea City,1.71,3.9,4.6,UK2,67.02,1.85,1.11,O,1,1X/12,GG,EVEN,2.76,0.74
+2024-02-10 15:00:00,Partick Thistle - Livingston FC,2.45,3.2,2.5,SCCUP,-49.38,1.4,1.15,U,1,1X,GG,ODD,2.34,0.25
+2024-02-10 15:15:00,FC Catanzaro - Ascoli Picchio,2.05,3.25,3.5,IT2,36.54,1.44,0.99,U,1,1X,GG,ODD,2.31,0.45
+2024-02-10 15:15:00,Real Sociedad - CA Osasuna,1.85,3.3,4.6,ES1,115.24,1.13,1.23,U,2,2X,GG,ODD,2.21,-0.1
+2024-02-10 15:15:00,CD Eldense - SD Huesca,2.05,2.95,3.7,ES2,19.28,1.32,0.77,U,1,1X,GG,EVEN,2.02,0.55
+2024-02-10 15:15:00,SD Amorebieta - Elche CF,3.5,3.0,2.05,ES2,-172.09,0.79,1.24,O,2,2X,GG,EVEN,1.99,-0.45
+2024-02-10 15:15:00,Pisa Calcio - Sampdoria Genoa,2.3,3.2,3.0,IT2,-32.06,1.37,1.07,U,1,1X,GG,EVEN,2.4,0.3
+2024-02-10 15:30:00,SC Freiburg II - Arminia Bielefeld,3.9,3.7,1.82,DE3,-196.46,0.92,1.63,U,2,2X/12,NG,EVEN,2.79,-0.71
+2024-02-10 15:30:00,Benfica Lisboa II - Leixoes Matosinhos,1.87,3.3,3.7,PT2,44.26,1.62,0.49,U,1,1X/12,NG,EVEN,2.16,1.13
+2024-02-10 15:30:00,SC Farense - FC Famalicao,2.6,3.25,2.6,PT1,-60.48,1.0,1.08,U,X,2X,NG,ODD,1.9,-0.08
+2024-02-10 15:30:00,Olympiakos Piraeus - OFI Crete,1.27,5.75,9.5,GR1,305.37,2.73,0.84,O,1,1X/12,GG,EVEN,3.75,1.89
+2024-02-10 16:00:00,RC Lens - Racing Strasbourg,1.61,3.9,5.5,FR1,138.64,1.69,1.06,U,1,1X,GG,EVEN,2.8,0.63
+2024-02-10 16:00:00,Austria Wien - TSV Hartberg,1.95,3.6,3.5,AT1,55.11,1.56,0.97,O,1,1X,GG,ODD,2.54,0.59
+2024-02-10 16:00:00,SCR Altach - Blau-Weiss Linz,2.1,3.3,3.4,AT1,40.34,1.24,0.67,U,X,1X,NG,EVEN,1.75,0.57
+2024-02-10 16:00:00,Galatasaray - Istanbul Basaksehir FK,1.28,5.5,9.5,TU1,285.07,2.23,0.46,O,1,1X/12,NG,ODD,2.7,1.77
+2024-02-10 16:10:00,NK Lokomotiva Zagreb - Dinamo Zagreb,5.25,3.9,1.6,HR1,-297.02,0.83,1.44,U,1,2X,NG,EVEN,2.25,-0.61
+2024-02-10 16:30:00,Piast Gliwice - Gornik Zabrze,1.93,3.25,4.1,PL1,96.33,1.16,0.95,U,X,1X,GG,ODD,2.05,0.21
+2024-02-10 17:00:00,FC Zürich - Grasshoppers Zürich,1.7,3.8,4.5,CH1,142.34,1.4,0.81,U,X,1X,NG,EVEN,2.25,0.59
+2024-02-10 17:00:00,Stade Lausanne-Ouchy - FC Lausanne Sport,3.0,3.6,2.15,CH1,-115.96,1.6,0.66,U,1,1X/12,NG,ODD,2.22,0.94
+2024-02-10 17:00:00,Rodez AF - USL Dunkerque,1.71,3.8,4.5,FR2,80.42,1.32,1.01,U,2,1X,NG,EVEN,2.3,0.31
+2024-02-10 17:00:00,Paris FC - Pau FC,1.87,3.4,4.0,FR2,79.7,1.58,0.91,O,1,1X/12,GG,ODD,2.38,0.67
+2024-02-10 17:00:00,AS Roma - Inter Milan,3.9,3.3,1.98,IT1,-175.98,0.84,1.24,U,2,2X,NG,ODD,1.91,-0.4
+2024-02-10 17:00:00,PAS Giannina - Aris Saloniki,4.0,3.5,1.87,GR1,-191.78,1.09,1.72,U,2,2X,GG,EVEN,2.76,-0.63
+2024-02-10 17:00:00,FK Viktoria Plzen - Mlada Boleslav,1.5,4.4,5.75,CZ1,150.89,2.27,1.27,O,1,1X/12,GG,EVEN,3.44,1.0
+2024-02-10 17:15:00,Union Saint-Gilloise - KVC Westerlo,1.31,5.5,9.0,BE1,283.54,2.09,0.73,O,1,1X/12,NG,EVEN,2.83,1.36
+2024-02-10 17:30:00,Bayer Leverkusen - FC Bayern München,2.6,3.8,2.45,DE1,-86.03,1.39,2.04,O,2,2X/12,GG,ODD,3.26,-0.65
+2024-02-10 17:30:00,Nottingham Forest - Newcastle United,3.6,3.6,1.98,UK1,-160.64,1.46,1.31,O,1,1X,GG,ODD,2.63,0.15
+2024-02-10 17:30:00,Sporting Gijon - Real Oviedo,2.15,2.95,3.4,ES2,-10.67,1.44,0.81,U,1,1X,GG,ODD,2.16,0.63
+2024-02-10 17:30:00,Glasgow Rangers - Ayr United,1.07,10.5,23.0,SCCUP,565.13,3.33,0.52,O,1,1X/12,NG,ODD,3.61,2.81
+2024-02-10 17:30:00,Real Madrid - Girona FC,1.49,4.75,5.75,ES1,148.34,2.65,1.66,O,1,1X/12,GG,EVEN,4.13,0.99
+2024-02-10 17:30:00,Panaitolikos - Atromitos Athinon,2.55,3.3,2.6,GR1,-9.5,1.36,1.06,O,1,1X,NG,ODD,2.4,0.3
+2024-02-10 17:45:00,Excelsior Rotterdam - FC Twente Enschede,5.75,4.6,1.52,NL1,-320.07,1.06,1.8,O,2,2X/12,GG,ODD,2.62,-0.74
+2024-02-10 18:00:00,Valenciennes FC - Stade Lavallois,3.0,3.1,2.35,FR2,-108.06,0.77,0.83,U,2,2X,NG,ODD,1.76,-0.06
+2024-02-10 18:00:00,Annecy FC - US Concarneau,2.15,3.2,3.4,FR2,-8.76,1.69,1.4,O,1,1X,GG,ODD,2.97,0.29
+2024-02-10 18:00:00,US Quevilly - SC Bastia,1.95,3.3,3.8,FR2,46.67,1.66,0.72,U,1,1X/12,NG,ODD,2.29,0.94
+2024-02-10 18:00:00,SM Caen - Amiens SC,2.05,3.25,3.6,FR2,51.61,1.63,0.89,U,1,1X/12,GG,ODD,2.4,0.74
+2024-02-10 18:00:00,AC Ajaccio - EA Guingamp,2.87,2.95,2.55,FR2,-79.55,0.81,1.23,U,2,2X,NG,EVEN,1.75,-0.42
+2024-02-10 18:00:00,Girondins Bordeaux - Grenoble Foot 38,2.15,3.4,3.2,FR2,18.93,1.33,1.28,U,X,1X,GG,EVEN,2.55,0.05
+2024-02-10 18:00:00,Moreirense FC - GD Chaves,1.75,3.7,4.33,PT1,99.15,1.44,1.07,O,2,1X,GG,ODD,2.51,0.37
+2024-02-10 19:00:00,Almere City - AZ Alkmaar,5.25,4.1,1.61,NL1,-239.24,0.71,1.82,O,2,2X/12,NG,EVEN,2.49,-1.11
+2024-02-10 19:00:00,Lech Poznan - Zaglebie Lubin,1.57,4.1,5.25,PL1,130.94,1.68,0.64,U,1,1X/12,NG,EVEN,2.29,1.04
+2024-02-10 19:30:00,1. FC Kaiserslautern - SC Paderborn 07,2.35,3.75,2.75,DE2,-24.88,1.91,1.38,O,1,1X,GG,ODD,3.02,0.53
+2024-02-10 19:30:00,AC Lugano - Young Boys Bern,2.65,3.6,2.37,CH1,-76.59,1.32,1.15,O,1,1X,NG,ODD,2.46,0.17
+2024-02-10 19:45:00,US Sassuolo Calcio - Torino AC,3.1,3.4,2.25,IT1,-141.67,0.96,0.98,U,1,2X,NG,EVEN,1.97,-0.02
+2024-02-10 19:45:00,FC Brügge - AS Eupen,1.23,6.75,11.5,BE1,391.19,2.23,0.46,O,1,1X/12,NG,EVEN,2.67,1.77
+2024-02-10 20:00:00,Racing Santander - Espanyol Barcelona,2.45,3.0,2.75,ES2,-61.34,1.03,1.05,O,1,2X,GG,EVEN,2.05,-0.02
+2024-02-10 20:00:00,Paris Saint-Germain - OSC Lille,1.53,4.4,5.75,FR1,152.82,2.19,1.25,O,1,1X/12,GG,EVEN,3.24,0.94
+2024-02-10 20:00:00,FBC Melgar - Alianza Atletico,1.19,6.5,10.5,PE1,228.66,1.89,0.63,O,1,1X/12,NG,ODD,2.51,1.26
+2024-02-10 20:00:00,Heracles Almelo - Vitesse Arnheim,2.15,3.6,3.2,NL1,-8.08,1.4,1.54,O,2,2X,GG,EVEN,2.75,-0.14
+2024-02-10 20:00:00,UD Las Palmas - FC Valencia,2.65,3.1,2.8,ES1,-81.13,1.67,1.24,O,1,1X,GG,ODD,2.74,0.43
+2024-02-10 20:00:00,Argentinos Juniors - CA Banfield,2.2,3.0,3.4,AR1,35.94,1.57,0.69,O,1,1X/12,GG,ODD,2.06,0.88
+2024-02-10 20:30:00,Boavista Porto - Estoril Praia,2.4,3.2,2.87,PT1,-45.6,1.14,1.2,U,1,2X,GG,ODD,2.19,-0.06
+2024-02-10 20:30:00,Carlos Mannucci - Comerciantes Unidos,1.68,3.5,4.5,PE1,9.14,1.77,0.9,O,1,1X/12,GG,EVEN,2.55,0.87
+2024-02-10 21:00:00,La Equidad - Deportes Tolima,2.5,3.0,2.7,CO1,-74.18,0.96,1.1,U,2,2X,GG,ODD,2.01,-0.14
+2024-02-10 21:15:00,Guarani - Sportivo Ameliano,1.8,3.4,3.7,PY1,86.16,1.13,0.82,U,1,1X,NG,ODD,1.91,0.31
+2024-02-10 22:15:00,Boca Juniors - CSD Defensa y Justicia,1.8,3.5,4.33,AR1,114.25,1.36,0.75,O,1,1X,NG,EVEN,2.06,0.61
+2024-02-10 23:05:00,Guadalajara Chivas - FC Juarez,1.63,3.9,5.0,MX1,200.43,1.55,1.1,O,2,1X,GG,ODD,2.53,0.45
+2024-02-10 23:10:00,Atletico Bucaramanga - Once Caldas,2.25,3.0,3.1,CO1,-58.98,0.84,0.75,U,X,1X,NG,EVEN,1.59,0.09
+2024-02-10 23:10:00,Deportivo Riestra - River Plate,5.5,4.2,1.53,AR1,-288.23,0.92,1.39,O,1,2X,NG,EVEN,2.45,-0.47
+2024-02-10 23:45:00,Olimpia Asuncion - General Caballero,1.55,3.6,5.0,PY1,164.39,1.49,0.66,U,1,1X/12,NG,ODD,2.13,0.83
+2024-02-11 00:00:00,Leon - Club America,3.25,3.5,2.1,MX1,-123.32,1.03,1.33,U,2,2X,GG,EVEN,2.4,-0.3
+2024-02-11 00:30:00,CA Belgrano - Godoy Cruz,2.45,3.0,2.95,AR1,-23.65,0.8,1.25,U,2,2X,NG,EVEN,2.05,-0.45
+2024-02-11 00:30:00,Central Cordoba - Club Atletico Sarmiento,2.7,2.87,2.8,AR1,-22.97,1.05,1.02,U,X,1X,NG,EVEN,2.0,0.03
+2024-02-11 01:00:00,Alianza Lima - Universitario De Deportes,2.35,3.2,2.75,PE1,-41.28,1.05,1.09,U,X,2X,NG,EVEN,2.27,-0.04
+2024-02-11 01:00:00,Cruz Azul - Real San Luis,1.75,3.9,4.1,MX1,85.45,2.08,0.59,O,1,1X/12,NG,ODD,2.7,1.49
+2024-02-11 01:20:00,Independiente Medellin - Independiente Santa Fe,1.95,3.3,3.5,CO1,33.41,1.56,0.65,O,1,1X/12,NG,ODD,2.03,0.91
+2024-02-11 03:00:00,Santos Laguna - Tigres,2.95,3.5,2.25,MX1,-127.08,0.83,1.79,O,2,2X/12,NG,EVEN,2.66,-0.96
+2024-02-11 03:00:00,Monterrey - Pachuca,1.53,4.2,5.5,MX1,135.31,1.85,0.91,U,1,1X/12,GG,ODD,2.67,0.94
+2024-02-11 06:00:00,Western Sydney Wanderers - Newcastle Jets,1.61,4.33,4.6,AU1,111.6,1.98,1.17,O,1,1X/12,GG,EVEN,3.2,0.81
+2024-02-11 10:30:00,Sivasspor - Caykur Rizespor,2.37,3.4,2.8,TU1,-63.14,1.28,1.13,U,1,1X,NG,EVEN,2.26,0.15
+2024-02-11 11:00:00,AVS Futebol - Uniao Leiria,1.95,3.25,3.5,PT2,19.43,1.56,0.86,O,1,1X/12,NG,ODD,2.25,0.7
+2024-02-11 11:15:00,Go Ahead Eagles - FC Zwolle,1.78,4.0,4.0,NL1,55.68,2.04,1.36,O,1,1X/12,GG,EVEN,3.21,0.68
+2024-02-11 11:30:00,AC Fiorentina - Frosinone Calcio,1.51,4.4,6.0,IT1,164.69,2.0,1.28,O,1,1X/12,GG,EVEN,3.09,0.72
+2024-02-11 11:30:00,Warta Poznan - Rakow Czestochowa,4.6,3.5,1.77,PL1,-256.9,0.79,1.43,O,2,2X,NG,EVEN,2.16,-0.64
+2024-02-11 12:00:00,Le Havre AC - Stade Rennes,3.4,3.3,2.15,FR1,-158.22,0.98,0.86,U,1,1X,NG,ODD,1.63,0.12
+2024-02-11 12:00:00,Coventry City - Millwall FC,1.8,3.6,4.4,UK2,81.23,1.31,0.83,U,2,1X,NG,ODD,2.01,0.48
+2024-02-11 12:30:00,SpVgg Greuther Fürth - Hertha BSC Berlin,1.98,3.8,3.4,DE2,24.79,1.65,1.36,O,1,1X,GG,EVEN,2.94,0.29
+2024-02-11 12:30:00,VfL Osnabrück - Hansa Rostock,2.2,3.6,3.1,DE2,-21.23,1.45,1.25,O,1,1X,GG,EVEN,2.65,0.2
+2024-02-11 12:30:00,Holstein Kiel - FC Schalke 04,2.2,3.75,2.9,DE2,6.61,1.5,1.49,O,2,1X,GG,EVEN,2.9,0.01
+2024-02-11 12:30:00,RWD Molenbeek - Royal Antwerp,5.25,4.33,1.58,BE1,-287.4,0.93,1.51,O,1,2X,NG,ODD,2.47,-0.58
+2024-02-11 13:00:00,Istanbulspor - Gazisehir Gaziantep FK,2.75,3.3,2.45,TU1,-91.73,1.21,1.55,U,2,2X,GG,ODD,2.61,-0.34
+2024-02-11 13:00:00,Villarreal CF II - CD Tenerife,2.8,2.9,2.5,ES2,-97.59,1.07,1.18,U,1,2X,GG,ODD,2.23,-0.11
+2024-02-11 13:00:00,Getafe CF - Celta de Vigo,2.15,3.1,3.6,ES1,-2.52,1.33,0.94,U,1,1X,NG,ODD,2.13,0.39
+2024-02-11 13:00:00,Konyaspor - Ankaragücü,2.55,3.2,2.7,TU1,-48.11,1.33,1.41,U,2,2X,GG,ODD,2.67,-0.08
+2024-02-11 13:15:00,FC Winterthur - FC Luzern,2.65,3.6,2.4,CH1,-74.41,1.36,1.28,O,1,1X,GG,ODD,2.53,0.08
+2024-02-11 13:30:00,Wolfsberger AC - Rapid Wien,3.2,3.6,2.05,AT1,-111.97,0.96,1.71,O,2,2X/12,GG,ODD,2.46,-0.75
+2024-02-11 13:30:00,FC Utrecht - Fortuna Sittard,1.85,3.7,4.1,NL1,54.1,1.4,1.07,U,2,1X,GG,EVEN,2.55,0.33
+2024-02-11 13:30:00,SC Heerenveen - Ajax Amsterdam,4.0,4.33,1.75,NL1,-222.85,1.03,1.64,O,2,2X,GG,EVEN,2.71,-0.61
+2024-02-11 13:30:00,WSG Tirol - SC Austria Lustenau,1.75,3.8,4.1,AT1,97.48,1.97,0.56,O,1,1X/12,NG,ODD,2.58,1.41
+2024-02-11 14:00:00,HNK Hajduk Split - NK Slaven Koprivnica,1.26,5.75,10.5,HR1,312.4,2.12,1.03,O,1,1X/12,GG,EVEN,3.12,1.09
+2024-02-11 14:00:00,SSD Monza 1912 - Hellas Verona,2.05,3.3,3.7,IT1,42.79,1.09,0.71,U,X,1X,GG,EVEN,1.7,0.38
+2024-02-11 14:00:00,FC Hradec Kralove - Bohemians 1905,2.65,3.4,2.5,CZ1,-59.49,1.42,1.84,O,2,2X,GG,EVEN,3.11,-0.42
+2024-02-11 14:00:00,Bologna FC - US Lecce,1.72,3.5,5.25,IT1,112.96,1.03,0.87,U,2,1X,NG,ODD,1.95,0.16
+2024-02-11 14:00:00,FC Dundee - Saint Johnstone FC,2.5,3.1,2.8,SC1,23.81,1.14,1.5,U,2,2X,GG,ODD,2.6,-0.36
+2024-02-11 14:00:00,Pacos Ferreira - Maritimo Funchal,2.45,3.3,2.5,PT2,-39.93,1.39,1.48,U,2,2X,GG,ODD,2.62,-0.09
+2024-02-11 14:00:00,West Ham United - Arsenal FC,5.5,4.2,1.57,UK1,-281.38,0.89,1.14,U,X,2X,NG,ODD,1.94,-0.25
+2024-02-11 14:00:00,FK Teplice - FC Zlin,1.8,3.4,4.4,CZ1,58.83,0.93,1.05,U,2,2X,NG,ODD,2.01,-0.12
+2024-02-11 14:00:00,FC Lorient - Stade Reims,3.5,3.5,2.05,FR1,-183.22,0.76,1.8,O,2,2X/12,NG,ODD,2.4,-1.04
+2024-02-11 14:00:00,AE Kifisia FC - Volos NFC,2.15,3.4,3.2,GR1,-13.84,1.33,1.28,O,2,1X,GG,ODD,2.55,0.05
+2024-02-11 14:00:00,Widzew Lodz - Jagiellonia Bialystok,2.65,3.3,2.5,PL1,-62.69,1.25,1.69,O,2,2X,GG,ODD,2.77,-0.44
+2024-02-11 14:00:00,Toulouse FC - FC Nantes,2.25,3.4,3.1,FR1,-32.09,1.09,1.05,O,2,1X,NG,EVEN,2.05,0.04
+2024-02-11 14:00:00,Clermont Foot - Stade Brest,3.5,3.4,2.1,FR1,-122.22,1.11,1.5,O,2,2X,GG,EVEN,2.7,-0.39
+2024-02-11 14:00:00,St. Mirren - Celtic Glasgow,9.5,5.5,1.23,SCCUP,-432.43,0.76,2.64,O,2,2X/12,GG,ODD,3.16,-1.88
+2024-02-11 14:30:00,FC Basel - FC St. Gallen,2.7,3.7,2.3,CH1,-108.29,1.35,1.72,O,2,2X,GG,EVEN,2.97,-0.37
+2024-02-11 14:30:00,VfB Stuttgart - FSV Mainz 05,1.43,4.75,7.0,DE1,175.88,1.91,1.1,O,1,1X/12,GG,EVEN,2.86,0.81
+2024-02-11 15:00:00,KV Mechelen - KRC Genk,3.75,3.8,1.9,BE1,-177.42,1.33,1.29,U,X,1X,GG,EVEN,2.57,0.04
+2024-02-11 15:00:00,Panseraikos - Panathinaikos,7.25,4.5,1.41,GR1,-327.54,0.69,1.95,O,2,2X/12,GG,ODD,2.7,-1.26
+2024-02-11 15:15:00,Ternana Calcio - Spezia Calcio,2.35,3.3,2.9,IT2,-29.56,1.37,1.32,O,1,1X,GG,ODD,2.67,0.05
+2024-02-11 15:15:00,FC Cartagena - CD Mirandes,2.25,2.95,3.2,ES2,-2.92,0.99,0.83,O,X,1X,NG,EVEN,1.72,0.16
+2024-02-11 15:15:00,AD Alcorcon - Andorra CF,2.45,2.95,2.85,ES2,-72.03,0.82,0.92,O,X,2X,NG,EVEN,1.78,-0.1
+2024-02-11 15:15:00,RCD Mallorca - Rayo Vallecano,2.35,3.0,3.4,ES1,-21.73,1.13,0.83,U,1,1X,NG,EVEN,1.91,0.3
+2024-02-11 15:30:00,Rio Ave - Casa Pia AC,2.1,3.2,3.6,PT1,28.74,0.93,1.06,U,2,2X,NG,EVEN,1.88,-0.13
+2024-02-11 15:30:00,Yverdon Sport FC - Servette FC,4.75,4.1,1.63,CH1,-255.94,0.76,1.85,O,2,2X/12,GG,EVEN,2.62,-1.09
+2024-02-11 15:45:00,FC Volendam - PSV Eindhoven,21.0,12.5,1.1,NL1,-609.57,0.59,2.92,O,2,2X/12,GG,EVEN,3.55,-2.33
+2024-02-11 16:00:00,Fenerbahce - Alanyaspor,1.22,6.75,11.0,TU1,322.27,2.33,0.78,U,1,1X/12,GG,ODD,2.97,1.55
+2024-02-11 16:00:00,LASK Linz - SK Austria Klagenfurt,1.49,4.33,6.0,AT1,222.81,1.14,1.19,O,2,2X,GG,ODD,2.34,-0.05
+2024-02-11 16:05:00,Montpellier HSC - Olympique Lyon,2.7,3.4,2.55,FR1,-93.28,1.27,1.26,O,1,1X,GG,ODD,2.42,0.01
+2024-02-11 16:30:00,Aston Villa - Manchester United,2.05,3.8,3.2,UK1,7.49,1.31,1.51,O,X,2X,GG,EVEN,2.83,-0.2
+2024-02-11 16:30:00,1899 Hoffenheim - 1. FC Köln,1.78,4.0,4.1,DE1,77.77,2.21,1.29,O,1,1X/12,GG,EVEN,3.31,0.92
+2024-02-11 17:00:00,Genoa FC - Atalanta Bergamo,3.5,3.25,2.15,IT1,-151.67,0.95,0.86,U,1,1X,NG,ODD,1.74,0.09
+2024-02-11 17:00:00,Airdrieonians FC - Heart of Midlothian,3.7,3.4,1.8,SCCUP,-226.37,0.83,1.46,U,2,2X,NG,EVEN,2.32,-0.63
+2024-02-11 17:30:00,Sevilla FC - Atletico Madrid,3.4,3.5,2.1,ES1,-170.02,0.89,1.52,O,2,2X,GG,ODD,2.47,-0.63
+2024-02-11 17:30:00,Lamia FC - Asteras Tripolis,2.5,3.25,2.75,GR1,-38.45,1.13,1.28,U,2,2X,NG,ODD,2.27,-0.15
+2024-02-11 17:30:00,SD Eibar - Real Zaragoza,1.8,3.25,4.2,ES2,84.53,1.1,0.95,U,2,1X,GG,ODD,2.17,0.15
+2024-02-11 17:30:00,SC Charleroi - RSC Anderlecht,3.5,3.5,2.05,BE1,-163.42,0.76,1.8,O,2,2X/12,GG,ODD,2.4,-1.04
+2024-02-11 18:00:00,Sporting Lisboa - Sporting Braga,1.49,4.5,5.75,PT1,151.26,2.18,1.38,U,1,1X/12,GG,EVEN,3.58,0.8
 2024-02-11 18:00:00,PAOK Saloniki - AEK Athens,2.45,3.5,2.65,GR1,-35.77,1.04,0.88,U,1,1X,NG,EVEN,1.84,0.16
-2024-02-11 18:00:00,Sporting Lisboa - Sporting Braga,1.49,4.5,5.75,PT1,145.5,2.2,1.33,U,1,1X/12,GG,EVEN,3.48,0.87
-2024-02-11 18:15:00,KAA Gent - Cercle Brügge,2.1,3.7,3.2,BE1,-6.49,1.47,1.41,O,2,1X,GG,EVEN,2.83,0.06
-2024-02-11 18:45:00,AC Milan - SSC Napoli,1.9,3.75,3.75,IT1,54.9,1.75,0.95,O,1,1X/12,NG,ODD,2.83,0.8
-2024-02-11 19:00:00,Feyenoord Rotterdam - Sparta Rotterdam,1.14,9.0,19.0,NL1,428.51,2.44,0.7,O,X,1X/12,GG,EVEN,3.13,1.74
-2024-02-11 19:45:00,OGC Nice - AS Monaco,2.25,3.4,3.1,FR1,-16.52,1.11,1.0,O,X,1X,NG,EVEN,2.04,0.11
-2024-02-11 20:00:00,Burgos CF - Racing Club Ferrol,2.05,3.1,3.6,ES2,4.11,1.32,0.95,O,1,1X,GG,ODD,2.22,0.37
-2024-02-11 20:00:00,Los Chankas CYC - ADT Tarma,2.0,3.25,3.3,PE1,-4.66,1.19,0.81,U,1,1X,NG,EVEN,1.98,0.38
-2024-02-11 20:00:00,FC Barcelona - Granada CF,1.23,6.75,11.5,ES1,330.07,2.21,0.47,U,1,1X/12,NG,EVEN,2.63,1.74
-2024-02-11 20:30:00,Vitoria Guimaraes - Benfica Lisboa,5.0,3.9,1.62,PT1,-237.15,0.79,2.02,O,2,2X/12,NG,EVEN,2.71,-1.23
-2024-02-11 21:00:00,Sport Boys Association - Deportivo Garcilaso,2.15,3.25,3.0,PE1,-55.98,1.27,0.85,U,1,1X,GG,ODD,2.05,0.42
-2024-02-11 21:15:00,Cerro Porteño - Libertad Asuncion,2.15,3.2,2.87,PY1,18.44,1.24,1.44,O,X,2X,GG,EVEN,2.55,-0.2
-2024-02-11 22:00:00,Necaxa - Toluca,3.2,3.7,2.05,MX1,-168.33,0.91,1.24,O,2,2X,NG,EVEN,2.05,-0.33
-2024-02-11 22:00:00,Atletico Lanus - CA Platense,2.2,2.95,3.6,AR1,40.58,0.89,0.69,U,X,1X,NG,EVEN,1.57,0.2
-2024-02-13 19:00:00,FC Copenhagen - Manchester City,10.5,5.5,1.3,CLCUP,-402.01,0.65,1.81,U,2,2X/12,NG,EVEN,2.56,-1.16
-2024-02-13 19:00:00,RB Leipzig - Real Madrid,3.2,3.7,2.1,CLCUP,-68.57,1.06,1.07,O,X,2X,GG,ODD,1.99,-0.01
-2024-02-14 14:00:00,Bologna FC - AC Fiorentina,2.3,3.2,3.2,IT1,-43.29,1.35,0.73,U,1,1X,NG,EVEN,2.05,0.62
-2024-02-14 20:00:00,Paris Saint-Germain - Real Sociedad,1.63,4.0,5.0,CLCUP,130.77,1.53,0.89,U,1,1X,NG,ODD,2.17,0.64
-2024-02-15 15:30:00,Olympiakos Piraeus - Ferencvaros Budapest,1.78,3.6,3.9,ECLCUP,74.16,1.46,0.76,U,1,1X/12,NG,ODD,2.2,0.7
-2024-02-15 15:30:00,Benfica Lisboa - Toulouse FC,1.4,4.75,8.0,ELCUP,216.49,2.01,0.88,O,1,1X/12,GG,ODD,2.57,1.13
-2024-02-15 16:00:00,Galatasaray - Sparta Praha,1.78,3.75,4.33,ELCUP,94.36,1.76,0.85,O,1,1X/12,GG,ODD,2.52,0.91
-2024-02-15 16:00:00,RC Lens - SC Freiburg,1.93,3.5,3.8,ELCUP,17.59,1.84,0.95,O,1,1X/12,GG,ODD,2.54,0.89
-2024-02-15 16:45:00,Young Boys Bern - Sporting Lisboa,3.6,3.7,1.95,ELCUP,-199.14,1.24,1.37,O,1,2X,GG,ODD,2.54,-0.13
-2024-02-15 16:45:00,Shakhtar Donezk - Olympique Marseille,3.1,3.4,2.25,ELCUP,-95.34,0.96,0.99,U,2,2X,NG,ODD,1.99,-0.03
-2024-02-15 17:15:00,Union Saint-Gilloise - Eintracht Frankfurt,2.25,3.3,2.85,ECLCUP,-3.89,1.49,1.16,U,1,1X,GG,ODD,2.54,0.33
-2024-02-15 18:30:00,Maccabi Haifa - KAA Gent,2.7,3.4,2.3,ECLCUP,-61.49,1.03,1.05,O,1,2X,NG,ODD,1.9,-0.02
-2024-02-15 19:00:00,AC Milan - Stade Rennes,1.61,4.1,5.25,ELCUP,113.27,1.81,1.05,O,1,1X/12,GG,ODD,2.82,0.76
-2024-02-15 19:00:00,Feyenoord Rotterdam - AS Roma,2.0,3.5,3.7,ELCUP,78.69,1.42,1.43,U,X,2X,GG,EVEN,2.79,-0.01
-2024-02-16 13:00:00,Villarreal CF - Getafe CF,2.05,3.5,3.5,ES1,33.02,1.73,1.21,U,1,1X,GG,EVEN,2.82,0.52
-2024-02-16 17:30:00,Olympique Lyon - OGC Nice,2.6,3.3,2.65,FR1,-56.67,1.12,0.9,U,1,1X,NG,ODD,2.02,0.22
-2024-02-16 18:30:00,1. FC Köln - Werder Bremen,2.35,3.5,2.9,DE1,-34.89,1.2,1.39,U,X,2X,GG,EVEN,2.5,-0.19
-2024-02-16 19:00:00,Inter Milan - Salernitana Calcio 1919,1.16,8.5,16.0,IT1,416.3,2.45,0.76,O,1,1X/12,GG,ODD,3.19,1.69
-2024-02-17 12:30:00,Manchester City - Chelsea FC,1.35,5.25,8.0,UK1,221.1,2.29,0.45,O,1,1X/12,NG,EVEN,2.68,1.84
-2024-02-17 13:00:00,VfL Wolfsburg - Borussia Dortmund,2.75,3.7,2.35,DE1,-109.28,1.76,1.82,O,2,2X,GG,ODD,3.37,-0.06
-2024-02-17 13:00:00,SSC Napoli - Genoa FC,1.62,3.9,5.5,IT1,152.62,1.57,1.0,O,1,1X,GG,EVEN,2.56,0.57
-2024-02-17 13:30:00,SV Darmstadt 98 - VfB Stuttgart,5.75,4.4,1.52,DE1,-305.77,0.98,1.63,O,1,2X,NG,ODD,2.39,-0.65
-2024-02-17 13:30:00,1. FC Heidenheim - Bayer Leverkusen,6.5,4.8,1.44,DE1,-339.94,1.04,1.92,O,2,2X/12,GG,ODD,2.82,-0.88
-2024-02-17 14:15:00,CA Osasuna - Cadiz CF,1.75,3.5,5.0,ES1,117.38,1.34,1.19,U,2,1X,GG,ODD,2.48,0.15
-2024-02-17 15:00:00,OSC Lille - Le Havre AC,1.44,4.5,7.0,FR1,216.48,2.06,0.87,O,1,1X/12,GG,ODD,2.7,1.19
-2024-02-17 15:00:00,Tottenham Hotspur - Wolverhampton Wanderers,1.58,4.4,5.0,UK1,144.16,2.6,0.84,U,1,1X/12,GG,ODD,3.35,1.76
-2024-02-17 15:00:00,Fulham FC - Aston Villa,2.85,3.5,2.35,UK1,-120.64,1.6,1.67,O,2,2X,GG,ODD,3.08,-0.07
-2024-02-17 16:00:00,FC Nantes - Paris Saint-Germain,5.25,4.4,1.57,FR1,-291.1,1.04,1.83,O,2,2X/12,GG,ODD,2.87,-0.79
-2024-02-17 16:30:00,RB Leipzig - Mönchengladbach,1.42,5.25,6.5,DE1,201.49,2.39,1.08,O,1,1X/12,GG,EVEN,3.23,1.31
-2024-02-17 16:30:00,1899 Hoffenheim - 1. FC Union Berlin,2.2,3.6,3.1,DE1,-3.38,1.42,1.24,O,1,1X,NG,EVEN,2.63,0.18
-2024-02-17 17:30:00,FSV Mainz 05 - FC Augsburg,2.0,3.6,3.5,DE1,12.7,1.66,1.25,U,1,1X,GG,EVEN,2.91,0.41
-2024-02-17 17:30:00,Nottingham Forest - West Ham United,2.6,3.4,2.6,UK1,-81.33,1.24,0.86,U,1,1X,NG,ODD,2.06,0.38
-2024-02-17 18:45:00,Atalanta Bergamo - US Sassuolo Calcio,1.41,5.0,6.75,IT1,185.28,2.1,1.2,O,1,1X/12,GG,EVEN,3.25,0.9
-2024-02-17 20:00:00,Brentford FC - Liverpool FC,5.0,4.33,1.61,UK1,-268.9,0.74,1.74,O,2,2X/12,NG,ODD,2.64,-1.0
-2024-02-17 20:30:00,Atletico Madrid - UD Las Palmas,1.35,5.0,8.75,ES1,245.2,2.11,0.61,U,1,1X/12,NG,ODD,2.56,1.5
-2024-02-17 22:00:00,Celta de Vigo - FC Barcelona,3.8,3.8,1.88,ES1,-223.9,1.46,1.19,O,1,1X,NG,EVEN,2.62,0.27
-2024-02-17 22:00:00,FC Valencia - Sevilla FC,2.05,3.4,3.6,ES1,9.49,1.74,1.05,U,1,1X/12,GG,ODD,2.82,0.69
-2024-02-18 10:30:00,Lazio Roma - Bologna FC,1.98,3.25,4.1,IT1,40.05,0.99,0.7,O,X,1X,GG,EVEN,1.55,0.29
-2024-02-18 13:00:00,Empoli FC - AC Fiorentina,3.5,3.4,2.05,IT1,-185.3,0.95,1.73,O,2,2X/12,GG,ODD,2.6,-0.78
-2024-02-18 13:00:00,AS Monaco - Toulouse FC,1.49,4.6,6.0,FR1,140.34,2.59,1.73,O,X,1X/12,GG,EVEN,4.06,0.86
-2024-02-18 13:00:00,Udinese Calcio - Cagliari Calcio,2.2,3.4,3.25,IT1,19.15,1.19,0.81,O,1,1X,NG,EVEN,1.92,0.38
-2024-02-18 14:00:00,SSD Monza 1912 - AC Milan,3.9,3.8,1.85,IT1,-185.86,1.2,1.42,O,2,2X,GG,EVEN,2.6,-0.22
-2024-02-18 15:00:00,Luton Town - Manchester United,3.6,3.7,1.98,UK1,-198.72,1.34,1.28,O,X,1X,GG,EVEN,2.38,0.06
-2024-02-18 15:05:00,Stade Reims - RC Lens,2.5,3.4,2.75,FR1,-98.7,1.52,1.22,U,1,1X,GG,EVEN,2.65,0.3
-2024-02-18 15:30:00,SC Freiburg - Eintracht Frankfurt,2.1,3.5,3.3,DE1,-5.52,1.4,0.96,U,1,1X,GG,EVEN,2.38,0.44
-2024-02-18 16:00:00,Frosinone Calcio - AS Roma,3.7,3.6,1.95,IT1,-180.77,1.19,1.29,O,1,2X,NG,ODD,2.6,-0.1
-2024-02-18 16:00:00,Stade Rennes - Clermont Foot,1.5,4.5,6.0,FR1,168.14,2.14,1.18,O,1,1X/12,GG,ODD,3.28,0.96
-2024-02-18 16:05:00,Montpellier HSC - FC Metz,1.7,3.8,4.8,FR1,114.8,1.75,0.72,O,1,1X/12,NG,ODD,2.32,1.03
-2024-02-18 18:45:00,Stade Brest - Olympique Marseille,2.45,3.4,2.8,FR1,-49.35,1.36,1.0,U,1,1X,NG,EVEN,2.33,0.36
-2024-02-18 19:00:00,Betis Sevilla - CD Alaves,2.0,3.5,3.7,ES1,0.86,1.42,1.43,U,X,2X,GG,EVEN,2.79,-0.01
-2024-02-18 19:30:00,Racing Strasbourg - FC Lorient,1.7,4.0,4.5,FR1,132.49,1.41,1.09,U,X,1X,GG,EVEN,2.54,0.32
-2024-02-18 20:00:00,Rayo Vallecano - Real Madrid,4.75,3.9,1.71,ES1,-248.1,0.79,1.48,U,2,2X/12,GG,EVEN,2.45,-0.69
+2024-02-11 18:15:00,KAA Gent - Cercle Brügge,2.1,3.7,3.2,BE1,-6.49,1.51,1.4,O,1,1X,GG,EVEN,2.85,0.11
+2024-02-11 18:45:00,AC Milan - SSC Napoli,1.9,3.75,3.75,IT1,54.9,1.78,1.01,O,1,1X/12,GG,ODD,2.85,0.77
+2024-02-11 19:00:00,Feyenoord Rotterdam - Sparta Rotterdam,1.14,9.0,19.0,NL1,428.51,2.47,0.8,O,X,1X/12,GG,EVEN,3.18,1.67
+2024-02-11 19:45:00,OGC Nice - AS Monaco,2.25,3.4,3.1,FR1,-16.52,1.09,1.05,O,X,1X,NG,EVEN,2.05,0.04
+2024-02-11 20:00:00,Los Chankas CYC - ADT Tarma,2.0,3.2,3.4,PE1,-2.07,1.12,0.82,U,1,1X,NG,EVEN,1.84,0.3
+2024-02-11 20:00:00,Burgos CF - Racing Club Ferrol,2.05,3.1,3.6,ES2,4.11,1.25,0.81,O,1,1X,GG,EVEN,2.07,0.44
+2024-02-11 20:00:00,FC Barcelona - Granada CF,1.23,6.75,11.5,ES1,330.07,2.23,0.46,U,1,1X/12,NG,EVEN,2.67,1.77
+2024-02-11 20:30:00,Vitoria Guimaraes - Benfica Lisboa,5.25,4.1,1.57,PT1,-244.11,1.02,1.84,U,2,2X/12,GG,ODD,2.67,-0.82
+2024-02-11 21:00:00,Sport Boys Association - Deportivo Garcilaso,2.1,3.3,3.0,PE1,-53.94,1.22,1.02,U,X,1X,NG,ODD,2.08,0.2
+2024-02-11 21:15:00,Cerro Porteño - Libertad Asuncion,2.15,3.2,2.87,PY1,18.44,1.24,1.47,O,X,2X,GG,EVEN,2.57,-0.23
+2024-02-11 22:00:00,Atletico Lanus - CA Platense,2.15,3.0,3.6,AR1,42.57,1.41,0.83,U,1,1X,GG,ODD,2.22,0.58
+2024-02-11 22:00:00,Necaxa - Toluca,3.2,3.7,2.05,MX1,-168.33,0.85,1.44,O,2,2X,NG,EVEN,2.1,-0.59
+2024-02-13 19:00:00,RB Leipzig - Real Madrid,3.2,3.7,2.1,CLCUP,-68.57,1.0,1.21,O,X,2X,GG,EVEN,2.12,-0.21
+2024-02-13 19:00:00,FC Copenhagen - Manchester City,10.5,5.5,1.3,CLCUP,-402.01,0.66,1.85,U,2,2X/12,NG,ODD,2.42,-1.19
+2024-02-14 14:00:00,Bologna FC - AC Fiorentina,2.3,3.2,3.2,IT1,-43.29,1.4,0.72,U,1,1X/12,NG,EVEN,2.06,0.68
+2024-02-14 20:00:00,Paris Saint-Germain - Real Sociedad,1.63,4.0,5.0,CLCUP,130.76,1.5,0.86,U,1,1X,NG,EVEN,2.16,0.64
+2024-02-15 15:30:00,Benfica Lisboa - Toulouse FC,1.4,4.75,8.0,ELCUP,219.97,1.9,0.82,O,1,1X/12,GG,ODD,2.58,1.08
+2024-02-15 15:30:00,Olympiakos Piraeus - Ferencvaros Budapest,1.78,3.6,3.9,ECLCUP,71.44,1.46,0.77,U,1,1X/12,NG,ODD,2.07,0.69
+2024-02-15 16:00:00,Galatasaray - Sparta Praha,1.78,3.75,4.33,ELCUP,94.35,1.76,0.85,O,1,1X/12,GG,ODD,2.54,0.91
+2024-02-15 16:00:00,RC Lens - SC Freiburg,1.93,3.5,3.8,ELCUP,17.59,1.79,0.89,O,1,1X/12,GG,ODD,2.67,0.9
+2024-02-15 16:45:00,Shakhtar Donezk - Olympique Marseille,3.1,3.4,2.25,ELCUP,-95.34,0.96,0.98,U,1,2X,NG,ODD,1.97,-0.02
+2024-02-15 16:45:00,Young Boys Bern - Sporting Lisboa,3.6,3.7,1.95,ELCUP,-199.13,1.29,1.52,O,2,2X,GG,EVEN,2.68,-0.23
+2024-02-15 17:15:00,Union Saint-Gilloise - Eintracht Frankfurt,2.25,3.3,2.85,ECLCUP,-3.89,1.55,1.02,U,1,1X,NG,ODD,2.52,0.53
+2024-02-15 18:30:00,Maccabi Haifa - KAA Gent,2.7,3.4,2.3,ECLCUP,-61.49,1.04,1.01,O,X,1X,NG,ODD,1.86,0.03
+2024-02-15 19:00:00,AC Milan - Stade Rennes,1.61,4.1,5.25,ELCUP,113.26,1.84,1.06,U,1,1X/12,GG,ODD,2.87,0.78
+2024-02-15 19:00:00,Feyenoord Rotterdam - AS Roma,2.0,3.5,3.7,ELCUP,78.69,1.48,1.43,U,X,1X,GG,EVEN,2.78,0.05
+2024-02-16 13:00:00,Villarreal CF - Getafe CF,2.05,3.5,3.5,ES1,33.02,1.72,1.19,U,X,1X,GG,EVEN,2.77,0.53
+2024-02-16 17:30:00,Olympique Lyon - OGC Nice,2.6,3.3,2.65,FR1,-55.01,1.1,0.87,U,1,1X,NG,ODD,2.04,0.23
+2024-02-16 18:30:00,1. FC Köln - Werder Bremen,2.35,3.5,2.9,DE1,-34.89,1.25,1.26,U,X,2X,NG,EVEN,2.53,-0.01
+2024-02-16 19:00:00,Inter Milan - Salernitana Calcio 1919,1.16,8.5,16.0,IT1,416.3,2.52,0.68,O,1,1X/12,GG,ODD,3.21,1.84
+2024-02-17 12:30:00,Manchester City - Chelsea FC,1.35,5.25,8.0,UK1,221.1,2.37,0.53,O,1,1X/12,NG,EVEN,2.8,1.84
+2024-02-17 13:00:00,SSC Napoli - Genoa FC,1.62,3.9,5.5,IT1,152.62,1.59,0.95,O,1,1X,GG,ODD,2.56,0.64
+2024-02-17 13:30:00,1. FC Heidenheim - Bayer Leverkusen,6.5,4.8,1.44,DE1,-340.42,1.07,2.0,O,2,2X/12,GG,ODD,2.85,-0.93
+2024-02-17 13:30:00,VfL Wolfsburg - Borussia Dortmund,2.75,3.7,2.35,DE1,-109.28,1.75,1.81,O,2,2X,NG,ODD,3.39,-0.06
+2024-02-17 13:30:00,SV Darmstadt 98 - VfB Stuttgart,5.75,4.4,1.52,DE1,-305.77,1.0,1.56,O,1,2X,NG,ODD,2.27,-0.56
+2024-02-17 14:15:00,CA Osasuna - Cadiz CF,1.75,3.5,5.0,ES1,117.38,1.34,1.17,U,2,1X,GG,EVEN,2.5,0.17
+2024-02-17 15:00:00,Tottenham Hotspur - Wolverhampton Wanderers,1.58,4.4,5.0,UK1,144.16,2.63,0.8,O,1,1X/12,GG,EVEN,3.42,1.83
+2024-02-17 15:00:00,OSC Lille - Le Havre AC,1.44,4.5,7.0,FR1,211.87,1.93,0.88,O,1,1X/12,GG,ODD,2.7,1.05
+2024-02-17 15:00:00,Fulham FC - Aston Villa,2.85,3.5,2.35,UK1,-121.85,1.52,1.69,O,2,2X,GG,ODD,2.98,-0.17
+2024-02-17 16:00:00,FC Nantes - Paris Saint-Germain,5.25,4.4,1.57,FR1,-290.17,1.05,1.86,O,2,2X/12,GG,ODD,2.8,-0.81
+2024-02-17 16:30:00,1899 Hoffenheim - 1. FC Union Berlin,2.2,3.6,3.1,DE1,-3.37,1.45,1.25,O,1,1X,GG,EVEN,2.65,0.2
+2024-02-17 16:30:00,RB Leipzig - Mönchengladbach,1.42,5.25,6.5,DE1,201.49,2.4,1.03,O,1,1X/12,GG,EVEN,3.31,1.37
+2024-02-17 17:30:00,FSV Mainz 05 - FC Augsburg,2.0,3.6,3.5,DE1,12.7,1.66,1.24,U,1,1X,GG,EVEN,2.94,0.42
+2024-02-17 17:30:00,Nottingham Forest - West Ham United,2.6,3.4,2.6,UK1,-81.33,1.23,0.84,O,1,1X,NG,ODD,2.06,0.39
+2024-02-17 18:45:00,Atalanta Bergamo - US Sassuolo Calcio,1.41,5.0,6.75,IT1,185.28,2.18,1.14,O,1,1X/12,GG,EVEN,3.26,1.04
+2024-02-17 19:00:00,FC Valencia - Sevilla FC,2.05,3.4,3.6,ES1,6.3,1.75,0.99,O,1,1X/12,GG,ODD,2.7,0.76
+2024-02-17 20:00:00,Brentford FC - Liverpool FC,5.0,4.33,1.61,UK1,-268.9,0.71,1.75,O,2,2X/12,NG,ODD,2.61,-1.04
+2024-02-17 20:30:00,Atletico Madrid - UD Las Palmas,1.35,5.0,8.75,ES1,242.01,2.11,0.62,U,1,1X/12,NG,ODD,2.52,1.49
+2024-02-17 22:00:00,Celta de Vigo - FC Barcelona,3.8,3.8,1.88,ES1,-223.9,1.43,1.33,O,1,1X,NG,EVEN,2.67,0.1
+2024-02-18 10:30:00,Lazio Roma - Bologna FC,1.98,3.25,4.1,IT1,40.05,1.1,0.75,O,X,1X,GG,EVEN,1.74,0.35
+2024-02-18 13:00:00,Empoli FC - AC Fiorentina,3.5,3.4,2.05,IT1,-185.3,0.98,1.76,O,2,2X/12,GG,ODD,2.62,-0.78
+2024-02-18 13:00:00,Udinese Calcio - Cagliari Calcio,2.2,3.4,3.25,IT1,19.15,1.17,0.87,O,1,1X,NG,EVEN,2.03,0.3
+2024-02-18 13:00:00,AS Monaco - Toulouse FC,1.49,4.6,6.0,FR1,140.34,2.54,1.72,O,X,1X/12,GG,EVEN,4.11,0.82
+2024-02-18 14:00:00,SSD Monza 1912 - AC Milan,3.9,3.8,1.85,IT1,-186.62,1.21,1.36,O,2,2X,GG,EVEN,2.59,-0.15
+2024-02-18 15:00:00,Luton Town - Manchester United,3.5,3.75,1.98,UK1,-196.28,1.35,1.56,O,X,2X,NG,EVEN,2.51,-0.21
+2024-02-18 15:05:00,Stade Reims - RC Lens,2.5,3.4,2.75,FR1,-98.7,1.44,1.19,O,1,1X,GG,EVEN,2.49,0.25
+2024-02-18 15:30:00,SC Freiburg - Eintracht Frankfurt,2.15,3.5,3.2,DE1,-10.23,1.29,0.97,U,1,1X,GG,EVEN,2.13,0.32
+2024-02-18 16:00:00,Frosinone Calcio - AS Roma,3.7,3.6,1.95,IT1,-180.77,1.2,1.35,O,2,2X,GG,ODD,2.55,-0.15
+2024-02-18 16:00:00,Stade Rennes - Clermont Foot,1.5,4.5,6.0,FR1,165.81,2.07,1.1,O,1,1X/12,GG,EVEN,3.3,0.97
+2024-02-18 16:05:00,Montpellier HSC - FC Metz,1.7,3.8,4.8,FR1,114.79,1.74,0.66,O,1,1X/12,NG,ODD,2.31,1.08
+2024-02-18 18:45:00,Stade Brest - Olympique Marseille,2.45,3.4,2.8,FR1,-46.26,1.36,1.06,U,1,1X,NG,EVEN,2.28,0.3
+2024-02-18 19:00:00,Betis Sevilla - CD Alaves,2.0,3.5,3.7,ES1,0.86,1.48,1.43,U,X,1X,GG,EVEN,2.78,0.05
+2024-02-18 19:30:00,Racing Strasbourg - FC Lorient,1.7,3.9,4.6,FR1,134.41,2.11,1.0,U,1,1X/12,GG,ODD,2.87,1.11
+2024-02-18 20:00:00,Rayo Vallecano - Real Madrid,5.0,4.0,1.65,ES1,-256.29,0.58,1.81,U,2,2X/12,NG,ODD,2.27,-1.23
