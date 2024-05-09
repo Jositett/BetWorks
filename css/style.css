@@ -30,7 +30,7 @@ body {
     max-width: 100%;
     margin: 3.5rem .25rem;
     padding: 0 .25em;
-    min-height: 100vh;
+    min-height: 100dvh;
 }
 
 nav {
@@ -42,7 +42,7 @@ nav {
 }
 
 section {
-    min-height: 100vh;
+    min-height: 80dvh;
     padding: 2rem .75rem;
     border: -3.95rem solid var(--text-color);
     box-shadow: 0 0 .8rem var(--text-color);
