@@ -1,138 +1,138 @@
 Datetime,Pairing,Home,Draw,Away,League,Ratings Diff,Home Goals Est,Away Goals Est,OU Est,1X2 Est,Goal Diff Est,BTTS Est,EVEN/ODD Est,Total Goals Est,Goal Diff
-2024-07-26 01:00:00,Correcaminos - Cancun FC,2.6,3.25,2.3,MX2,-81.74,1.38,1.46,O,2,2X,GG,ODD,2.76,-0.08
-2024-07-26 12:00:00,Shenzhen Peng City - Beijing Guoan,3.0,3.3,2.15,CN1,-147.01,1.2,1.31,O,X,2X,GG,EVEN,2.56,-0.11
-2024-07-26 12:00:00,Kedah - Kuching City,1.47,3.9,5.5,MY1,135.85,1.96,1.11,O,X,1X/12,GG,EVEN,3.07,0.85
-2024-07-26 12:15:00,Darul Takzim - Terengganu,1.1,8.5,15.0,MY1,430.63,2.31,0.51,O,1,1X/12,NG,EVEN,2.88,1.8
-2024-07-26 13:30:00,Kelantan DNFC - Perak,3.25,3.4,1.9,MY1,-81.5,1.43,1.39,O,1,1X,GG,ODD,2.76,0.04
-2024-07-26 18:00:00,Union Comercio - Atletico Grau,2.55,3.0,2.45,PE1,-127.07,1.22,0.92,U,2,1X,NG,ODD,2.13,0.3
-2024-07-26 19:00:00,San Antonio Bulo Bulo - Real Tomayapo,1.5,3.9,5.0,BO1,53.06,1.74,1.27,O,2,1X,GG,ODD,3.03,0.47
-2024-07-26 20:00:00,El Masry - El Ahly,6.5,4.2,1.38,EG1,-270.87,0.81,2.17,O,2,2X/12,NG,EVEN,3.0,-1.36
-2024-07-26 20:00:00,Comerciantes Unidos - Carlos Mannucci,1.77,3.4,3.9,PE1,7.09,1.73,1.54,O,2,1X,GG,EVEN,3.22,0.19
-2024-07-26 20:00:00,Zamalek - Pyramids FC,3.8,3.3,1.78,EG1,-98.36,0.97,2.06,O,2,2X/12,GG,ODD,2.99,-1.09
-2024-07-26 23:00:00,Blooming - Club Independiente Petrolero,1.61,3.6,4.5,BO1,47.8,1.89,1.3,U,1,1X,GG,EVEN,3.27,0.59
-2024-07-26 23:30:00,Sportivo Trinidense - Guarani,3.0,3.2,2.1,PY1,-95.35,0.99,1.29,U,2,2X,NG,EVEN,2.36,-0.3
-2024-07-26 23:30:00,Ituano - Vila Nova-GO,2.95,3.1,2.3,BR2,-149.38,1.22,1.53,U,X,2X,GG,EVEN,2.67,-0.31
-2024-07-27 00:00:00,Penarol Montevideo - Defensor Sporting,1.75,3.5,4.2,UY1,130.27,1.43,1.03,U,1,1X,GG,EVEN,2.52,0.4
-2024-07-27 00:00:00,York United - Atletico Ottawa,4.4,3.5,1.65,CA1,-231.16,1.22,1.41,U,1,2X,NG,ODD,2.63,-0.19
-2024-07-27 00:00:00,Deportivo Garcilaso - Sport Boys Association,1.46,4.1,5.25,PE1,78.75,1.59,0.75,O,1,1X/12,NG,EVEN,2.52,0.84
-2024-07-27 00:00:00,Everton CD - CD Iquique,1.95,3.7,3.4,CL1,19.96,1.98,1.4,U,1,1X,GG,EVEN,3.43,0.58
-2024-07-27 00:10:00,Independiente Rivadavia - CA Independiente,3.0,2.95,2.5,AR1,-127.37,0.98,1.13,U,X,2X,NG,EVEN,2.12,-0.15
-2024-07-27 01:00:00,Atlanta United - D.C. United,1.8,3.6,3.4,CCLCUP,25.07,1.95,1.29,O,1,1X/12,GG,ODD,3.1,0.66
-2024-07-27 01:00:00,Orlando City - CF Montreal,1.41,4.4,5.5,CCLCUP,154.15,2.44,1.13,O,1,1X/12,GG,EVEN,3.53,1.31
-2024-07-27 02:00:00,Venados FC - Tepatitlan de Morelos,1.43,4.1,5.75,MX2,179.12,2.03,0.73,O,1,1X/12,NG,ODD,2.86,1.3
-2024-07-27 02:00:00,UNAM Pumas - Austin FC,2.3,3.25,2.65,CCLCUP,40.67,1.3,0.78,U,1,1X,NG,EVEN,2.14,0.52
-2024-07-27 02:30:00,Universitario De Deportes - Alianza Lima,2.05,2.85,3.5,PE1,-8.51,0.97,1.28,O,1,2X,NG,ODD,2.31,-0.31
-2024-07-27 03:00:00,Vancouver FC - Cavalry FC,2.95,3.2,2.1,CA1,-87.76,1.33,1.4,U,X,2X,GG,EVEN,2.82,-0.07
-2024-07-27 03:00:00,Seattle Sounders - Minnesota United FC,1.61,3.75,4.33,CCLCUP,41.12,1.69,1.14,U,1,1X,GG,ODD,2.84,0.55
-2024-07-27 04:00:00,Los Angeles FC - Club Tijuana,1.57,3.8,4.6,CCLCUP,137.42,1.84,0.92,U,1,1X/12,NG,ODD,2.8,0.92
-2024-07-27 04:00:00,Leones Negros - CD Tapatio,1.75,3.5,3.8,MX2,44.94,1.77,1.5,O,1,1X,GG,ODD,3.05,0.27
-2024-07-27 09:30:00,Daegu - Daejeon Citizen,1.98,3.5,3.6,KR1,49.48,1.59,1.56,U,1,1X,GG,ODD,3.19,0.03
-2024-07-27 11:00:00,FC Anyang - Chungnam Asan,2.1,3.1,3.0,KR2,59.78,1.24,0.99,U,1,1X,NG,EVEN,2.22,0.25
-2024-07-27 11:00:00,Gwangju FC - Suwon FC,2.05,3.5,3.3,KR1,33.48,1.52,1.53,O,1,2X,GG,ODD,3.08,-0.01
-2024-07-27 11:30:00,Incheon United - FC Seoul,3.0,3.4,2.25,KR1,-99.38,1.18,1.58,U,2,2X,GG,EVEN,2.72,-0.4
-2024-07-27 11:30:00,Seongnam FC - Bucheon FC 1995,2.3,3.25,2.65,KR2,73.06,1.3,0.78,U,1,1X,NG,EVEN,2.14,0.52
-2024-07-27 12:00:00,Changchun Yatai - Cangzhou,1.47,4.33,5.5,CN1,190.1,2.44,1.02,O,1,1X/12,GG,EVEN,3.53,1.42
-2024-07-27 12:35:00,Tianjin Tigers - Qingdao West Coast,1.6,3.9,4.75,CN1,119.61,2.26,1.13,O,1,1X/12,GG,ODD,3.48,1.13
-2024-07-27 14:00:00,Miramar Misiones - Cerro Largo,2.4,3.4,2.55,UY1,-6.61,1.4,1.52,O,2,2X,GG,ODD,2.89,-0.12
-2024-07-27 14:30:00,CA Fenix - CA Progreso Montevideo,2.4,3.1,2.75,UY1,5.46,1.11,1.14,U,2,2X,NG,ODD,2.22,-0.03
-2024-07-27 17:30:00,Deportes Copiapo - Coquimbo Unido,2.8,3.4,2.37,CL1,-72.9,1.25,1.62,U,2,2X,GG,ODD,2.88,-0.37
-2024-07-27 19:00:00,Coritiba - Chapecoense,1.66,3.4,5.0,BR2,107.24,1.33,0.87,U,X,1X,GG,EVEN,2.36,0.46
-2024-07-27 19:00:00,Mirassol - Operario Ferroviario EC,1.83,3.1,4.4,BR2,51.53,1.83,0.69,U,1,1X/12,NG,EVEN,2.42,1.14
-2024-07-27 19:00:00,Sporting Cristal - Cienciano Cuzco,1.25,5.5,8.25,PE1,169.83,2.42,0.81,O,1,1X/12,NG,ODD,3.23,1.61
-2024-07-27 20:00:00,Union Espanola - CD Cobresal,1.68,4.1,4.2,CL1,62.28,2.02,1.21,U,1,1X/12,GG,ODD,3.46,0.81
-2024-07-27 20:00:00,Real Santa Cruz - Oriente Petrolero,3.4,3.6,1.82,BO1,-238.79,1.14,2.17,O,2,2X/12,NG,EVEN,3.2,-1.03
-2024-07-27 21:00:00,San Lorenzo - Newell`s Old Boys,2.37,2.7,3.5,AR1,38.09,0.89,0.97,U,1,2X,NG,EVEN,1.83,-0.08
-2024-07-27 21:00:00,Sportivo Ameliano - Tacuary FBC,2.05,3.1,3.2,PY1,35.95,1.52,1.08,U,1,1X,NG,EVEN,2.57,0.44
-2024-07-27 21:15:00,ADT Tarma - CD Los Chankas,1.57,3.7,4.75,PE1,82.66,1.89,1.03,U,1,1X/12,NG,EVEN,2.88,0.86
-2024-07-27 21:30:00,Montevideo Wanderers - Deportivo Maldonado,2.1,3.25,3.2,UY1,26.22,1.57,0.96,O,1,1X,NG,EVEN,2.51,0.61
-2024-07-27 22:00:00,Once Caldas - Atletico Nacional Medellin,2.7,2.95,2.55,CO1,-93.99,1.42,1.01,O,1,1X,GG,ODD,2.45,0.41
-2024-07-27 22:00:00,Sport Recife - Ponte Preta,1.7,3.5,4.5,BR2,82.33,1.54,0.94,U,1,1X,GG,EVEN,2.56,0.6
-2024-07-27 22:30:00,The Strongest - Aurora Cochabamba,1.55,3.75,4.75,BO1,87.84,1.88,1.02,U,1,1X/12,NG,ODD,2.72,0.86
-2024-07-27 22:30:00,Colo Colo - O´Higgins,1.52,4.2,5.75,CL1,182.45,2.06,0.77,O,1,1X/12,NG,ODD,2.84,1.29
-2024-07-27 23:00:00,EC Juventude - Criciuma EC,2.1,3.3,3.6,BR1,-16.42,1.57,0.97,U,1,1X,NG,EVEN,2.54,0.6
-2024-07-27 23:00:00,Rosario Central - CA Huracan,2.37,2.95,3.2,AR1,-37.54,1.02,1.21,U,2,2X,NG,ODD,2.27,-0.19
-2024-07-27 23:00:00,Puebla - Inter Miami CF,4.8,4.1,1.5,CCLCUP,-225.1,1.05,1.51,O,2,2X,NG,EVEN,2.68,-0.46
-2024-07-27 23:00:00,Palmeiras - EC Vitoria Salvador,1.35,5.0,8.75,BR1,217.96,1.97,1.08,O,1,1X/12,NG,EVEN,3.04,0.89
-2024-07-27 23:30:00,Sportivo Luqueño - Sol de America,1.85,3.1,3.75,PY1,91.11,1.36,0.91,O,1,1X,NG,ODD,2.38,0.45
-2024-07-28 00:00:00,Coyotes de Tlaxcala FC - Club Atletico La Paz,1.95,3.3,3.25,MX2,4.5,1.58,1.18,U,X,1X,GG,EVEN,2.78,0.4
-2024-07-28 00:10:00,Independiente Santa Fe - La Equidad,1.8,3.1,4.5,CO1,34.11,1.72,0.62,O,1,1X/12,NG,ODD,2.42,1.1
-2024-07-28 00:10:00,Independiente Medellin - Atletico Junior,2.15,3.1,3.2,CO1,-38.98,1.29,1.13,O,1,1X,GG,ODD,2.5,0.16
-2024-07-28 01:00:00,Houston Dynamo - Atlas,1.93,3.4,3.2,CCLCUP,56.63,1.34,1.05,U,X,1X,NG,EVEN,2.42,0.29
-2024-07-28 01:00:00,New England Revolution - Mazatlan FC,1.68,3.7,3.9,CCLCUP,12.86,1.81,1.26,U,1,1X,GG,EVEN,3.05,0.55
-2024-07-28 01:00:00,AD San Carlos - Municipal Liberia,1.75,3.6,3.7,CR1,53.39,2.08,1.33,O,1,1X/12,GG,ODD,3.22,0.75
-2024-07-28 01:00:00,New York Red Bulls - Toronto FC,1.58,3.8,4.5,CCLCUP,104.22,1.8,1.23,U,1,1X,GG,EVEN,3.14,0.57
-2024-07-28 01:00:00,Philadelphia Union - Charlotte FC,2.0,3.4,3.0,CCLCUP,-29.5,1.55,1.25,U,2,1X,GG,ODD,2.95,0.3
-2024-07-28 01:00:00,Jorge Wilstermann - Royal Pari FC,1.66,3.4,4.4,BO1,57.0,2.2,1.16,O,X,1X/12,GG,EVEN,3.45,1.04
-2024-07-28 01:30:00,CA Bragantino - Fluminense,2.05,3.4,3.7,BR1,39.63,1.2,1.1,O,1,1X,GG,ODD,2.26,0.1
-2024-07-28 01:30:00,Botafogo-RJ - Cruzeiro,1.93,3.4,4.1,BR1,26.99,1.39,0.93,U,1,1X,NG,ODD,2.28,0.46
-2024-07-28 01:30:00,Fortaleza EC - Sao Paulo,2.3,3.2,3.25,BR1,-36.88,1.41,1.2,U,2,1X,GG,ODD,2.53,0.21
-2024-07-28 02:00:00,St. Louis City SC - FC Dallas,2.05,3.5,2.85,CCLCUP,-10.05,1.48,1.26,U,X,1X,GG,EVEN,2.85,0.22
-2024-07-28 02:00:00,Mineros de Zacatecas - Dorados,1.44,4.2,5.25,MX2,202.77,1.93,1.0,O,X,1X/12,GG,EVEN,3.0,0.93
-2024-07-28 03:00:00,Guadalajara Chivas - San Jose Earthquakes,2.3,3.4,2.55,CCLCUP,25.31,1.47,1.51,O,2,2X,GG,ODD,3.03,-0.04
-2024-07-28 04:00:00,Tampico Madero - Atletico Morelia,1.98,3.25,3.2,MX2,44.68,1.96,1.19,O,1,1X/12,GG,EVEN,3.09,0.77
-2024-07-28 11:00:00,Pohang Steelers - Gimcheon Sangmu FC,2.25,3.4,3.0,KR1,5.48,1.51,1.0,U,X,1X,NG,EVEN,2.52,0.51
-2024-07-28 11:00:00,Jeonnam Dragons - Seoul E-Land FC,2.5,3.25,2.37,KR2,-15.18,1.5,1.27,U,1,1X,NG,ODD,2.67,0.23
-2024-07-28 11:00:00,Gyeongnam - Cheonan City,1.75,3.4,3.8,KR2,80.87,1.85,1.48,O,2,1X,GG,ODD,3.04,0.37
-2024-07-28 12:00:00,Danubio - Liverpool FC Montevideo,2.7,3.25,2.35,UY1,-76.88,1.55,1.34,U,1,1X,GG,ODD,2.79,0.21
-2024-07-28 12:35:00,Qingdao Hainiu - Meizhou Hakka,2.05,3.5,3.1,CN1,12.62,1.36,1.2,O,X,1X,GG,EVEN,2.57,0.16
-2024-07-28 12:35:00,Zhejiang Professional - Chengdu Rongcheng,3.2,3.75,1.93,CN1,-174.13,1.45,1.48,O,1,2X,GG,EVEN,3.09,-0.03
-2024-07-28 13:00:00,Henan Songshan Longmen - Shandong Taishan,2.75,3.5,2.2,CN1,-59.39,1.37,1.54,U,1,2X,GG,ODD,2.94,-0.17
-2024-07-28 14:30:00,CA Cerro - Rampla Juniors,2.15,3.2,3.1,UY1,43.86,1.28,1.23,O,2,1X,NG,ODD,2.5,0.05
-2024-07-28 16:00:00,Brazil (W) - Japan (W),2.65,3.25,2.4,OLF,-4.69,1.57,1.23,O,1,1X,GG,ODD,2.71,0.34
-2024-07-28 16:00:00,Spain (W) - Nigeria (W),1.13,8.25,14.5,OLF,672.54,2.59,0.61,O,1,1X/12,GG,ODD,3.22,1.98
-2024-07-28 16:00:00,New Zealand (W) - Colombia (W),6.0,3.9,1.49,OLF,-188.43,0.92,1.93,O,2,2X/12,NG,ODD,2.8,-1.01
-2024-07-28 16:30:00,River Plate - Club Atletico Sarmiento,1.37,4.75,8.0,AR1,275.8,2.13,0.64,O,1,1X/12,NG,ODD,2.91,1.49
-2024-07-28 16:30:00,River Plate Montevideo - Racing Montevideo,2.65,3.2,2.45,UY1,-61.56,1.34,1.32,U,2,1X,GG,ODD,2.48,0.02
-2024-07-28 18:00:00,Flamengo - Atletico GO,1.36,5.0,8.5,BR1,215.9,2.15,0.93,O,1,1X/12,NG,ODD,3.14,1.22
-2024-07-28 18:00:00,USA (W) - Germany (W),2.15,3.25,3.1,OLF,125.2,1.4,1.12,U,X,1X,NG,EVEN,2.35,0.28
-2024-07-28 18:00:00,Australia (W) - Zambia (W),1.19,6.75,10.5,OLF,396.45,2.68,0.56,O,1,1X/12,NG,EVEN,3.31,2.12
-2024-07-28 19:00:00,CA Banfield - Talleres Cordoba,3.2,3.1,2.25,AR1,-137.97,0.82,1.1,U,2,2X,NG,ODD,1.81,-0.28
-2024-07-28 19:00:00,Nacional Montevideo - Boston River,1.49,4.0,5.75,UY1,215.38,1.64,0.78,O,1,1X/12,NG,ODD,2.46,0.86
-2024-07-28 19:00:00,Estudiantes La Plata - Gimnasia La Plata,1.83,3.3,4.4,AR1,83.38,1.95,0.99,O,1,1X/12,GG,EVEN,2.95,0.96
-2024-07-28 20:00:00,CD Nublense - Universidad Catolica,2.35,3.3,2.9,CL1,-48.46,1.68,1.34,O,2,1X,GG,ODD,3.0,0.34
-2024-07-28 20:00:00,France (W) - Canada (W),1.6,3.7,5.0,OLF,87.94,1.89,0.89,U,1,1X/12,NG,EVEN,2.74,1.0
-2024-07-28 20:00:00,Guarani SP - Brusque SC,2.15,3.0,3.4,BR2,-2.27,1.37,1.16,U,2,1X,GG,ODD,2.57,0.21
-2024-07-28 21:00:00,Atletico Bucaramanga - Jaguares de Cordoba,1.7,3.3,4.75,CO1,49.46,1.1,0.71,U,X,1X,NG,ODD,1.74,0.39
-2024-07-28 21:00:00,General Caballero - Olimpia Asuncion,3.9,3.4,1.75,PY1,-207.89,0.92,1.82,O,2,2X/12,NG,ODD,2.67,-0.9
-2024-07-28 21:15:00,Racing Club - CA Union Santa Fe,1.88,3.3,4.2,AR1,76.94,1.63,0.87,O,1,1X/12,NG,ODD,2.51,0.76
-2024-07-28 22:00:00,EC Bahia - Internacional,2.05,3.4,3.7,BR1,-4.42,1.2,1.1,U,X,1X,GG,EVEN,2.26,0.1
-2024-07-28 22:00:00,Forge FC - HFX Wanderers FC,1.98,3.25,3.2,CA1,91.47,1.96,1.19,O,1,1X/12,GG,ODD,3.09,0.77
-2024-07-28 22:30:00,CRB Maceio - Santos FC,2.8,3.1,2.37,BR2,-150.16,1.14,1.34,U,2,2X,NG,EVEN,2.38,-0.2
-2024-07-28 22:30:00,America MG - Ceara Sporting Club,1.93,3.25,3.6,BR2,9.29,1.57,0.92,U,1,1X,NG,EVEN,2.63,0.65
-2024-07-28 22:30:00,Audax Italiano - Universidad de Chile,3.4,3.4,2.05,CL1,-110.72,1.34,1.44,U,2,2X,GG,EVEN,2.68,-0.1
-2024-07-28 23:00:00,Gremio Porto Alegre - Vasco da Gama,2.1,3.3,3.6,BR1,-4.53,1.57,0.97,U,1,1X,NG,EVEN,2.54,0.6
-2024-07-28 23:00:00,Atletico-MG - Corinthians,1.68,3.75,5.0,BR1,91.39,1.6,1.05,U,1,1X,GG,EVEN,2.57,0.55
-2024-07-28 23:30:00,Libertad Asuncion - Nacional Asuncion,1.46,4.1,5.5,PY1,154.14,1.86,0.77,O,1,1X/12,NG,ODD,2.77,1.09
-2024-07-28 23:30:00,Alianza Petrolera - Millonarios,3.4,3.1,2.1,CO1,-192.79,1.05,1.55,U,2,2X,GG,EVEN,2.48,-0.5
-2024-07-29 00:00:00,Deportivo Pasto - Deportivo Pereira,2.35,2.9,3.1,CO1,-29.09,1.3,1.44,O,2,2X,GG,ODD,2.61,-0.14
-2024-07-29 00:30:00,Instituto AC Cordoba - Boca Juniors,2.8,3.2,2.5,AR1,-120.28,1.03,1.36,U,X,2X,NG,EVEN,2.31,-0.33
-2024-07-29 01:00:00,New York City FC - Queretaro FC,1.5,4.0,5.0,CCLCUP,154.29,1.95,1.09,U,1,1X/12,GG,ODD,3.02,0.86
-2024-07-29 01:00:00,Union La Calera - Huachipato,2.6,3.3,2.6,CL1,-94.15,1.69,1.22,O,X,1X,GG,ODD,2.94,0.47
-2024-07-29 01:30:00,Leon - Portland Timbers,2.6,3.25,2.3,CCLCUP,-47.64,1.38,1.46,O,2,2X,GG,ODD,2.76,-0.08
-2024-07-29 02:00:00,Sporting Kansas City - Chicago Fire,1.93,3.5,3.1,CCLCUP,-27.28,1.07,1.02,O,1,1X,GG,EVEN,2.08,0.05
-2024-07-29 09:30:00,Gimpo FC - Suwon Bluewings,3.3,3.2,1.95,KR2,-137.96,1.19,1.05,U,1,1X,GG,ODD,2.33,0.14
-2024-07-29 11:30:00,Busan I Park - Cheongju FC,1.75,3.3,4.0,KR2,109.47,1.68,1.4,U,2,1X,GG,ODD,2.96,0.28
-2024-07-29 19:00:00,Barracas Central - Atletico Tucuman,2.65,3.1,2.65,AR1,-81.59,1.38,1.33,U,1,1X,NG,ODD,2.6,0.05
-2024-07-29 20:30:00,CSD Defensa y Justicia - CA Platense,2.15,2.95,3.7,AR1,13.56,1.23,1.01,U,1,1X,GG,EVEN,2.22,0.22
-2024-07-29 20:45:00,CA Tigre - Deportivo Riestra,2.3,2.95,3.3,AR1,-12.56,1.09,1.08,U,1,1X,GG,EVEN,2.22,0.01
-2024-07-29 21:00:00,Cuiaba - Athletico PR,2.65,3.1,2.75,BR1,-161.74,1.34,1.39,U,X,2X,GG,ODD,2.66,-0.05
-2024-07-29 22:30:00,Paysandu SC - Novorizontino,2.05,3.0,3.6,BR2,-9.48,1.24,1.4,U,X,2X,GG,EVEN,2.52,-0.16
-2024-07-29 22:45:00,Central Cordoba - Velez Sarsfield,3.9,3.2,2.0,AR1,-204.72,0.97,1.31,U,2,2X,NG,ODD,2.33,-0.34
-2024-07-29 23:00:00,Goias EC - Amazonas FC,1.78,3.2,4.6,BR2,65.52,1.76,0.67,O,1,1X/12,NG,EVEN,2.47,1.09
-2024-07-30 01:00:00,CD Cobreloa - CD Palestino,3.1,3.4,2.2,CL1,-87.8,0.99,1.62,U,2,2X,GG,EVEN,2.58,-0.63
-2024-07-30 01:00:00,CA Belgrano - Godoy Cruz,2.35,2.95,3.2,AR1,-61.02,1.2,1.16,U,1,1X,GG,ODD,2.46,0.04
-2024-07-30 01:00:00,Argentinos Juniors - Atletico Lanus,2.1,3.25,3.4,AR1,62.5,1.57,0.93,U,1,1X,NG,EVEN,2.58,0.64
-2024-07-30 01:30:00,Fortaleza FC - Deportivo Cali,1.83,3.25,4.1,CO1,85.63,1.61,0.94,U,1,1X/12,GG,EVEN,2.58,0.67
-2024-07-30 15:30:00,El Daklyeh - Talaea El Gaish,3.8,3.1,1.87,EG1,-115.02,0.76,1.47,U,2,2X/12,NG,ODD,2.15,-0.71
-2024-07-30 21:00:00,Sport Huancayo - Universidad César Vallejo,1.71,3.3,4.2,PE1,-2.78,1.43,0.82,O,2,1X,NG,ODD,2.43,0.61
-2024-07-30 23:00:00,Avai SC - Botafogo SP,1.8,3.1,4.6,BR2,68.18,1.72,0.68,O,1,1X/12,NG,ODD,2.49,1.04
-2024-07-30 23:00:00,EC Juventude - Fluminense,2.25,3.1,2.85,BRCUP,-49.17,1.24,1.44,U,2,2X,GG,ODD,2.68,-0.2
-2024-07-30 23:30:00,Sao Paulo - Goias EC,1.26,5.25,8.5,BRCUP,198.78,2.26,0.85,O,1,1X/12,NG,ODD,3.01,1.41
-2024-07-31 01:30:00,Botafogo-RJ - EC Bahia,1.77,3.2,4.33,BRCUP,55.5,1.63,0.61,U,1,1X/12,NG,EVEN,2.28,1.02
-2024-07-31 22:30:00,CA Union Santa Fe - Rosario Central,2.3,3.0,3.25,AR1,36.85,1.27,1.05,U,1,1X,NG,ODD,2.29,0.22
-2024-07-31 23:00:00,Corinthians - Gremio Porto Alegre,1.98,3.1,3.6,BRCUP,5.49,1.55,1.02,U,1,1X,NG,EVEN,2.56,0.53
-2024-08-01 00:30:00,Athletico PR - CA Bragantino,1.9,3.1,3.7,BRCUP,3.04,1.26,0.95,U,X,1X,NG,EVEN,2.26,0.31
-2024-08-01 01:30:00,Atletico GO - Vasco da Gama,2.1,3.1,3.1,BRCUP,-39.34,1.48,1.01,U,1,1X,NG,EVEN,2.46,0.47
-2024-08-01 01:30:00,Boca Juniors - CA Banfield,1.65,3.7,5.0,AR1,110.42,1.44,0.95,O,1,1X,GG,EVEN,2.52,0.49
-2024-08-01 22:00:00,Flamengo - Palmeiras,1.98,3.3,3.3,BRCUP,13.09,1.54,1.24,O,1,1X,NG,ODD,2.77,0.3
-2024-08-01 22:30:00,CRB Maceio - Atletico-MG,4.2,3.4,1.71,BRCUP,-228.91,1.1,1.39,U,2,2X,NG,ODD,2.48,-0.29
+2024-07-26 23:00:00,Penarol Montevideo - Defensor Sporting,1.75,3.5,4.2,UY1,130.27,1.44,0.91,O,1,1X,NG,EVEN,2.41,0.53
+2024-07-27 00:10:00,Independiente Rivadavia - CA Independiente,3.0,2.95,2.5,AR1,-127.37,0.95,1.13,U,X,2X,NG,EVEN,2.11,-0.18
+2024-07-27 01:30:00,Universitario De Deportes - Alianza Lima,2.0,2.8,3.7,PE1,-1.55,1.21,1.15,O,1,1X,GG,EVEN,2.3,0.06
+2024-07-27 02:00:00,Seattle Sounders - Minnesota United FC,1.36,4.6,6.25,CCLCUP,87.67,1.97,1.18,O,1,1X/12,GG,EVEN,3.06,0.79
+2024-07-27 02:00:00,Vancouver FC - Cavalry FC,2.95,3.2,2.1,CA1,-87.76,1.41,1.52,U,X,2X,GG,EVEN,2.93,-0.11
+2024-07-27 03:00:00,Leones Negros - CD Tapatio,1.8,3.4,3.6,MX2,37.8,1.8,1.14,U,1,1X/12,GG,EVEN,2.86,0.66
+2024-07-27 03:00:00,Los Angeles FC - Club Tijuana,1.49,4.1,5.0,CCLCUP,149.22,2.38,1.0,U,1,1X/12,GG,EVEN,3.38,1.38
+2024-07-27 09:30:00,Daegu - Daejeon Citizen,1.95,3.4,3.7,KR1,53.17,1.38,1.13,O,1,1X,NG,ODD,2.6,0.25
+2024-07-27 10:00:00,FC Anyang - Chungnam Asan,2.15,3.1,3.0,KR2,57.74,1.35,0.92,U,1,1X,NG,EVEN,2.18,0.43
+2024-07-27 10:00:00,Gwangju FC - Suwon FC,2.1,3.4,3.3,KR1,31.39,1.51,1.25,O,1,1X,GG,ODD,2.98,0.26
+2024-07-27 10:30:00,Seongnam FC - Bucheon FC 1995,2.37,3.2,2.6,KR2,68.82,1.19,0.89,U,2,1X,NG,EVEN,2.02,0.3
+2024-07-27 10:30:00,Incheon United - FC Seoul,3.1,3.3,2.25,KR1,-102.23,0.92,1.41,U,2,2X,NG,EVEN,2.41,-0.49
+2024-07-27 11:00:00,Changchun Yatai - Cangzhou,1.46,4.33,5.75,CN1,194.56,1.97,0.89,U,1,1X/12,NG,EVEN,2.8,1.08
+2024-07-27 11:35:00,Tianjin Tigers - Qingdao West Coast,1.55,4.0,4.8,CN1,123.28,1.83,1.13,O,1,1X/12,NG,EVEN,3.02,0.7
+2024-07-27 13:00:00,EC Sao Bernardo - Uniao Suzano AC,1.82,3.25,4.1,BRCUP,70.05,1.57,0.92,O,1,1X,GG,EVEN,2.31,0.65
+2024-07-27 13:00:00,Miramar Misiones - Cerro Largo,2.45,3.3,2.6,UY1,-6.71,1.25,1.12,U,X,1X,NG,EVEN,2.42,0.13
+2024-07-27 14:30:00,CA Fenix - CA Progreso Montevideo,2.4,3.1,2.75,UY1,5.46,1.19,1.15,U,2,1X,NG,ODD,2.4,0.04
+2024-07-27 16:30:00,Deportes Copiapo - Coquimbo Unido,2.9,3.4,2.3,CL1,-78.54,1.25,1.55,U,2,2X,GG,EVEN,2.82,-0.3
+2024-07-27 18:00:00,Sporting Cristal - Cienciano Cuzco,1.26,5.25,8.0,PE1,166.47,2.06,0.72,O,1,1X/12,NG,ODD,2.8,1.34
+2024-07-27 18:00:00,Oeste Itapolis - Portuguesa Desportos,3.6,3.0,2.0,BRCUP,-153.62,0.94,1.31,U,2,2X,NG,EVEN,2.13,-0.37
+2024-07-27 18:00:00,CA Taquaritinga SP - GD Saocarlense SP,1.63,3.4,5.25,BRCUP,123.82,1.48,0.91,U,X,1X,GG,EVEN,2.38,0.57
+2024-07-27 18:00:00,Rio Branco EC Americana SP - Capivariano FC,2.45,3.0,2.75,BRCUP,-52.42,1.23,1.1,O,1,1X,GG,ODD,2.24,0.13
+2024-07-27 18:00:00,Rio Claro FC - XV de Piracicaba,2.55,3.1,2.55,BRCUP,-41.96,1.56,1.02,O,1,1X,GG,ODD,2.5,0.54
+2024-07-27 19:00:00,Coritiba - Chapecoense,1.66,3.4,5.0,BR2,107.24,1.24,0.88,U,X,1X,GG,EVEN,2.26,0.36
+2024-07-27 19:00:00,Mirassol - Operario Ferroviario EC,1.83,3.1,4.4,BR2,51.53,1.76,0.62,U,1,1X/12,NG,EVEN,2.33,1.14
+2024-07-27 19:00:00,Real Santa Cruz - Oriente Petrolero,3.4,3.6,1.82,BO1,-238.79,1.17,2.02,O,2,2X/12,NG,EVEN,3.12,-0.85
+2024-07-27 19:00:00,Union Espanola - CD Cobresal,1.68,4.1,4.2,CL1,62.28,2.08,1.14,U,1,1X/12,NG,ODD,3.41,0.94
+2024-07-27 20:00:00,Sportivo Ameliano - Tacuary FBC,2.1,3.1,3.1,PY1,31.1,1.45,1.0,U,1,1X,NG,ODD,2.42,0.45
+2024-07-27 20:00:00,San Lorenzo - Newell`s Old Boys,2.37,2.7,3.5,AR1,38.09,0.86,0.86,U,X,X,NG,EVEN,1.75,0.0
+2024-07-27 20:15:00,ADT Tarma - CD Los Chankas,1.55,3.75,4.8,PE1,84.68,1.66,1.02,U,X,1X,NG,EVEN,2.61,0.64
+2024-07-27 20:30:00,Montevideo Wanderers - Deportivo Maldonado,2.1,3.25,3.2,UY1,26.22,1.78,0.9,O,1,1X/12,GG,ODD,2.59,0.88
+2024-07-27 21:00:00,Sport Recife - Ponte Preta,1.7,3.5,4.5,BR2,82.33,1.47,0.89,U,X,1X,GG,EVEN,2.44,0.58
+2024-07-27 21:00:00,Once Caldas - Atletico Nacional Medellin,2.75,2.95,2.5,CO1,-97.31,1.08,1.08,U,1,X,NG,ODD,2.22,0.0
+2024-07-27 21:30:00,The Strongest - Aurora Cochabamba,1.57,3.7,4.8,BO1,87.64,1.78,1.06,U,1,1X/12,NG,ODD,2.82,0.72
+2024-07-27 21:30:00,Colo Colo - O´Higgins,1.52,4.2,5.75,CL1,182.45,1.95,0.83,O,1,1X/12,GG,ODD,2.85,1.12
+2024-07-27 23:00:00,Deportivo Guabira - Gualberto Villarroel San Jose,1.78,3.5,3.7,BO1,1.92,1.81,1.23,O,1,1X,GG,EVEN,3.12,0.58
+2024-07-27 23:00:00,Rionegro Aguilas - Patriotas Boyaca,1.66,3.3,5.25,CO1,52.25,1.35,1.06,U,X,1X,GG,EVEN,2.49,0.29
+2024-07-27 23:00:00,EC Juventude - Criciuma EC,2.1,3.3,3.6,BR1,-16.42,1.5,1.0,U,1,1X,NG,EVEN,2.56,0.5
+2024-07-27 23:00:00,Rosario Central - CA Huracan,2.37,2.95,3.2,AR1,-37.54,1.05,1.11,U,2,2X,NG,ODD,2.24,-0.06
+2024-07-27 23:00:00,Puebla - Inter Miami CF,4.8,4.1,1.5,CCLCUP,-225.1,1.16,1.72,O,2,2X,GG,EVEN,2.85,-0.56
+2024-07-27 23:00:00,CRB Maceio - Santos FC,2.8,3.1,2.37,BR2,-150.16,1.17,1.35,U,X,2X,GG,EVEN,2.36,-0.18
+2024-07-27 23:00:00,Palmeiras - EC Vitoria Salvador,1.35,5.0,8.75,BR1,217.96,1.98,1.0,O,1,1X/12,NG,EVEN,3.07,0.98
+2024-07-27 23:30:00,Sportivo Luqueño - Sol de America,1.77,3.25,4.1,PY1,102.69,1.54,1.14,U,X,1X,GG,ODD,2.59,0.4
+2024-07-28 00:00:00,Coyotes de Tlaxcala FC - Club Atletico La Paz,1.95,3.3,3.25,MX2,4.5,1.63,1.06,U,X,1X,GG,EVEN,2.66,0.57
+2024-07-28 00:10:00,Independiente Santa Fe - La Equidad,1.75,3.2,4.75,CO1,41.25,1.43,0.53,U,1,1X/12,NG,ODD,1.98,0.9
+2024-07-28 00:10:00,Independiente Medellin - Atletico Junior,2.15,3.1,3.2,CO1,-38.98,1.24,1.12,O,1,1X,GG,ODD,2.49,0.12
+2024-07-28 01:00:00,Houston Dynamo - Atlas,1.88,3.4,3.3,CCLCUP,61.58,1.58,1.03,O,1,1X,NG,ODD,2.64,0.55
+2024-07-28 01:00:00,New England Revolution - Mazatlan FC,1.68,3.7,3.9,CCLCUP,12.86,1.95,1.16,U,1,1X/12,GG,EVEN,3.07,0.79
+2024-07-28 01:00:00,Jorge Wilstermann - Royal Pari FC,1.66,3.4,4.4,BO1,57.0,2.16,1.03,O,X,1X/12,GG,EVEN,3.31,1.13
+2024-07-28 01:00:00,New York Red Bulls - Toronto FC,1.58,3.8,4.5,CCLCUP,104.22,1.73,1.19,U,1,1X,GG,EVEN,3.04,0.54
+2024-07-28 01:00:00,Philadelphia Union - Charlotte FC,2.0,3.4,3.0,CCLCUP,-29.5,1.56,1.37,O,X,1X,GG,EVEN,2.95,0.19
+2024-07-28 01:30:00,Fortaleza EC - Sao Paulo,2.3,3.2,3.25,BR1,-36.88,1.42,1.25,U,1,1X,GG,ODD,2.62,0.17
+2024-07-28 01:30:00,Botafogo-RJ - Cruzeiro,1.93,3.4,4.1,BR1,26.99,1.39,0.92,U,1,1X,NG,ODD,2.36,0.47
+2024-07-28 02:00:00,AD Guanacasteca - CS Herediano,3.5,3.4,1.85,CR1,-198.78,1.27,1.58,U,1,2X,GG,ODD,2.7,-0.31
+2024-07-28 02:00:00,Mineros de Zacatecas - Dorados,1.44,4.2,5.25,MX2,202.77,1.95,1.03,O,X,1X/12,GG,EVEN,2.96,0.92
+2024-07-28 02:00:00,St. Louis City SC - FC Dallas,2.0,3.4,3.0,CCLCUP,-3.45,1.56,1.37,O,2,1X,GG,EVEN,2.95,0.19
+2024-07-28 03:00:00,AD San Carlos - Municipal Liberia,1.73,3.6,3.75,CR1,55.56,1.99,1.29,O,1,1X/12,GG,EVEN,3.16,0.7
+2024-07-28 03:00:00,Guadalajara Chivas - San Jose Earthquakes,2.3,3.4,2.55,CCLCUP,25.31,1.62,1.5,O,2,1X,GG,ODD,3.22,0.12
+2024-07-28 04:00:00,EC Bahia - Internacional,2.05,3.4,3.7,BR1,-4.42,1.24,1.24,U,1,X,NG,EVEN,2.53,0.0
+2024-07-28 04:00:00,Tampico Madero - Atletico Morelia,1.98,3.25,3.2,MX2,44.68,1.9,1.34,O,1,1X,GG,EVEN,3.1,0.56
+2024-07-28 11:00:00,Gyeongnam - Cheonan City,1.75,3.4,3.8,KR2,80.87,1.73,1.46,O,2,1X,NG,ODD,2.96,0.27
+2024-07-28 11:00:00,Jeonnam Dragons - Seoul E-Land FC,2.5,3.25,2.37,KR2,-15.18,1.38,1.16,U,1,1X,NG,ODD,2.54,0.22
+2024-07-28 11:00:00,Pohang Steelers - Gimcheon Sangmu FC,2.25,3.4,3.0,KR1,5.48,1.57,1.03,U,X,1X,NG,EVEN,2.62,0.54
+2024-07-28 12:00:00,Danubio - Liverpool FC Montevideo,2.87,3.2,2.25,UY1,-85.96,1.39,1.42,U,1,2X,GG,ODD,2.78,-0.03
+2024-07-28 12:35:00,Qingdao Hainiu - Meizhou Hakka,2.05,3.5,3.1,CN1,12.62,1.33,1.3,O,X,1X,GG,EVEN,2.61,0.03
+2024-07-28 12:35:00,Zhejiang Professional - Chengdu Rongcheng,3.4,3.8,1.85,CN1,-183.07,1.56,1.8,O,2,2X,GG,ODD,3.36,-0.24
+2024-07-28 13:00:00,Henan Songshan Longmen - Shandong Taishan,2.75,3.5,2.2,CN1,-59.39,1.4,1.54,U,1,2X,GG,EVEN,2.97,-0.14
+2024-07-28 14:30:00,CA Cerro - Rampla Juniors,2.15,3.2,3.1,UY1,43.86,1.31,1.25,O,2,1X,NG,ODD,2.46,0.06
+2024-07-28 15:00:00,CA Bragantino - Fluminense,2.1,3.3,3.5,BR1,32.71,1.51,0.91,U,1,1X,NG,EVEN,2.47,0.6
+2024-07-28 16:00:00,New Zealand (W) - Colombia (W),6.75,4.0,1.44,OLF,-201.61,0.87,1.6,O,2,2X/12,NG,EVEN,2.67,-0.73
+2024-07-28 16:00:00,Brazil (W) - Japan (W),2.65,3.25,2.4,OLF,-4.69,1.51,1.22,U,1,1X,GG,ODD,2.66,0.29
+2024-07-28 16:30:00,River Plate - Club Atletico Sarmiento,1.37,4.75,8.0,AR1,275.8,2.1,0.67,O,1,1X/12,NG,ODD,2.96,1.43
+2024-07-28 16:30:00,River Plate Montevideo - Racing Montevideo,2.65,3.2,2.45,UY1,-61.56,1.47,1.4,U,1,1X,GG,ODD,2.63,0.07
+2024-07-28 18:00:00,Australia (W) - Zambia (W),1.19,6.75,10.5,OLF,396.45,2.96,0.6,O,1,1X/12,NG,EVEN,3.63,2.36
+2024-07-28 18:00:00,USA (W) - Germany (W),2.15,3.25,3.1,OLF,125.2,1.52,1.12,U,1,1X,NG,ODD,2.45,0.4
+2024-07-28 18:00:00,Flamengo - Atletico GO,1.36,5.0,8.5,BR1,215.9,2.15,0.96,O,1,1X/12,GG,ODD,3.22,1.19
+2024-07-28 18:00:00,CS Cartagines - Santos de Guapiles,1.47,4.0,5.25,CR1,160.85,2.01,1.03,O,1,1X/12,GG,EVEN,3.07,0.98
+2024-07-28 18:00:00,Spain (W) - Nigeria (W),1.13,8.5,15.0,OLF,675.5,2.47,0.46,O,1,1X/12,NG,ODD,3.04,2.01
+2024-07-28 19:00:00,CA Banfield - Talleres Cordoba,3.2,3.1,2.3,AR1,-136.06,0.9,0.95,U,X,2X,NG,EVEN,1.87,-0.05
+2024-07-28 19:00:00,Estudiantes La Plata - Gimnasia La Plata,1.82,3.3,4.5,AR1,85.8,1.68,0.77,O,1,1X/12,NG,ODD,2.52,0.91
+2024-07-28 19:00:00,Nacional Montevideo - Boston River,1.49,4.0,5.75,UY1,215.38,1.66,0.7,O,1,1X/12,NG,ODD,2.38,0.96
+2024-07-28 20:00:00,CD Nublense - Universidad Catolica,2.35,3.3,2.9,CL1,-48.46,1.55,1.33,O,2,1X,GG,ODD,2.91,0.22
+2024-07-28 20:00:00,Guarani SP - Brusque SC,2.15,3.0,3.4,BR2,-2.27,1.29,1.02,U,1,1X,GG,ODD,2.42,0.27
+2024-07-28 20:00:00,France (W) - Canada (W),1.57,3.8,5.25,OLF,93.82,1.96,1.0,U,1,1X/12,GG,EVEN,2.82,0.96
+2024-07-28 21:00:00,Atletico Bucaramanga - Jaguares de Cordoba,1.7,3.3,4.75,CO1,49.46,1.13,0.65,U,1,1X,NG,ODD,1.77,0.48
+2024-07-28 21:00:00,General Caballero - Olimpia Asuncion,3.9,3.4,1.75,PY1,-207.89,0.99,1.96,O,2,2X/12,NG,EVEN,2.8,-0.97
+2024-07-28 21:15:00,Racing Club - CA Union Santa Fe,1.9,3.25,4.2,AR1,76.02,1.53,0.74,U,1,1X/12,NG,ODD,2.13,0.79
+2024-07-28 22:00:00,Forge FC - HFX Wanderers FC,1.98,3.25,3.2,CA1,91.47,1.9,1.34,O,1,1X,GG,EVEN,3.1,0.56
+2024-07-28 22:00:00,Puntarenas FC - Deportivo Saprissa,5.25,3.8,1.52,CR1,-278.18,0.99,1.25,U,2,2X,NG,EVEN,2.31,-0.26
+2024-07-28 22:00:00,Pacific FC - Valour FC,1.68,3.5,4.2,CA1,155.25,1.83,0.85,O,1,1X/12,GG,EVEN,2.87,0.98
+2024-07-28 22:30:00,Audax Italiano - Universidad de Chile,3.4,3.4,2.05,CL1,-110.72,1.34,1.45,O,2,2X,GG,ODD,2.68,-0.11
+2024-07-28 22:30:00,Nacional Potosi - Bolivar,2.7,3.25,2.25,BO1,-198.35,1.48,1.39,U,X,1X,GG,ODD,2.89,0.09
+2024-07-28 22:30:00,America MG - Ceara Sporting Club,1.93,3.25,3.6,BR2,9.29,1.62,0.88,U,1,1X/12,NG,EVEN,2.63,0.74
+2024-07-28 23:00:00,Atletico-MG - Corinthians,1.68,3.75,5.0,BR1,91.39,1.61,1.03,U,1,1X,GG,EVEN,2.64,0.58
+2024-07-28 23:00:00,Deportivo Pasto - Deportivo Pereira,2.4,2.9,2.95,CO1,-35.23,1.13,1.25,U,2,2X,GG,ODD,2.45,-0.12
+2024-07-28 23:00:00,Gremio Porto Alegre - Vasco da Gama,2.1,3.3,3.6,BR1,-4.53,1.5,1.0,U,1,1X,NG,EVEN,2.56,0.5
+2024-07-28 23:00:00,Deportivo Garcilaso - Cusco FC,2.15,3.2,2.87,PE1,-26.22,1.65,1.33,O,2,1X,GG,ODD,2.89,0.32
+2024-07-28 23:30:00,Libertad Asuncion - Nacional Asuncion,1.46,4.1,5.5,PY1,154.14,2.04,0.81,O,1,1X/12,NG,EVEN,3.03,1.23
+2024-07-28 23:30:00,Alianza Petrolera - Millonarios,3.4,3.1,2.1,CO1,-192.79,1.01,1.48,U,2,2X,NG,ODD,2.4,-0.47
+2024-07-29 00:00:00,Club Celaya - Atlante UTN,2.65,3.1,2.35,MX2,-131.92,1.28,1.22,U,2,1X,NG,ODD,2.36,0.06
+2024-07-29 00:30:00,Club Always Ready - Universitario de Vinto,1.49,3.8,5.5,BO1,116.39,1.69,0.81,O,1,1X/12,NG,ODD,2.56,0.88
+2024-07-29 00:30:00,Instituto AC Cordoba - Boca Juniors,2.8,3.0,2.6,AR1,-116.87,1.11,0.95,U,1,1X,NG,ODD,1.99,0.16
+2024-07-29 01:00:00,New York City FC - Queretaro FC,1.5,4.0,5.0,CCLCUP,154.29,2.01,1.01,U,1,1X/12,GG,ODD,3.06,1.0
+2024-07-29 01:00:00,Alajuelense - Municipal Santa Ana,1.25,5.5,8.5,CR1,296.82,2.47,0.87,O,1,1X/12,GG,ODD,3.23,1.6
+2024-07-29 01:00:00,Union La Calera - Huachipato,2.6,3.3,2.6,CL1,-94.15,1.68,1.27,O,1,1X,GG,EVEN,3.02,0.41
+2024-07-29 01:30:00,Leon - Portland Timbers,2.6,3.25,2.3,CCLCUP,-47.64,1.39,1.52,O,2,2X,GG,ODD,2.88,-0.13
+2024-07-29 02:00:00,Sporting Kansas City - Chicago Fire,1.93,3.5,3.1,CCLCUP,-27.28,1.03,1.21,U,1,2X,GG,EVEN,2.16,-0.18
+2024-07-29 09:30:00,Gimpo FC - Suwon Bluewings,3.3,3.2,1.95,KR2,-137.96,1.24,1.11,U,1,1X,GG,ODD,2.45,0.13
+2024-07-29 11:30:00,Busan I Park - Cheongju FC,1.75,3.3,4.0,KR2,109.47,1.6,1.44,U,1,1X,GG,EVEN,2.94,0.16
+2024-07-29 17:00:00,El Ahly - Ceramica Cleopatra FC,1.34,4.5,7.0,EG1,260.87,1.82,0.77,U,1,1X/12,NG,EVEN,2.7,1.05
+2024-07-29 19:00:00,Barracas Central - Atletico Tucuman,2.65,3.1,2.7,AR1,-79.98,1.1,1.25,U,2,2X,NG,EVEN,2.32,-0.15
+2024-07-29 19:00:00,Al Mokawloon - Zamalek,4.2,3.3,1.72,EG1,-191.93,1.0,1.78,U,2,2X/12,NG,EVEN,2.56,-0.78
+2024-07-29 20:30:00,CSD Defensa y Justicia - CA Platense,2.15,2.95,3.7,AR1,13.56,1.24,1.03,O,1,1X,NG,EVEN,2.16,0.21
+2024-07-29 20:45:00,CA Tigre - Deportivo Riestra,2.37,2.9,3.25,AR1,-16.49,1.05,1.19,U,2,2X,NG,EVEN,2.28,-0.14
+2024-07-29 21:00:00,Cuiaba - Athletico PR,2.65,3.1,2.75,BR1,-161.74,1.15,1.27,U,X,2X,GG,EVEN,2.35,-0.12
+2024-07-29 22:30:00,Paysandu SC - Novorizontino,2.05,3.0,3.6,BR2,-9.48,1.15,1.38,U,1,2X,NG,EVEN,2.53,-0.23
+2024-07-29 22:45:00,Central Cordoba - Velez Sarsfield,3.9,3.2,2.0,AR1,-204.72,0.93,1.26,U,2,2X,NG,EVEN,2.14,-0.33
+2024-07-29 23:00:00,Goias EC - Amazonas FC,1.78,3.2,4.6,BR2,65.52,1.8,0.69,U,1,1X/12,NG,ODD,2.44,1.11
+2024-07-30 01:00:00,Argentinos Juniors - Atletico Lanus,2.1,3.25,3.4,AR1,62.5,1.58,0.92,U,1,1X/12,NG,EVEN,2.5,0.66
+2024-07-30 01:00:00,CA Belgrano - Godoy Cruz,2.4,2.95,3.1,AR1,-65.6,1.08,1.25,U,X,2X,GG,EVEN,2.42,-0.17
+2024-07-30 01:00:00,CD Cobreloa - CD Palestino,3.0,3.3,2.25,CL1,-83.0,0.97,1.41,O,2,2X,GG,EVEN,2.45,-0.44
+2024-07-30 01:30:00,Fortaleza FC - Deportivo Cali,1.83,3.25,4.1,CO1,85.63,1.57,0.93,U,1,1X,GG,EVEN,2.36,0.64
+2024-07-30 15:30:00,El Daklyeh - Talaea El Gaish,3.8,3.1,1.87,EG1,-115.02,0.78,1.49,U,2,2X/12,NG,ODD,2.28,-0.71
+2024-07-30 19:00:00,Baladiyat El Mahalla - Ismaily SC,4.0,3.25,1.77,EG1,-138.33,0.95,2.08,U,2,2X/12,GG,EVEN,2.8,-1.13
+2024-07-30 19:00:00,Pharco FC - Pyramids FC,5.5,3.75,1.5,EG1,-235.28,1.05,1.34,O,2,2X,NG,EVEN,2.3,-0.29
+2024-07-30 21:00:00,Sport Huancayo - Universidad César Vallejo,1.71,3.3,4.2,PE1,-2.78,1.41,0.82,O,1,1X,NG,ODD,2.33,0.59
+2024-07-30 23:00:00,EC Juventude - Fluminense,2.25,3.1,2.85,BRCUP,-49.17,1.13,1.43,U,2,2X,GG,ODD,2.62,-0.3
+2024-07-30 23:00:00,Avai SC - Botafogo SP,1.78,3.1,4.75,BR2,71.93,1.77,0.63,O,1,1X/12,NG,ODD,2.34,1.14
+2024-07-31 01:30:00,Botafogo-RJ - EC Bahia,1.77,3.2,4.33,BRCUP,55.5,1.64,0.67,U,1,1X/12,NG,ODD,2.36,0.97
+2024-07-31 21:00:00,Sao Paulo - Goias EC,1.26,5.25,8.5,BRCUP,198.78,2.28,0.85,O,1,1X/12,NG,ODD,2.98,1.43
+2024-07-31 22:30:00,CA Union Santa Fe - Rosario Central,2.3,3.0,3.3,AR1,38.63,1.15,1.1,U,1,1X,NG,ODD,2.15,0.05
+2024-07-31 23:00:00,CRB Maceio - Atletico-MG,4.2,3.4,1.71,BRCUP,-228.91,1.13,1.5,U,X,2X,GG,EVEN,2.46,-0.37
+2024-07-31 23:00:00,Athletico PR - CA Bragantino,1.9,3.1,3.7,BRCUP,6.5,1.32,1.08,U,1,1X,NG,ODD,2.37,0.24
+2024-08-01 00:00:00,Corinthians - Gremio Porto Alegre,1.98,3.1,3.6,BRCUP,5.49,1.5,1.08,U,1,1X,NG,ODD,2.46,0.42
+2024-08-01 00:30:00,Boca Juniors - CA Banfield,1.65,3.7,5.0,AR1,107.78,1.49,0.95,O,1,1X,GG,EVEN,2.47,0.54
+2024-08-01 01:30:00,Atletico GO - Vasco da Gama,2.1,3.1,3.1,BRCUP,-39.34,1.45,1.0,U,1,1X,NG,EVEN,2.42,0.45
+2024-08-01 22:00:00,Flamengo - Palmeiras,1.98,3.3,3.3,BRCUP,13.09,1.58,1.33,O,1,1X,GG,ODD,2.95,0.25
